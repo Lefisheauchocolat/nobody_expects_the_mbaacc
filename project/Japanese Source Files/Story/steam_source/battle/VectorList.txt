@@ -1,0 +1,411 @@
+
+// X,Y,AddX,AddY
+[VectorList]
+Vec_000 =    980,    0,  -70,    0 // “ªŽã
+Vec_001 =   1380,    0,  -75,    0 // “ª’†
+Vec_002 =   1680,    0,  -80,    0 // “ª‹­
+Vec_003 =    980,    0,  -70,    0 // • Žã
+Vec_004 =   1380,    0,  -75,    0 // • ’†
+Vec_005 =   1680,    0,  -80,    0 // • ‹­
+
+Vec_006 =    100,-1200,    0,  150 // ‘«•¥‚¢
+Vec_007 =    250,-2200,    0,  150 // ƒ_ƒEƒ“
+Vec_008 =    800,-1700,    0,  150 // ‹ó’†‚â‚ç‚ê
+Vec_009 =   2800,    0,    0,    0 // ‰¡‚«”ò‚Ñ
+
+Vec_010 =      0,-3100,    0,  150 // ã‚«”ò‚Ñ
+Vec_011 =    700,-2800,    0,  150 // ŽÎ‚ßã‚«”ò‚Ñ
+Vec_012 =     10, 3800,    0,  150 // ^‰º’@‚«‚Â‚¯
+Vec_013 =   2800, 2500,    0,  150 // ŽÎ‚ß‰º’@‚«‚Â‚¯
+Vec_014 =    400,    0,  -20,    0 // ‚æ‚ë‚¯
+
+Vec_015 =    100,-8100,    0,  150 // ’´ã‚«”ò‚Ñ
+Vec_016 =      0,    0,    0,    0 // ŒÅ‚ß
+Vec_017 =      0,    0,    0,    0 // ‚Ì‚¯‚¼‚ç‚È‚¢
+
+Vec_020 =    800,    0,  -40,    0 // ƒWƒƒƒ“ƒvUŒ‚—pƒxƒNƒgƒ‹
+Vec_021 =      0,-2900,    0,  150 // ã‚«”ò‚Ñ2
+Vec_022 =   1800,    0,  -80,    0
+Vec_023 =    900,-2200,    0,  150 // ƒ_ƒEƒ“2
+Vec_024 =    100,-1200,    0,  150 // ƒ_ƒEƒ“3 ’á‚¢‚â‚ç‚ê
+
+Vec_025 =   2800,-1300,    0,  150 // 
+Vec_026 =      0,    0,    0,    0 // 
+Vec_027 =   2200, 2500,    0,  150 // ŽÎ‚ß‰º’@‚«‚Â‚¯
+Vec_028 =   1200, -700,    0,  150 // ƒ_ƒEƒ“’†H‚ç‚¢
+Vec_029 =      0,    0,    0,    0 // ƒxƒNƒgƒ‹‚È‚µ‚Ì‚¯‚¼‚èi’¼ÚŽg‚í‚È‚¢j
+
+Vec_030 =     -8,-6300,    0,  150 // ƒ‰ƒEƒ“ƒhƒŠƒbƒvƒZƒCƒo[ã‚«”ò‚Ñ
+Vec_031 =   1000,-3800,    0,  150
+Vec_032 =      0,-1000,    0,   30 // ‹ó’†ƒNƒ‰ƒbƒVƒ…
+
+Vec_035 =   3600,-1900,    0,  150 // ‘æŽµ¹“T‰¡‚«”ò‚Ñ1
+Vec_036 =   2200,-1200,    0,  150 // ‘æŽµ¹“T‰¡‚«”ò‚Ñ2
+
+Vec_057 =    500,-2000,    0,  150 // ‹ó’†ƒ_ƒEƒ“‚â‚ç‚ê
+
+Vec_060 =   1000,-2200,    0,  150 // •ÇƒoƒEƒ“ƒhƒxƒNƒgƒ‹
+
+Vec_099 =   1800,-1800,  -70,  150 // •‚‚«ƒK[ƒhƒxƒNƒgƒ‹
+Vec_100 =   1000,    0,    0,  150 // ‹ó’†ƒK[ƒhƒxƒNƒgƒ‹
+
+Vec_101 =   -100,-1500,    0,  150 // ’nãŽó‚¯gQ’Z
+Vec_102 =   -900,-1800,    0,  150 // ’nãŽó‚¯gQ’·
+Vec_103 =    800,-2800,    0,  150 // ‹ó’†Žó‚¯gQ‘O
+Vec_104 =   -300,-1400,    0,  150 // ‹ó’†Žó‚¯gQ’†
+
+Vec_105 =   -800,-2300,    0,  150 // ‹ó’†Žó‚¯gQŒã
+Vec_106 =   1300,-1900,    0,  150 // ’nãŽó‚¯gQ’·
+
+
+
+
+//
+// Num = ƒxƒNƒgƒ‹ŒÂ”
+// UkemiTime = ƒfƒtƒHƒ‹ƒg‚ÌŽó‚¯g•s‰Â”\ŽžŠÔ
+// KoCheck = KOŽž‚É”ò‚Î‚·ƒoƒEƒ“ƒh”Ô†
+// Prio = ƒvƒ‰ƒCƒIƒŠƒeƒB
+// PrioPat = ƒvƒ‰ƒCƒIƒŠƒeƒB‚ª’á‚©‚Á‚½ê‡A‚±‚Ì”Ô†‚ÌƒoƒEƒ“ƒh‚ðŽg—p‚·‚é
+// VecNum - Žd—lƒxƒNƒgƒ‹ƒŠƒXƒg‚Ì”Ô†
+// TimeEndPat -> ŽžŠÔŒo‰ß‚ÅI—¹‚µ‚½Žž‚É”ò‚Ôƒpƒ^[ƒ“”Ô†i’Êí,ƒK[ƒhj
+// VecEndPat  -> I—¹‚µ‚½Žž‚É”ò‚Ôƒpƒ^[ƒ“”Ô†i’Êí,ƒK[ƒhj
+//
+// ƒxƒNƒgƒ‹•”•ª
+// VecNum HitAni GuardAni Time VecTime Flag
+//
+// VecNum -> ŽQÆƒxƒNƒgƒ‹
+// HitAni -> HITŽž‚Ìƒpƒ^[ƒ“”Ô†
+// GuardAni -> ƒK[ƒhŽž‚Ìƒpƒ^[ƒ“”Ô†
+// Time -> ‰æ–Ê’[‚ÅƒxƒNƒgƒ‹‚ð‘ŠŽè‚É’µ‚Ë•Ô‚·ŽžŠÔ
+// VecTime -> ƒxƒNƒgƒ‹‚ª”­¶‚·‚éŽžŠÔ -1‚È‚ç’…’n‚Ü‚Å
+// 
+//
+// Flag•”•ª
+//   Flag bit0-> •Ç‚É‚Ô‚Â‚©‚Á‚½‚ç’µ‚Ë•Ô‚é‚©
+//   Flag bit1-> •Ç‚Ô‚Â‚©‚èŽž‚É”š”­‚ð‚¾‚·‚©
+//   Flag bit2-> ’…’nŽž‚É‰Œ‚ðo‚·‚©
+//   Flag bit3-> d‚È‚è”»’è‚ð–³‚µ‚É‚·‚é‚©
+//   Flag bit4-> ’…’nŽž‚ÉVecEndPat‚ðŽQÆ‚µ‚ÄI—¹‚³‚¹‚é VecEndPat ‚ª -1 ‚È‚çƒpƒ^[ƒ“ˆÚs‚µ‚È‚¢
+//                      i’nãŽó‚¯g‚Æ‹ó’†ƒK[ƒh‚ÅŽg—pj
+//   Flag bit5->
+//   Flag bit6->
+//   Flag bit7-> ƒK[ƒhƒtƒ[ƒgƒtƒ‰ƒOi“ÁŽêj
+//
+//
+// Žó‚¯g’†‚ÍUkemiTime‚ª–³“GŽžŠÔ‚É‚È‚è‚Ü‚·
+
+[BoundList_000]
+Name = “ª‚â‚ç‚êŽã
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 57
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  0,300,320,14,14,00000000
+
+[BoundList_001]
+Name = “ª‚â‚ç‚ê’†
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 57
+EndPat = 0
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  1,300,320,17,17,00000000
+
+[BoundList_002]
+Name = “ª‚â‚ç‚ê‹­
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  2,300,320,20,20,00000000
+
+[BoundList_003]
+Name = • ‚â‚ç‚êŽã
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 57
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  3,301,320,14,14,00000000
+
+[BoundList_004]
+Name = • ‚â‚ç‚ê’†
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 57
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  4,301,320,17,17,00000000
+
+[BoundList_005]
+Name = • ‚â‚ç‚ê‹­
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  5,301,320,20,20,00000000
+
+[BoundList_006]
+Name = ‘«•¥‚¢
+Num = 1
+UkemiTime = 20
+KoCheck = 1
+Prio = 100
+PrioPat = 0
+TimeEndPat = 311, 311
+VecEndPat  = 311, 311
+Vec00 =  6,306,18,-1,10,00000000
+
+[BoundList_007]
+Name = ƒ_ƒEƒ“
+Num = 1
+UkemiTime = 20
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  7,305,19,-1,8,00000000
+
+
+[BoundList_008]
+Name = ‹ó’†‚â‚ç‚ê
+Num = 1
+UkemiTime = 20
+KoCheck = 0
+Prio = 11
+PrioPat = 57
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  8,305,19,-1,8,00000000
+
+[BoundList_009]
+Name = ‰¡‚«”ò‚Ñ
+Num = 1
+UkemiTime = 30
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  9,305,19,-1,0,00001001
+
+[BoundList_010]
+Name = ã‚«”ò‚Ñ
+Num = 1
+UkemiTime = 30
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 312, 312
+VecEndPat  = 312, 312
+Vec00 =  10,308,19,-1,8,00000000
+
+[BoundList_011]
+Name = ŽÎ‚ßã‚«”ò‚Ñ
+Num = 1
+UkemiTime = 30
+KoCheck = 11
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  11,305,19,-1,8,00000000
+
+[BoundList_012]
+Name = ^‰º’@‚«‚Â‚¯
+Num = 1
+UkemiTime = 40
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  12,305,19,-1,0,00000000
+
+[BoundList_013]
+Name = ŽÎ‚ß‰º’@‚«‚Â‚¯
+Num = 1
+UkemiTime = 40
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  13,305,19,-1,0,00000000
+
+[BoundList_014]
+Name = ‚æ‚ë‚¯
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  14,300,320,-1,0,00000000
+
+
+[BoundList_015]
+Name = ’´ã‚«”ò‚Ñ
+Num = 1
+UkemiTime = 999
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  15,305,19,-1,0,00000000
+
+[BoundList_016]
+Name = ŒÅ‚ß
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  16,301,320,-1,0,00000000
+
+[BoundList_017]
+Name = ‚Ì‚¯‚¼‚ç‚È‚¢
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+Vec00 =  17,0,17,0,0,00000000
+
+
+[BoundList_030]
+Name = ‹ó’†ƒNƒ‰ƒbƒVƒ…
+Num = 1
+UkemiTime = 30
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 312, 312
+VecEndPat  = 312, 312
+Vec00 =  32,308,99,-1,8,00000000
+
+
+
+[BoundList_040]
+Name = •‚‚«‹ó’†ƒK[ƒh
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 325, 325
+VecEndPat  = 326, 326
+Vec00 =  99,322,322,-1,10,10010000
+
+
+[BoundList_050]
+Name = ‹ü‚â‚ç‚êŽã
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 13, 324
+VecEndPat  = 13, 324
+Vec00 =  0,302,321,14,14,00000000
+
+[BoundList_051]
+Name = ‹ü‚â‚ç‚ê’†
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 13, 324
+VecEndPat  = 13, 324
+Vec00 =  1,302,321,17,17,00000000
+
+[BoundList_052]
+Name = ‹ü‚â‚ç‚ê‹­
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 13, 324
+VecEndPat  = 13, 324
+Vec00 =  2,302,321,20,20,00000000
+
+
+[BoundList_055]
+Name = ƒWƒƒƒ“ƒvUŒ‚‚Ì‚¯‚¼‚è—§
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  20,300,320,19,19,00000000
+
+[BoundList_056]
+Name = ƒWƒƒƒ“ƒvUŒ‚‚Ì‚¯‚¼‚è‹ü
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 13, 324
+VecEndPat  = 13, 324
+Vec00 =  20,302,321,19,19,00000000
+
+[BoundList_057]
+Name = ‹ó’†ƒ_ƒEƒ“‚â‚ç‚ê
+Num = 1
+UkemiTime = 16
+KoCheck = 1
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  57,305,0,-1,10,00000000
+
+[BoundList_058]
+Name = ‚Ó‚ñ‚í‚è‘Å‚¿ã‚°
+Num = 1
+UkemiTime = 30
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 312, 312
+Vecì5«zj[½lhR±Sl³™i6áôVS§§IF¹­@Z½˜C]©_^¿–YB¦™HE¨œKu–¢t ÝÝôÆùíòÑç·±‘æ‡åßàïŽü°bFbYE~rH&YO,ìÝ•Òµ¾‚¢ãç¨¨“²ÍÈ ˆÂÅ©ÿ“‹üÒ¼¤™Š÷Ù°‹Ü”åËŠºÑ¾ÏÓ±ÑýÐÄóÍî§´ªˆª¨²ÊÀìùà
+›¥f—¡—V´¦Ö4øæÈ>÷øÏ>ìÖõD„½G{€±dlÇÄ5;ÙÖ92ÍÙ?ýçGAÀ$ËÓ7ÈÚ)ÄÕ,	ÓÑ2Ó52	85$6w}a~A&]gA1K!xJ2{z^n :µ¢²›Â¢{Ç?+)	/Dw}$G5DI=
+fF>vY5?xP9UbRp3h%6(
+XzdYKGM;$%>à$mL¤c]~Ó?>Ï72*ì(y@°lnµ¿Bl±£hhÐü çø;	ø¿NV¯‘CX¾…GC£¥}"ýÈJG»“]Z¯°Q’†±¬—…´¯Š‹¥·š‘¼¹ñ¿¼€óŸ…¾ÌÎÐÙ¼öñõ¥èìãÿ¨ªâß«Ð£¸Áøø7úAa8çIu/hLN$7EI&ÄVL»¹™ŸÔ–çÍ´×¥ÔÙš–ÖŽ“åÿÆÍøÈã·¤‹„š­ Ï?ñþÿ„£œg÷éØ:êçö¨—~°¼u4ÞÀ4ì·nwŒ£dy¼ˆy ÒÌ#ÂÃ3ÄÂ#®zi•œLNŠÛ?!Í(!	7	"mod-7a!?w#%v/?{5&},)`.,p^(IgM37Li /_w|ivBhO? uæù¶‡ùzµðìÿ¸ñò/¾$÷ÐÃzLi{JOAC8ë*!×;"¦hrB¹U_2ã0ì5{B²QSˆÅê¸ZD¹«ZjÎáñ±™S@™­"úÏ<þý½_O‘®_‡·¬ïíæìÒïØÍË®«’â¢¿€é´¢„úšžî®ù§‹î ºžà“±òä–ŒõîŠŽöö™Šúíœ™ýÐŸœÝéäÊ°Ö„’ëÉ˜„èÀˆˆäÃ‚óßð’ÒÙôñÕÈ÷ôØËÇÍæô–ˆt¾©½m ¤«7ààªÓ˜›`¹ùÀ0Mœ‚¸`¹f…\kvŠtæâBjƒË2ÃãpŸ”xA£uNÚÊ;Í÷zo¾IQ`k
+&3*0YtCR,4q?<=IB}Z)EsBi%5	ALU"{^Q6q6uvihhFT{O-$^IGtZ fXi\4W&Z_PCbCVtpJJxpEMrdANb{C²a~BµdaE…]èjf[³}zO¡Ln±¬OQ½»KR«ªEVº­\Y½_aš®x4ÑÉ òåíóKN¨òsqÑÓì‚ˆ¤F(/xz<Ü‡¤åà‘ù³¡¹ÍÃøÒ§ðÂÓ ù¹€ð¬¬ÍÙéð€¾ÀÁ­ù•…ùÑ¡ø¾¶Á‹òÂ€žâè¾á§Øä¹ŸšŠûÞ°°Š˜­Ø¤š§…ƒæþÇÉøôÆÝÿøßÅš•`—¡—V´¦Ö)åõÊ=éôÜ<ïéò·»a%ÔÁ88ÇÖ97Ù×32ÜÓ"ÁÁ)ÃÀ$ÆÃ'ôü'§»rE‘˜lZq‹|37{4KHQn(¡­ “é°¯Ÿ¼·v>w7n,4Kx,=wI)2gj$,2oA(DmC"Y6G[9Ih\62WT5_Uqvhr-).,>N¼p}]¤`bGŠ\é8Ý=-]°b|°¿Bl±¥hhÐüU¹¼VH¬­\G¼’AB¡—D]§˜[F¨‡JG«žMJ®w¬¾ØÂËÂèçëÓúòõº¿ðÍ…ÂÑ®÷¯Žæn4+r;&5>ž“‘ñ§Ì¾ÿõ•¬ÏÌÁ¥²þÎ¦»—îÑ½§š‹ðØ±„Ý“êÊˆ»Ð½ÎÐ²Ð‚œÑÃÏµ³„¬­¶˜¼åÔÜþÿáõš¢‚g” –Uµ¥Õ5÷åË'úäÉ:ÐÐ¨tƒ˜op³p7ÆÞ'+ÚÊ*.ÞÝ *¹‰sÂÏ.ÕÀ$ËÅ+ ÈÊ-ÌË3 1Ò4174%1p|b@%\dB0L pK=x{_m!9¾œYÃÀ NN\kW+yxQ!}':CB\KrXee=7(RR8~AM71*/DJfrWJDL:%&=á;lM£bByÒ<?Ì61)í/xA¯mjO¾Am³¥ikÓý!æÿ:ÿ¾MW®’A]½„@A¤ª|%òÉIFº\Y¯ƒSO†®Nšš¨³Šˆº©™Œ»¸œ¾»¢Èœ„é‡ûäÛ¬ÛýË¿Å§öÀ—´ŸÁð¤ôž€QU$E;GH/öN¥,?ÝéüÚ¾Æˆ’çä²à²‰ÖÑˆ†ÓÞÿÏáŒÒøÎŠŠ»¯¡‹êúËÎÀÀ¾s¹¢Ñ9óáÄ7ÛÙ§x°¹ªl¨ùÀ0ïÑ
+G‹²fS‹†VxœÅ4<ØÙ<3ÎØ>üäD@—´{L§•lÚÊ;ÌÊ23Ì9	VAT63)&	 :u#=	o?>w'>y(%	|+(1EdNk,1hH6,x~bw*ALG+AÀ‚½…ÄÞ¥gÞË©·ØÆ¨Ëß¡26./^VwOl,# !nvO°aCxÎ;í4?X¶zgv„(þ@`¡¥SP‰6îõ9þ½QI½­e8ùÎ*ýÂ%â‰EUªKT¼œOK’¸×ÁðêåõÙó¤ˆ†ª´šŽ¡ªð €»’öó„÷¶®—êª£–þ¬¬‘á¦°íâŽ¯ïæ•’öé˜•ùÑ¡þ©¼žšïß‘ŽáÓ˜‚åÝ›…áÇ—†÷Þ‘ŠîÁðÑÄóÍîúÌÎí÷Ã¨’¹§‰L¦¿„\âøÃ[ØØ¸hµ°Ù1ûM;Œ±Xº‘r]j–œbK›€gƒà©~sÍ×.ýçDO–}sŸžr
+ÄÖ+ñóV_¼”EPiß5,izlF6(>%cg]ueu7$5AN~V+XtZAiaiuf
+tk+@IJK|1nFgEh]62
+
+]oR|BCtmVHrhYCfjZR|zB±`}A´c`DŠ\^}‡SyU­Òªÿ?Ï;ëá ñæéTæ–3ûìç©þÿðqöÛä35ð£gÿ²Y¡#ŽŠÿõéöÉÞÅïÙÉÓ¹”ðÒºóâÖæ¨²$§v7?7,¨Ê-ˆ¬”Œ Éøø–©ÂŽÁÂ¦·ùÃ£„ñÔ¾ºŸˆõÛ²‰Ò–çÍŒ´× ÍÕÓÿŸÒÆõÏì©º¬†¬ª¼ÌÂîûâ…§Ÿ`‘¿‘X¶ Ø6úúÊ"ý÷Ïê‹dw¦Ž`G‡—':ÔÆ',ÀÉ âæFF‘ß#ÈÒ6ÈÄ5ËÁ0Ç×/1Ò4074%1p|b@%\dB0L vK=x{_m!9¯>ÿÎ  °Ó1¤sÔî%/)Fq&E7ZK?`X8	x[7=~R;+\TsMn'4*Ztf[M|DgÐ=%Ó3;S»ub{ƒ<é6ß?/_¯As³¹DL´•m2íø/	ïÎ®MM¼•_P¹–{yÁÏFªAY½ONŒ€²F‡¼®–•¸©™Œ»¹¾»¢Èœ„é‡ûäÛ¬ÛýË¿Å§‚üÀ—´ŸÁð¤ôž€V¹)@I)+	Zº-ø\¯¢¦ž–ßîÆ„¿Ü¼ÓÐ´…ïÑ±Šž†ÿÂÌ´©š‡©€›¬äÕÛúÊá®¿£!ííÀ4ãÝþW¤º˜Z¸¢Ú0üéð‹µmv§±gF„–&$ÈÈ80ËÅ=ä½jA´€vu•…5ÊÔ5Ö×6ððHTcÍ> 65	855%l?  s"?v%";CbtmR+RrL&~.{fy,OFI-{À­¿¬À’²‚Á²aÅ(;9TgM4W%TYVeFH~Hc7$- O¿q~#çwiXºjgv„(þ0<õ´^@´šl7î÷#äù<ù€RL R_ž¬#õìÉÍX¼’^K³’±s¨ãáâ•ˆ§¹ˆ›»·˜’¾º™í¡´ô¿ ˜÷¦£‡ú©¦ŠÀ–”·‹Ýóµ½ÆÓª¥ÑýöàœøÄÖåÉ¡ºŽ–ïiB<TkG3zxÐ5‰y<ºÑ È×þÌàŒìþ–«š¯—Ž—¬æ×Ýþùà
+„£³k·¬˜&èòÆÒ…‹e´øÁ/ïëÏëŽp|‹±dlÇÙ(+çí_w€KO”½pPÓÍ4ÚÓ''ó N¹—y`žˆ ?ß%2+3^`J;(.:v==r8 d'8g*'~-*a-L^xb+"HG3ZRmm%b1WnF¾ÁÄï¶ÆÛÃ«_Ý>²ØRxKUyaTuM'.? /N¼pE‰YÄ>6áykZ½QS-â63 ®Bn³¦hhÖë
+ÙýH±¿^f…ö÷àÅÉT¥‹J[»žppÈÔã8ÏÐÓáÐ—¦¾‡Š¥¦š°†ßÈ£¿¼þ²¯‚ö ¾…ù¯¹ˆõ·¨ÿ²«â‘®òå”¬ÏÕ­©ÂÖ ªÁ…ïÅ»Ôá¸—ÇïäÞŽîÚà÷×·ˆœ„ýsà?¥pQ-$tgQD{wÈã²¾¥ÌÂîúâ„¥—h½…œe²ôÅ+ëçö–µ½y…¾j4ÞÀ4ì³us†Æ7=ÕÐ4âæ@Q›€CGÒ+	Èøx’•yjŸOSuÞ70'7}[nO@%@lEd3-t''j*'@OX3/,`n?qn	vleq}oRbU<_e=9R0xX. Yv74bQMzi}"
+i{J6Ê2
+ÏãŽXëuoV¸U_,ç>5Û76²\~»¬]lÓ'àþ	«£MZƒ« øËSM´•FCš )óÂ,éB\¾ˆ+ÊÛàÇÈÝØäÝœ¶¨ŸŽ¾§ñ ¾¿ÏÂôÖùðèªî·›ó½©áŒ½òå“­ÎÃÀ÷ê‰›êý›…þÐš€àÏŸžÿ×…žæÙˆ…éÜ‹ˆÑå³±ÒøÌ´ïÿŸƒŠ© »š§·‡›’úÞ1ÀûJ²½‘'ëód [4xê^3Ýž<Ñ
+[‹«Ps‘Â;9åïNiŠšhL‹Ÿ/Ñã(þü%ýùp²žo}‰•nl÷¯×#= 	µ¼);
+<'Ë¢,c#=>L—Ú´ü8(}¯Žþo/tX.³ñËæµ­{xn  ÜÕ¾ÎqYYm;9Z`4<Wgg|)b1jçÿ¬Íõ=Á(ú/Æâ\vhTO~Fe[Cxˆ^
