@@ -1,5 +1,5 @@
 # Nobody expects the MBAACC translation!
-![Nobody expects the spanish inquisition!]("/Nobody expects the MBAACC.png")
+![Nobody expects the spanish inquisition!]("https://github.com/Lefisheauchocolat/nobody_expects_the_mbaacc/blob/main/Nobody%20expects%20the%20MBAACC.png")
 
 ## Affected [  ].p Files
 
