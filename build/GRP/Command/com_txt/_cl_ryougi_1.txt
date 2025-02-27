@@ -1,0 +1,182 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA  3 - etc
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+//[cm_000]
+//Name = 立ちＢ派生（通常技）
+//Type = 0
+//Cmd = B.B
+
+//[cm_000]
+//Name = 地対空斬り（特殊技）
+//Type = 0
+//CmdSub = 
+//Cmd = 3B
+
+[cm_000]
+Name = Double Belfry
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+Child = 1
+Child = 4
+Child = 7
+
+[cm_000]
+Name = Double Belfry Chain 1
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+Child = 1
+Child = 2
+
+[cm_000]
+Name = Double Belfry Chain 2
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_000]
+Name = Double Belfry Chain 3
+Type = 0
+CmdSub = 
+Cmd = 214AoBoCoD
+
+[cm_000]
+Name = Double Belfry Chain 4
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+Child = 1
+Child = 2
+
+[cm_000]
+Name = Double Belfry Chain 2
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_000]
+Name = Double Belfry Chain 3
+Type = 0
+CmdSub = 
+Cmd = 214AoBoCoD
+
+[cm_000]
+Name = Double Belfry Chain 3
+Type = 0
+CmdSub = 
+Cmd = 214D
+
+[cm_000]
+Name = Double Belfry - Row of Beads
+Type = 1
+Cmd = 236C
+
+[cm_000]
+Name = Glass Moon
+CmdSub = 空中
+Type = 0
+Cmd = 236AoBoC
+
+[cm_000]
+Name = Glass Moon
+CmdSub = 空中
+Type = 1
+Cmd = 236C
+
+[cm_000]
+Name = Yin Yang Spiral
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_000]
+Name = Avidya Moon
+CmdSub = 
+Type = 0
+Cmd = 214AoBoC
+
+[cm_000]
+Name = Avidya Moon
+CmdSub = 
+Type = 1
+Cmd = 214C
+
+[cm_000]
+Name = Ying Yang Mother-of-Pearl
+CmdSub = 
+Type = 0
+Cmd = 421AoBoC
+
+[cm_000]
+Name = Hidden Dagger
+CmdSub = 空中可
+Type = 0
+Cmd = 22AoBoC
+Child = 1
+
+[cm_000]
+Name = Dagger Pickup
+CmdSub = ナイフの近くで
+Type = 0
+Cmd = 22AoBoC
+
+[cm_000]
+Name = Hidden Dagger
+CmdSub = 空中可
+Type = 1
+Cmd = 22C
+Child = 1
+
+[cm_000]
+Name = Dagger Pickup
+CmdSub = ナイフの近くで
+Type = 0
+Cmd = 22AoBoC
+
+[cm_000]
+Name = Stumbling Cat
+Type = 0
+CmdSub = 空中受身可能時
+Cmd = 44o66o22AoBoC
+
+[cm_000]
+Name = Stumbling Cat
+Type = 1
+CmdSub = 空中受身可能時
+Cmd = 44o66o22C
+
+//AD AAD LA
+[cm_060]
+Name = Mystic Eyes of Death Perception - Five Scenic Collapse
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = Mystic Eyes of Death Perception - Seven Scenic Demise
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = Pure Knowledge - Empty Boundaries
+Type = 100
+CmdSub = LA

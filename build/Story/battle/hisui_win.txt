@@ -1,0 +1,38 @@
+
+255  0  0	Hisui_W0AA04.adx Um, estas  herido?
+255  0  0	Hisui_W0AA05.adx Pido  disculpas.¡No respondo bien a que  me toquen, entonces.
+255  0  0	Hisui_W0AA06.adx Fue una pelea  real,¡asi que me esforce  tanto como pude.¡Um,  estas bien?
+255  0  1	Hisui_W0AA07.adx Uff.¡Ahora volvere a  limpiar la mansion. 
+255  0  0	Hisui_W0AA08.adx Ah, eso dio miedo.¡Por favor, no vuelva a actuar de esa manera. 
+255  0  0	Hisui_W0AA09.adx Fue eso aceptable?¡Nunca fui muy buena con las  escenas de lucha.
+255  0  1	Hisui_W0AA10.adx No estas lo suficientemente calmado. Por tu propio bien,¡Creo que deberias cambiar tus malos modales. 
+255  0  0	Hisui_W0AA11.adx Estoy sorprendida.¡Las sartenes en estos dias seguro que son duraderas. 
+255  0  0	Hisui_W0AA12.adx Oh no. Agarre todos los muebles cercanos¡sin pensar, esto no me hace  diferente¡de Nee-san cuando limpia las habitaciones.
+255  0  1	Hisui_W0AA13.adx He servido en esta mansion durante una decada.¡Las habilidades de mucama que aprendi son considerables.¡Endurecere mi corazon y me encagare  de cualquiera¡lo suficientemente tonto para  agredir a Shiki-sama.
+255  0  1	Hisui_W0AA14.adx Puede que solo sean una fregona  y un plumero,¡pero tenga en cuenta que estas herramientas  de limpieza¡son las armas cotidianas de nosotras, las mucamas.¡Nosotras no retrocederemos tan facilmente. 
+
+  7  0  0	Hisui_W0AA15.adx Por favor perdoname, Shiki-sama.¡Puede que fuera excesivo,  pero era la unica¡forma en que podia pensar en devolverte a tu habitacion.
+  6  0  1	Hisui_W0AA16.adx Nee-san. Incluso tengo limites a mi paciencia.¡Esta es una buena oportunidad para sermonearte  un poco.
+ 35  0  1	Hisui_W0AA16.adx Nee-san. Incluso tengo limites a mi paciencia.¡Esta es una buena oportunidad para sermonearte  un poco.
+  3  0  0	Hisui_W0AA17.adx Como fue una pelea real, use todo  mi poder.¡Fue de su agrado,  Akiha-sama?
+ 29  0  0	Hisui_W0AA17.adx Como fue una pelea real, use todo  mi poder.¡Fue de su agrado,  Akiha-sama?
+ 18  0  1	Hisui_W0AA18.adx Len-sama, hora de tu  ducha.¡Entiendo que no  te gusta,¡pero por  favor aguanta.
+  1  0  0	Hisui_W0AA19.adx Um. Si realmente estas¡interesada en esta ropa, habla  con Nee-san al respecto.¡Estoy seguro de que encontrara algo que le quedara¡bien,  Arcueid-sama.
+ 14  0  0	Hisui_W0AA20.adx Las acciones de Nee-san son muy  preocupantes.¡Ciertamente,esta mansion podria usar a mas personas para¡cuidarla, pero no tiene  que hacer que¡se parezcan mucho a mi, Haa.
+ 34  0  0	Hisui_W0AA20.adx Las acciones de Nee-san son muy  preocupantes.¡Ciertamente,esta mansion podria usar a mas personas para¡cuidarla, pero no tiene  que hacer que¡se parezcan mucho a mi, Haa.
+ 35  0  0	Hisui_W0AA20.adx Las acciones de Nee-san son muy  preocupantes.¡Ciertamente,esta mansion podria usar a mas personas para¡cuidarla, pero no tiene  que hacer que¡se parezcan mucho a mi, Haa.
+ 15  0  0	Hisui_W0AA21.adx Yo soy la que te saco.¡Sin embargo, el Shiki-sama en ese entonces ya era el¡Shiki-sama de hoy.¡Nunca has existido desde el principio, Nanaya.
+ 31  0  0	Hisui_W0AA22.adx Hmm?¡Siento que nos hemos conocido antes.¡Um,  quien eres?
+
+// ƒA[ƒP[ƒhƒ‚[ƒh‚ÅŒÅ’èCPU‚ÉŸ—˜‚µ‚½—p
+ 17  1  0	Hisui_W0AA00.adx ccHuh? What was that inside the sliding bookshelf ¡just nowcc is this a secret doorcc? ¡It's too simple to have been made by Nee-sancc¡Who could have\\\ah. My foot slipped.
+ 23  1  0	Hisui_W0AA01.adx ccLen-sama, you were trapped toocc no, you weren't¡able to drive out the intruder so you went to your¡snowy fields to wait and seecc I am sorry.¡I will investigate the issue in your stead. 
+ 25  1  0	Hisui_W0AA02.adx ccI understand Nee-san's feelings.¡This is an unprecedented nightmare. 
+ 20  1  0	Hisui_W0AA03.adx Please return it to the library, then. ccEh?¡It's still too early? This is just the first volume ¡of a three-part seriescc? I can't believe itcc¡Am I really getting that tired? 
+
+// ƒA[ƒP[ƒhƒ‚[ƒh‚ÅŒÅ’èCPU‘¤‚Æ‚µ‚ÄŸ—˜‚µ‚½—p
+ 30  2  0	Ries_L0CC01.adx ccWhew. Somehow I convinced her to leave. ¡Is that door the trap from beforecc?¡I will have to ask Sion-sama to come¡and remove it next timecc 
+
+END
+
+//‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V©‚±‚±‚ÅƒMƒŠƒMƒŠ

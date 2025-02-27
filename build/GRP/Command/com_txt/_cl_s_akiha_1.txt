@@ -1,0 +1,85 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// //CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = Brilliant Impetus - Phosphorous Wheel
+Type = 0
+CmdSub = 空中可
+Cmd = 236AoBoC
+
+[cm_000]
+Name = Brilliant Impetus - Phosphorous Wheel
+Type = 1
+CmdSub = 空中可
+Cmd = 236C
+
+[cm_000]
+Name = Drawing at the Moon
+Type = 0
+Cmd = 623AoBoC
+
+[cm_000]
+Name = Drawing at the Moon in the Black Sky
+Type = 1
+Cmd = 623C
+
+[cm_000]
+Name = Brilliant Impetus - Evening Beauty
+Type = 0
+Cmd = 214AoBoC
+
+[cm_000]
+Name = Brilliant Impetus - Evening Beauty
+Type = 1
+Cmd = 214C
+
+[cm_000]
+Name = Breaking Beasts
+Type = 0
+Cmd = 22AoBoC
+
+[cm_000]
+Name = Breaking Gathered Beasts
+Type = 1
+Cmd = 22C
+
+[cm_000]
+Name = Brilliant Impetus - Ghost Lantern Maple
+Type = 0
+CmdSub = 接近
+Cmd = 63214C
+
+//AD AAD LA
+[cm_000]
+Name = Red Mistress - Locks of Hair
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_000]
+Name = Red Mistress - Locks of Hair
+Type = 11
+//CmdSub = 追加入力有
+CmdSub = 接近
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_000]
+Name = Red Mistress Ubiquitous - Scarlet Maul
+Type = 100
+CmdSub = LA
+ 
+
+ 

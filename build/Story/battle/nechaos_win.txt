@@ -1,0 +1,29 @@
+
+255  0  2	NeChaos_W2AA00.adx "Gato monstruoso, sacude los cielos",  eh?■Siento que alguna vez tuve ese fuego dentro de mi.
+255  0  2	NeChaos_W2AA01.adx Come pescado si quieres ser  mas fuerte. 
+255  0  2	NeChaos_W2AA02.adx Suenos, Esperanza, Realidad,  Desesperacion.
+255  0  2	NeChaos_W2AA03.adx Dinero, Ideales, Comida para  gatos, Pesadillas. 
+255  0  2	NeChaos_W2AA04.adx Amor, Matutino, Traicion, Captura.
+255  0  2	NeChaos_W2AA05.adx No puedo seguir  viviendo si no soy un gato.■Pero como gato, no  tengo derecho a vivir.■Hmm, cual  es la correcta?
+255  0  2	NeChaos_W2AA06.adx El  cielo.■Hmph,  cuantos tiempo ha pasado desde que perdi la■habilidad de volar? Me■pregunto si podre hacerlo una vez mas. 
+255  0  2	NeChaos_W2AA07.adx Compre estas flores para ese cantante virtual,■pero esto debe ser el destino. Yo te las dare.■Hmm, ahora que lo pienso, colocarlos frente a mi■computadora se habria visto mas como una estela. 
+
+ 20  0  2	NeChaos_W2AA08.adx Es porque soy negro y  tu eres blanca.■En serio, nunca seras una tsundere sin  importar■cuantos mundos paralelos  visites. 
+ 34  0  2	NeChaos_W2AA08.adx Es porque soy negro y  tu eres blanca.■En serio, nunca seras una tsundere sin  importar■cuantos mundos paralelos  visites. 
+  4  0  2	NeChaos_W2AA09.adx Eh? Ella, no es doctora?■Entonces, que diablos es esa diabla■con la que sigo luchando?! 
+  6  0  2	NeChaos_W2AA10.adx Uf, de alguna manera, sali vencedor, por cierto,■Doctora, esta libre despues de esto? Que tal si vamos al■zoologico de perros y gatos en Ikeburogu?, o una■pelicula en el Teatro Shinjoko?  No? tienes razon.
+ 35  0  2	NeChaos_W2AA10.adx Uf, de alguna manera, sali vencedor, por cierto,■Doctora, esta libre despues de esto? Que tal si vamos al■zoologico de perros y gatos en Ikeburogu?, o una■pelicula en el Teatro Shinjoko?  No? tienes razon. 
+ 18  0  2	NeChaos_W2AA11.adx Ah, parece que nos llevaremos muy bien, mi encantadora■dama. Nosotros, los tipos negros,  debemos estar unidos.■Que dices si salimos despues de esto  y recolectamos■algunos juguetes de Cajita  Feliz? No? tienes razon.
+ 23  0  2	NeChaos_W2AA12.adx Dije, basta de  tu cangrejo. 
+ 17  0  2	NeChaos_W2AA13.adx Back Alien, nativa del Planet Back Alley, de una■galaxia muy, muy lejana, donde todo el mundo es un■sub-personaje, y todo es un  mal final.■Hmm, en otras palabras: El Infierno.
+ 33  0  2	NeChaos_W2AA14.adx Ryougi-kun, siempre estas holgazaneando en casa.■Podria ser incluso mejor si comenzaras a  utilizar■internet. Quizas deberia comprar esta vieja PC■gastada?
+
+// アーケードモードで固定CPUに勝利した時用
+ 14  1  2	NeChaos_W2AA15.adx Whew, that was a fitting opening for the movie■version…… speaking of the Doctor, I can't help but■be interested in the personal lives of innocent ■young▼stars in love. 
+  7  1  2	NeChaos_W2AA16.adx Glasses…… I have three pieces of advice for you.■The first is to not read any strange newspapers.■Another is to never eat any dried sardines prepared ■by HER. And finally, just get out of that house, okay?
+ 20  1  2	NeChaos_W2AA17.adx Farewell, oh valiant hero cat.■You too may have come here to defeat the Doctor…… ■but that duty now falls to me. Return to the village■and begin training 30,000 Spartan cats. 
+
+// アーケードモードで固定CPU側として勝利した時用
+  5  2  2	Hisui_L0AA00.adx Mmm, truly a fine performance. I know, what say we■use those skills to make you into a killer robot-type ■heroine? Eh? No way, there's already a mecha-maid?! ■What the heck is wrong with this game?! 
+
+END

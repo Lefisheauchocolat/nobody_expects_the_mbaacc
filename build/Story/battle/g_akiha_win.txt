@@ -1,0 +1,44 @@
+//デフォルトの台詞
+//255  0  0	Boss_L3AA04.adx んー、弱いってどんな気持ちかにゃー？
+//255  0  1	Boss_L4AA005.adx レバーを後ろに引くとガードだ……ぜ？
+//255  0  2	Boss_L5AA004.adx だから、ネコじゃ無理なんだってば。■おとなしくコタツでカニ食べてろ。
+// 良いキャラ台詞
+//0 0 0	Boss_L3AA08.adx すでに別ゲー。ジャンプ攻撃を当てろ！■空中ガードに徹しろ！■あと諦めるな！
+0 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+1 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+2 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+3 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+4 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+5 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+6 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+7 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+8 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+14 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+17 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+18 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+19 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+22 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+29 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+30 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+33 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+34 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+35 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+51 0 0	Boss_L3AA08.adx It's a whole 'nother ball game now. ■Hit her with jump attacks!■Always be guarding when you're in mid-air!■And don't give up!
+
+// 悪いキャラ台詞
+//9 0 1	Boss_L4AA009.adx 空中で戦え！　だが敵もさるもの、最強の対空技を■実装してきやがった……落ち着いて空中ガードだぜ？■ところで、ブラックＧ６６６はどこなのん？
+9 0 1	Boss_L4AA009.adx Fight in the skies! But your enemy is formidable■and has prepared her strongest anti-air move…■so keep calm and mid-air guard. ■By the way, where is Black G666 anyway? 
+10 0 1	Boss_L4AA009.adx Fight in the skies! But your enemy is formidable■and has prepared her strongest anti-air move…■so keep calm and mid-air guard. ■By the way, where is Black G666 anyway? 
+11 0 1	Boss_L4AA009.adx Fight in the skies! But your enemy is formidable■and has prepared her strongest anti-air move…■so keep calm and mid-air guard. ■By the way, where is Black G666 anyway? 
+12 0 1	Boss_L4AA009.adx Fight in the skies! But your enemy is formidable■and has prepared her strongest anti-air move…■so keep calm and mid-air guard. ■By the way, where is Black G666 anyway? 
+13 0 1	Boss_L4AA009.adx Fight in the skies! But your enemy is formidable■and has prepared her strongest anti-air move…■so keep calm and mid-air guard. ■By the way, where is Black G666 anyway? 
+15 0 1	Boss_L4AA009.adx Fight in the skies! But your enemy is formidable■and has prepared her strongest anti-air move…■so keep calm and mid-air guard. ■By the way, where is Black G666 anyway? 
+23 0 1	Boss_L4AA009.adx Fight in the skies! But your enemy is formidable■and has prepared her strongest anti-air move…■so keep calm and mid-air guard. ■By the way, where is Black G666 anyway? 
+28 0 1	Boss_L4AA009.adx Fight in the skies! But your enemy is formidable■and has prepared her strongest anti-air move…■so keep calm and mid-air guard. ■By the way, where is Black G666 anyway? 
+31 0 1	Boss_L4AA009.adx Fight in the skies! But your enemy is formidable■and has prepared her strongest anti-air move…■so keep calm and mid-air guard. ■By the way, where is Black G666 anyway? 
+
+// ネコたちの台詞
+//20 0 2	Boss_L5AA005.adx ……貴方もたいがいだと思ってたけど。■正気を疑う光景って、わりと簡単に転がってるのね……。
+20 0 2	Boss_L5AA005.adx …I thought you were pretty strange too.■Sights that make you doubt your sanity are■pretty common around here, huh? 
+25 0 2	Boss_L5AA005.adx …I thought you were pretty strange too.■Sights that make you doubt your sanity are■pretty common around here, huh? 
+END

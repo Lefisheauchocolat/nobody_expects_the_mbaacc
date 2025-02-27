@@ -1,0 +1,34 @@
+
+255  0  2	Satsuki_W0AA03.adx L-Lo siento!■Entre en panico  y contraataque.■Sigues vivo  de alguna manera?
+255  0  1	Satsuki_W0AA04.adx U-Umm, en esta situacion un vampiro diria.■"T-Te perdonare la vida, asi que, por favor,  no■le cuentes a nadie sobre mi"■Eso  suena bien?
+255  0  2	Satsuki_W0AA05.adx Tengo tanta sed, pero tengo que mantenerme fuerte!■Si bebo mas esta persona se  va a morir.■Solo bebo sangre una vez a la semana,  asi que es el■momento de  volver a esconderme por un tiempo. 
+255  0  2	Satsuki_W0AA06.adx Me estoy volviendo mas fuerte.■A este paso,  tal vez me convierta■en un vampiro de verdad.
+255  0  1	Satsuki_W0AA07.adx Esta bien, estoy bien, estoy bien! Han pasado muchas■cosas, pero Yumizuka  Satsuki sigue siendo positiva!
+255  0  1	Satsuki_W0AA08.adx Brazo S-Sacchin:  Alcanzando  el objetivo!■Ese gato me dijo que dijera que  con mucha■energia y cosas buenas  sucederian, pero■Podre haber sido enganada?
+255  0  1	Satsuki_W0AA09.adx Muy bien, fue una gran pelea!♪■Umm, mientras estamos  en eso,■te gustaria jugar un poco de lacrosse despues?
+255  0  2	Satsuki_W0AA10.adx No puedo  detenerme.■Tengo miedo, Tohno-kun. Cuando  sale la luna■por la noche, siento  que me estoy volviendo loca. 
+  7  0  1	Satsuki_W0AA11.adx E-Estas bien Tohno-kun?!■Gracias a Dios, solo se desmayo.■Y-Y no hay  nadie alrededor.■E-Entonces  probare un poco! 
+  2  0  2	Satsuki_W0AA12.adx Vaya, me las arregle para escapar de alguna  manera.■Ciel-senpai se vuelve mas y mas dura cada dia.■Me pregunto si terminare pronto.
+  0  0  1	Satsuki_W0AA13.adx Sion, estas  bien?■No te ves tan bien. Quieres que te lleve a casa? 
+ 23  0  2	Satsuki_W0AA16.adx Eh? Gata blanca-san, estas mas  debil que antes?■Cuando me salvaste, senti que eras tan■fuerte como ese  Verdadero Ancestro.
+ 30  0  1	Satsuki_W0AA17.adx Como fue eso,  Ries-san?■Me dijiste que permaneciera  oculta,■pero ahora puedo  luchar junto a ti, verdad?
+ 31  0  0	Satsuki_W0AA18.adx Wow, que patetico.■La persona que me convirtio en vampiro es ahora  a quien■le chupan la sangre. Tal vez debiste haberme■matado de plano, eh? 
+ 18  0  1	Satsuki_W0AA14.adx Todavia es demasiado pronto  para que luches, Gata■negra-san. Si lo deseas,  estaria encantada de■ser  tu pareja de entrenamiento. 
+
+  6 512 1	Satsuki_W0AA15.adx La Alianza Back Alley  ha llegado!■A cualquiera que perturbe la paz nocturna,■Te pedimos que te vayas a casa inmediatamente!
+ 35 512 1	Satsuki_W0AA15.adx La Alianza Back Alley  ha llegado!■A cualquiera que perturbe la paz nocturna,■Te pedimos que te vayas a casa inmediatamente!
+  9 512 1	Satsuki_W0AA15.adx La Alianza Back Alley  ha llegado!■A cualquiera que perturbe la paz nocturna,■Te pedimos que te vayas a casa inmediatamente!
+ 10 512 1	Satsuki_W0AA15.adx La Alianza Back Alley  ha llegado!■A cualquiera que perturbe la paz nocturna,■Te pedimos que te vayas a casa inmediatamente!
+ 12 512 1	Satsuki_W0AA15.adx La Alianza Back Alley  ha llegado!■A cualquiera que perturbe la paz nocturna,■Te pedimos que te vayas a casa inmediatamente!
+ 15 512 1	Satsuki_W0AA15.adx La Alianza Back Alley  ha llegado!■A cualquiera que perturbe la paz nocturna,■Te pedimos que te vayas a casa inmediatamente!
+
+// アーケードモードで固定CPUに勝利した時用
+ 23  1  1	Satsuki_W0AA00.adx Yeah, that felt great! ♪ ■I'm done warming up, so here comes the main event!
+ 18  1  1	Satsuki_W0AA00.adx Yeah, that felt great! ♪ ■I'm done warming up, so here comes the main event!
+ 20  1  1	Satsuki_W0AA00.adx Yeah, that felt great! ♪ ■I'm done warming up, so here comes the main event!
+ 10  1  1	Satsuki_W0AA00.adx Yeah, that felt great! ♪ ■I'm done warming up, so here comes the main event!
+  2  1  1	Satsuki_W0AA00.adx Yeah, that felt great! ♪ ■I'm done warming up, so here comes the main event!
+ 31  1  1	Satsuki_W0AA01.adx What's this? My body feels lighter…… could it be……■Ah, Ahaha! I must be imagining things. There's no way ■that that plain-looking guy was my parent!
+ 30  1  1	Satsuki_W0AA02.adx You're Riesbyfe-san?! ■Awawa, I'm so sorry, I couldn't hold back……!■Um, Sion talks about you all the time!■I'm looking forward to seeing you again!
+
+END

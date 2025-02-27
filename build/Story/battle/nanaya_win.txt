@@ -1,0 +1,24 @@
+255  0  0	Nanaya_W0AA03.adx Ni  siquiera un desafio.■Tienes que empezar de  nuevo desde antes de entrar■a  este mundo.
+255  0  0	Nanaya_W0AA04.adx Bueno,  a esto se redujo todo, verdad?■Si vas a morir,  no es la gran cosa.
+255  0  0	Nanaya_W0AA05.adx Soy el aracnido que gira el hilo de los Vestigios.■Bienvenido, a esta hermosa camara de asesinatos.
+255  0  0	Nanaya_W0AA06.adx Ya decidiste a donde quieres ir?■Cuando vayas al infierno, dale mis saludos a Yama.
+255  0  0	Nanaya_W0AA07.adx Te sentencio a decapitacion.■Esas monedas para  pagarle al barquero■no serviran para nada.
+255  0  0	Nanaya_W0AA08.adx Gatea por el Infierno,  cruza montanas y rios, y■se juzgado en esta aventura. Acorde a las escrituras■de Yama, tu muerte parece certera.
+255  0  0	Nanaya_W0AA09.adx Lo que esta mal contigo es tu forma,  no lo crees?■Si vamos a pelear por superioridad,  vas a necesitar■estar preparado para agregar un brazo o dos.
+255  0  0	Nanaya_W0AA10.adx Hm? Mi habilidad con el cuchillo no es como dicen?■Si, es correcto mi querido cliente.  Ten cuidado■por favor, Tengo la mala costumbre de usar mis piernas■ultimamente.
+255  0  0	Nanaya_W0AA11.adx Hablando de deseo, ojala pudieramos encontrarnos en un■tipo de habitacion secreta■Seh, no soy mi padre, pero me gustan■las historias  de fantasmas.
+255  0  0	Nanaya_W0AA12.adx Pila uno para madre, pila dos para padre■Ahora, cuantas vidas tengo que terminar para que■el demonio venga?  La tristeza de esta fugaz■vida  esta en lo floja que son las reglas del Karma.
+  7  0  0	Nanaya_W0AA13.adx Aquellos que actuan  como justicieros ■siempre mueren rapido, es mejor que aceptes tu muerte,■Shiki,ya que yo tomare tu lugar.
+  9  0  0	Nanaya_W0AA14.adx Dudo que me lleve bien con  ustedes.■Es cortesia basica morir  cuando te atraviesan■la  cabeza, no lo crees?
+ 10  0  0	Nanaya_W0AA14.adx Dudo que me lleve bien con  ustedes.■Es cortesia basica morir  cuando te atraviesan■la  cabeza, no lo crees?
+ 31  0  0	Nanaya_W0AA14.adx Dudo que me lleve bien con  ustedes.■Es cortesia basica morir  cuando te atraviesan■la  cabeza, no lo crees?
+ 28  0  0	Nanaya_W0AA15.adx Eso es todo,  Bermellon Rojo Carmesi?!■Vas a desaparecer? Desaparecer como un fantasma,■tal como esa noche?!
+ 23  0  0	Nanaya_W0AA16.adx Eso  estuvo cerca, casi te empujo un poco demasiado.■Si tu mueres, yo tambien lo hare. Tengo que contenerme■lo  mas posible.■*Suspiro*Quien de los dos es el verdadero maestro, aqui?
+  5  0  0	Nanaya_W0AA17.adx Aunque la noche se vuelva mas brillante,  eso no significa■que los ojos de una persona  mejoren. No caminaria■de noche. Es por tu propio bien quedarte■encerrada en la mansion.
+
+// アーケードモードで固定CPUに勝利した時用
+ 31  1  0	Nanaya_W0AA00.adx I have to thank you. I'm about to go exterminate a■demon. Don't you think it's a good omen that I was■able to dismember a vampire first?
+  8  1  0	Nanaya_W0AA01.adx She's unconscious…　What a bother. My current master ■even reminded me not to be involved with any little ■girls… It'll be a pain, but I guess I'll get her home.
+ 23  1  0	Nanaya_W0AA02.adx You and I are both just rippled reflections of the■moon on the water surface.■We don't exist. To disappear in the snow of summer■is happiness for both of us.
+
+END

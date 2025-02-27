@@ -1,0 +1,23 @@
+
+255  0  0	M_Hisui_W0AA04.adx Cor-te d-e ener-gia pri-maria.■Cambia-ndo a ali-menta-cion secunda-ria.■en-roll-ado ban-das  de go-ma. 
+255  0  0	M_Hisui_W0AA05.adx El arma-mento esta-ndar no ti-ene sufi-cie-nte pot-encia■de fue-go.Soli-ci-to que se ins-tale un ar-ma adi-cional■de ra-ngo A dura-nte mi pro-xi-mo mante-nimi-ento. 
+255  0  0	M_Hisui_W0AA06.adx Reco-pila-cion de da-tos com-ple-ta.■Tran-smi-tiendo a la  se-de.■Beep beep.
+255  0  0	M_Hisui_W0AA07.adx Las nue-vas arm-as son efec-tivas.■No habra pro-blemas es-ta vez. 
+255  0  0	M_Hisui_W0AA08.adx Maq-uina o animal, na-da de eso imp-orta en una pe-le-a.■Beep beep.
+255  0  0	M_Hisui_W0AA09.adx Ini-cio de auto-rrepara-cion-es.■La doc-to-ra es "capr-icho-sa"■asi que debe-mos ges-tio-narlo por nue-stra cue-nta.
+255  0  0	M_Hisui_W0AA10.adx Op-er-a-cion completa.■Camb-ia-nd-o al mo-do de sus-pen-sion. 
+  7  0  0	M_Hisui_W0AA11.adx Por favor, per-do-na-me, Shi-ki-sa-ma.■Ojala tus heridas no hay-an si-do dema-sia-do gra-ves.
+  5  0  0	M_Hisui_W0AA12.adx Se ha pro-duc-ido un err-or de-sc-ono-cido en el■prog-rama en eje-cu-cion. Prio-riz-an-do■au-topr-eserva-cion. S-e han per-dido los da-tos■de de-sti-no y la  me-mo-ria lo-cal.
+  6  0  0	M_Hisui_W0AA13.adx Er-ror en la pro-grama-cion log-ica.■La Doc-tora ha si-do cali-fica-da co-mo peli-gro-sa.■Contro-lare a la Doc-tora por el bi-en de la hum-anidad. 
+ 35  0  0	M_Hisui_W0AA13.adx Er-ror en la pro-grama-cion log-ica.■La Doc-tora ha si-do cali-fica-da co-mo peli-gro-sa.■Contro-lare a la Doc-tora por el bi-en de la hum-anidad. 
+ 20  0  0	M_Hisui_W0AA14.adx Beep. Ga-ga-ga. er-ror, lo-gico,  des-co-no-cido en,■los cir-cui-tos. Uhh…… que es esta criatura?■Espera, que  esta pasando?
+ 25  0  0	M_Hisui_W0AA14.adx Beep. Ga-ga-ga. er-ror, lo-gico,  des-co-no-cido en,■los cir-cui-tos. Uhh…… que es esta criatura?■Espera, que  esta pasando?
+ 34  0  0	M_Hisui_W0AA14.adx Beep. Ga-ga-ga. er-ror, lo-gico,  des-co-no-cido en,■los cir-cui-tos. Uhh…… que es esta criatura?■Espera, que  esta pasando?
+
+// アーケードモードで固定CPUに勝利した時用
+ 25  1  0	M_Hisui_W0AA00.adx In-trud-er e-lim-i-nat-ed. ……How strange. ■What is this impos-si-ble to an-a-lyze■log-ic pulse……? ■……No. What does "strange" mean to beg-in with?
+  1  1  0	M_Hisui_W0AA01.adx ―――Ha. What have I done……? ■How strange.■Why did I de-cide that Arc-u-eid-sa-ma■was get-ting in my way? 
+ 20  1  0	M_Hisui_W0AA02.adx I hardly need you all to tell me that.■I shall protect Shiki-sama. ■―――…………? What was…… that……?
+ 32  1  0	M_Hisui_W0AA03.adx Damage to frame…… exceeding…… ninety percent. ■Unable to…… continue operation. Ceasing…… activity. ■And e-ras-ing…… the memories I've…… ■made…… so far―――goodbye, Shi…… 
+
+END

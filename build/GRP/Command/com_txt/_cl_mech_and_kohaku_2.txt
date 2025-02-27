@@ -1,0 +1,86 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = Battou - Hidden Sharp Sword
+Type = 0
+CmdSub = BE
+Cmd = 236AoBoC
+Child = 1
+Child = 2
+Child = 3
+
+[cm_001]
+Name = Battou - Flipping a Table Over in Anger
+Type = 0
+CmdSub = 
+Cmd = A
+
+[cm_002]
+Name = Battou - Hidden Sharp Sword Chain 1
+Type = 0
+Cmd = B
+
+[cm_003]
+Name = Battou - Hidden Sharp Sword Chain 2
+Type = 0
+Cmd = C
+
+[cm_005]
+Name = Battou - Hidden Sharp Sword
+Type = 1
+Cmd = 236C
+
+[cm_025]
+Name = Long Range - Electromagnetic Shock
+Type = 0
+Cmd = 623AoBoC
+
+[cm_025]
+Name = Long Range - Electromagnetic Shock
+Type = 1
+Cmd = 623C
+
+[cm_020]
+Name = Bonds of Sisterhood - Steel Edition
+Type = 0
+CmdSub = 空中可
+Cmd = 214AoBoC
+
+[cm_040]
+Name = Multi-Weapon Service
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_050]
+Name = Magnum Upper Scramble
+Type = 0
+CmdSub = 接近 
+Cmd = 63214C
+
+[cm_060]
+Name = Magnum Upper Scramble
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 214214C
+
+//AD AAD LA
+[cm_060]
+Name = Low Blow Amber Kick
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C
+

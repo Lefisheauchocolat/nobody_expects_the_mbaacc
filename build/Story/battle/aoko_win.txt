@@ -1,0 +1,48 @@
+255  0  1	Aoko_W0AA04.adx Bueno,  me retiro!■Soy una persona muy ocupada,■pero  encontremonos de nuevo si el destino lo manda.
+255  0  0	Aoko_W0AA05.adx Eso fue un buen ejercicio.■Volvere  cuando tenga un tiempo libre,■hasta  entonces nos vemos!
+255  0  1	Aoko_W0AA06.adx Mi nombre?■Ah, perdon pero es un secreto.■Si  llegamos a vernos de nuevo, te lo dire. 
+255  0  2	Aoko_W0AA07.adx Despues de todo,manana  es otro dia.■Una solitaria aventura con un solo maletin■y un espiritu libre.■Nunca tuve un  proposito para empezar.
+255  0  0	Aoko_W0AA08.adx Por  cierto,■si alguna ves a una fumadora con cara de maestra■y anteojos, dale una buena paliza.■Dile que no cambie  su imagen por si sola.
+255  0  0	Aoko_W0AA09.adx Si, no eres tan malo,  verdad?■He tenido todo  tipo de oponentes,■pero tu eres uno de los mejores.
+255  0  0	Aoko_W0AA10.adx Re-educacion completa!■Puede parecer raro viniendo de mi,■pero  estas abusando tu poder, o no?
+255  0  0	Aoko_W0AA11.adx Te ves tan sombrio. Por que no vienes conmigo?■Cruzar los siete mares como queramos.■Tus  preocupaciones se iran asi como asi! 
+255  0  0	Aoko_W0AA12.adx Si que tengo que ser cuidadosa cuando peleo en ciudades.■Me dan ganas de disparar algunos deslizadores.■Las reglas de  la Asociacion son un dolor en el trasero,■pero no  molestar a tu alrededor es una buena.
+  7  0  0	Aoko_W0AA16.adx Parece que todavia te falta para■convertirte en un gran hombre.■Nos vemos, Shiki. Espero con ansias la proxima vez■que nos  encontremos en algun campo. 
+ 20  0  1	Aoko_W0AA17.adx Puede haber sido ese  uno de los Veintisiete Gatos■De los que he escuchado? El mundo es grande.■No puedo creer que criaturas  tan feas aun existan. 
+ 34  0  1	Aoko_W0AA17.adx Puede haber sido ese  uno de los Veintisiete Gatos■De los que he escuchado? El mundo es grande.■No puedo creer que criaturas  tan feas aun existan. 
+
+  9 512 0	Aoko_W0AA13.adx No estoy tratando de ser la tipica heroina aqui,■pero merodeamos en el  reves de las cosas, asi que tal vez■no deberias salir afuera demasiado? 
+ 10 512 0	Aoko_W0AA13.adx No estoy tratando de ser la tipica heroina aqui,■pero merodeamos en el  reves de las cosas, asi que tal vez■no deberias salir afuera demasiado? 
+ 11 512 0	Aoko_W0AA13.adx No estoy tratando de ser la tipica heroina aqui,■pero merodeamos en el  reves de las cosas, asi que tal vez■no deberias salir afuera demasiado? 
+ 12 512 0	Aoko_W0AA13.adx No estoy tratando de ser la tipica heroina aqui,■pero merodeamos en el  reves de las cosas, asi que tal vez■no deberias salir afuera demasiado?  
+ 15 512 0	Aoko_W0AA13.adx No estoy tratando de ser la tipica heroina aqui,■pero merodeamos en el  reves de las cosas, asi que tal vez■no deberias salir afuera demasiado?  
+ 25 512 0	Aoko_W0AA13.adx No estoy tratando de ser la tipica heroina aqui,■pero merodeamos en el  reves de las cosas, asi que tal vez■no deberias salir afuera demasiado?  
+ 28 512 0	Aoko_W0AA13.adx No estoy tratando de ser la tipica heroina aqui,■pero merodeamos en el  reves de las cosas, asi que tal vez■no deberias salir afuera demasiado?  
+ 31 512 0	Aoko_W0AA13.adx No estoy tratando de ser la tipica heroina aqui,■pero merodeamos en el  reves de las cosas, asi que tal vez■no deberias salir afuera demasiado?  
+
+  9 512 0	Aoko_W0AA14.adx Ninguno de  ustedes parece aprender.■Si continuas con esto voy a empezar a sentir■algun tipo de apego.■Bueno, como  un chicle en la suela de mi zapato.
+ 10 512 0	Aoko_W0AA14.adx Ninguno de  ustedes parece aprender.■Si continuas con esto voy a empezar a sentir■algun tipo de apego.■Bueno, como  un chicle en la suela de mi zapato.
+ 11 512 0	Aoko_W0AA14.adx Ninguno de  ustedes parece aprender.■Si continuas con esto voy a empezar a sentir■algun tipo de apego.■Bueno, como  un chicle en la suela de mi zapato.
+ 12 512 0	Aoko_W0AA14.adx Ninguno de  ustedes parece aprender.■Si continuas con esto voy a empezar a sentir■algun tipo de apego.■Bueno, como  un chicle en la suela de mi zapato.
+ 15 512 0	Aoko_W0AA14.adx Ninguno de  ustedes parece aprender.■Si continuas con esto voy a empezar a sentir■algun tipo de apego.■Bueno, como  un chicle en la suela de mi zapato.
+ 25 512 0	Aoko_W0AA14.adx Ninguno de  ustedes parece aprender.■Si continuas con esto voy a empezar a sentir■algun tipo de apego.■Bueno, como  un chicle en la suela de mi zapato.
+ 28 512 0	Aoko_W0AA14.adx Ninguno de  ustedes parece aprender.■Si continuas con esto voy a empezar a sentir■algun tipo de apego.■Bueno, como  un chicle en la suela de mi zapato.
+ 31 512 0	Aoko_W0AA14.adx Ninguno de  ustedes parece aprender.■Si continuas con esto voy a empezar a sentir■algun tipo de apego.■Bueno, como  un chicle en la suela de mi zapato.
+
+  9 512 0	Aoko_W0AA15.adx Me voy a  adelantar.■Si todavia no aprendiste tu leccion,■eres libre de venir a por mi. 
+ 10 512 0	Aoko_W0AA15.adx Me voy a  adelantar.■Si todavia no aprendiste tu leccion,■eres libre de venir a por mi. 
+ 11 512 0	Aoko_W0AA15.adx Me voy a  adelantar.■Si todavia no aprendiste tu leccion,■eres libre de venir a por mi. 
+ 12 512 0	Aoko_W0AA15.adx Me voy a  adelantar.■Si todavia no aprendiste tu leccion,■eres libre de venir a por mi. 
+ 15 512 0	Aoko_W0AA15.adx Me voy a  adelantar.■Si todavia no aprendiste tu leccion,■eres libre de venir a por mi.  
+ 25 512 0	Aoko_W0AA15.adx Me voy a  adelantar.■Si todavia no aprendiste tu leccion,■eres libre de venir a por mi. 
+ 28 512 0	Aoko_W0AA15.adx Me voy a  adelantar.■Si todavia no aprendiste tu leccion,■eres libre de venir a por mi.  
+ 31 512 0	Aoko_W0AA15.adx Me voy a  adelantar.■Si todavia no aprendiste tu leccion,■eres libre de venir a por mi.  
+
+// アーケードモードで固定CPUに勝利した時用
+  7  1  0	Aoko_W0AA00.adx It's even materializing Shiki's shadow. ■It feels weird fighting creatures with human forms, ■but I guess it's good I won't get into trouble■for it later. 
+ 15  1  0	Aoko_W0AA00.adx It's even materializing Shiki's shadow. ■It feels weird fighting creatures with human forms, ■but I guess it's good I won't get into trouble■for it later. 
+ 23  1  2	Aoko_W0AA01.adx Familiars who attack humans should be put down. ■But in her case, since she didn't really mean any harm■we can just leave it. 
+ 31  1  0	Aoko_W0AA02.adx Lightning through numerology, huh? It's too plain ■for someone like you, or maybe just too orthodox. ■Well, I fall along those lines myself,■so it's not really my place to say. 
+ 32  1  0	Aoko_W0AA03.adx How ironic. This Hermes you need to save mankind■won't operate without the blood of the entire ■human race. You're the one who's been mistaken■from the very beginning, Dust of Osiris.
+
+END

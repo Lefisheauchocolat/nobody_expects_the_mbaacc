@@ -1,0 +1,24 @@
+
+255  0  0	SAkiha_W2AA00.adx Que aburrido. Tu inferioridad  es obvia.■No  es necesario continuar. 
+255  0  0	SAkiha_W2AA01.adx Luchar no se trata de poder,sino de habilidad e ingenio.■Depender solo de la fuerza bruta  hace a uno■no diferente a un animal de granja, no lo crees?
+255  0  2	SAkiha_W2AA02.adx Que tonto de nosotros.■Compitiendo unos contra  otros asi■no nos dara las cosas que  deseamos.
+255  0  0	SAkiha_W2AA03.adx Por que diablos empezarias una pelea conmigo?!■Dame unas diez vueltas alrededor del campus,■y piensa en lo estupido que fuiste! 
+255  0  1	SAkiha_W2AA04.adx Estas satisfecho  ahora?■Dios, son problematicos.■Por favor, trata de no molestarme tanto. 
+255  0  0	SAkiha_W2AA05.adx No dejare que hagas  lo que quieras en esta  ciudad.■Si tiene alguna  queja, deseo, propuesta u■objecion, visite  la propiedad principal de Tohno. 
+255  0  2	SAkiha_W2AA06.adx *Ejem.* Se vuelve deprimente  pelear todo el tiempo,■pero umm, me diverti un  poco ahora.
+  1  0  2	SAkiha_W2AA07.adx Me pregunto si todo este problema se esta causando■por Arcueid despues de todo.  Pero no hay forma de■lidiar realmente con ella. A ella parece que le agrado■por alguna razon, es realmente muy complicado. 
+  7  0  0	SAkiha_W2AA08.adx Nii-san, te escapaste  sin permiso de nuevo!■No te perdonare  esta vez. Contempla■tus acciones en una isla desierta por un tiempo!
+  4  0  1	SAkiha_W2AA09.adx Esto no hace falta  decirlo,■pero ustedes dos estan■preparadas para un recorte salarial, verdad?
+  6  0  0	SAkiha_W2AA10.adx Kohaku, tu insolencia termina  aqui!■Revoco sus derechos de uso de las camaras de vigilancia.■Y te ordeno  que tires las drogas raras!
+ 35  0  0	SAkiha_W2AA10.adx Kohaku, tu insolencia termina  aqui!■Revoco sus derechos de uso de las camaras de vigilancia.■Y te ordeno  que tires las drogas raras!
+  2  0  1	SAkiha_W2AA11.adx Puedo proteger esta ciudad muy  bien sin■que estes metiendo la nariz  en todo, Ciel-senpai.■No dudes en regresar a tu ciudad  natal en la India. 
+ 17  0  0	SAkiha_W2AA12.adx Las antiguas lineas de sangre mixtas son una cosa,■que haria una persona mordida por un vampiro■aqui? Si tienes  negocios con mi■hermano, primero obten mi  aprobacion.
+ 31  0  0	SAkiha_W2AA13.adx Desaparece sin dejar rastro.■Aunque tu mente y tu cuerpo son los de un vampiro,■nuestra sangre  es de Tohno.■No permitire que ensucies mas  nuestro nombre.
+  0  0  2	SAkiha_W2AA14.adx Sion. Esta bien que te hagas amiga de  Kohaku,■pero ten cuidado de  no exagerar.■Kohaku, ella, bueno, si le  dejas una oportunidad,■ella te conquistara por completo en un instante.
+  8  0  1	SAkiha_W2AA15.adx Eres la unica hija de los Arima, verdad?■Cuando llegues a la escuela  secundaria y te■inscribas en Asagami,necesitaras mejorar■tus modales. eh? No vas a Asagami, dices? 
+
+// アーケードモードで固定CPUに勝利した時用
+  6  1  1	SAkiha_W2AA16.adx Are you awake? Oh my…… it appears that■you aren't completely recovered,■but my mood has improved a little,■so I'll just leave it at that.
+ 20  1  1	SAkiha_W2AA17.adx Is this supposed to be therapy? ■……I have quite a few problems with its■appearance and cost performance, though.
+
+END

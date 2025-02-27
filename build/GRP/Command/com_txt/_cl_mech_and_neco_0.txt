@@ -1,0 +1,75 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = Staring Cats Eye
+Type = 0
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Great Cats Genocider
+Type = 1
+Cmd = 236C
+
+[cm_010]
+Name = EM Net Wire
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = EM Net Wire
+Type = 1
+Cmd = 623C
+
+[cm_020]
+Name = Jumping Cats Love
+Type = 0
+Cmd = 214AoBoC
+
+[cm_020]
+Name = Neco Pyramid
+Type = 1
+Cmd = 214C
+
+[cm_040]
+Name = Anti-Neco Field
+Type = 0
+Cmd = 22AoBoC
+
+[cm_040]
+Name = Anti-Neco Field
+Type = 1
+Cmd = 22C
+
+
+//AD AAD LA
+[cm_060]
+Name = L.S.O. (Superhuman Sister Alliance)
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = L.S.O. (Superhuman Sister Alliance)
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = Saturday Night Forever
+Type = 100
+CmdSub = LA空中
+ 

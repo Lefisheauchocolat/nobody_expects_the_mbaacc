@@ -1,0 +1,29 @@
+255  0  0	KohxMek_W0CC04.adx Kohaku: Has visto nuestro servicio de armas multiples?¡Estoy luchando dia y  noche para hacer realidad  las¡mucamas automaticas!   Literalmente!¡Mech-Hisui: Doctora,bus-que una solu-cion mas paci-fica.
+255  0  3	KohxMek_W0CC05.adx Mech-Hisui: La pel-ea ter-mino. Cambi-ando¡al mo-do  eco-nom-ico.¡Kohaku: Entonces pasemos  por la tienda de 100 yenes.¡Podemos reemplazar tus baterias. 
+255  0  0	KohxMek_W0CC06.adx Kohaku: Limpieza completa. La competencia- er,¡quiero decir, ese alborotador malo, se va en silencio.¡Mech-Hisui: Doc-tora. Que for-ma tan¡pos-iti-va de  dec-irlo. 
+255  0  2	KohxMek_W0CC07.adx Mech-Hisui: Es-ta herida,  doc-tora?¡Kohaku: Ow ow ow, no, recibi un  buen golpe pero¡puedo seguir luchando. Comparado con las reprimendas¡de Akiha-sama, la mayoria de las cosas no me molestan!
+255  0  0	KohxMek_W0CC08.adx Kohaku: No es el momento de disfrutar de la  victoria.¡Mecha-Hisui-chan, lo de siempre,  por favor.¡Mech-Hisui: Lla-ma-ndo a un med-ico.¡Des-pues del trat-amie-nto, les limp-iare la mem-oria. 
+255  0  0	KohxMek_W0CC09.adx Mech-Hisui: Beep beep. E-Mail de la se-de de  impe-rial.¡Ha lle-gado el equi-paje que or-deno  por co-rreo.¡Kohaku: Oh, no! Retirate por ahora,  Mecha-Hisui-chan!¡Akiha-sama nunca debe enterarse de eso!!
+ 20  0  2	KohxMek_W0CC10.adx Mech-Hisui: Por ca-da derro-tado, dos mas  apa-rec-en.¡Im-pos-i-ble. Esto es  im-pos-i-ble, Doc-tora.¡Kohaku: Fu, fufu, manten la calma, Mecha-Hisui-chan.¡Solo cuenta hasta pi,aproximadamente tres.
+ 25  0  2	KohxMek_W0CC11.adx Invasion frecuente, robo de mis dispositivos, me sacan¡mi cena. He tenido suficiente! Quien crees tu?¡Yo un- eh, un  amigo? Una persona dulce y comprensiva?¡Marino y Flor? Whoa. 
+  7  0  0	KohxMek_W0CC12.adx Kohaku: Awawa, Shiki-san  nos vio!¡Mecha-Hisui-chan, hazlo! Usa el  dispositivo¡de lavado de cerebro de Hisui-chan, VAMOS!¡Mech-Hisui: Es tar-de para, no, enten-dido, Doc-tor. 
+  5  0  2	KohxMek_W0CC13.adx Mech-Hisui: Por favor, perdo-name, Mae-stra.¡Esta depra-va-cion volv-era a la Doct-ora algun dia.¡Kohaku: U-Um,  Mecha-Hisui-chan?¡Has estado en connivencia secreta  con Hisui-chan?
+  3  0  0	KohxMek_W0CC14.adx Mech-Hisui: Herida cri-tica. En-focandose en repar-os.¡Kohaku: Esa Akiha-sama, ella siempre  sobrevive.¡O tal vez esta maldita por hacerlo.  A diferencia de¡Arcueid-san, ella es una  heroina a  la que temer! 
+ 13  0  3	KohxMek_W0CC15.adx Kohaku: No hay suficiente potencia de fuego, eh?¡Deberiamos aprender de Akiha-sama y  poner un laser de¡gran angular? Aunque, tus copas B tendran que encogerse.¡Mech-Hisui: Bip Bip. Unidades consultadas.  Nos negamos.
+  0  0  1	KohxMek_W0CC16.adx Kohaku: Que piensas de la Mecha-Hisui-chan  terminada?¡Todo se debe a tu patrocinio  tecnico!¡Mech-Hisui: Cre-a-dora Si-on.  So-licito una¡actualizacion de mi prog-rama de control la proxima vez. 
+ 30  0  2	KohxMek_W0CC17.adx Mech-Hisui: Por favor, per-doname,  Ries-sa-ma. Mi¡crea-dora me ha orden-ado que no te mi-me.¡Kohaku: Ugh, punos tan despiadados como siempre,¡Pero no dejare que te lleves a Mecha-Hisui-chan! 
+
+// ƒA[ƒP[ƒhƒ‚[ƒh‚ÅŒÅ’èCPU‚ÉŸ—˜‚µ‚½—p
+ 25  1  2	KohxMek_W0CC00.adx ‡B  Beep beep. Tar-get with-draw-al con-firmed. ¡   Pu-ri-fy-ing ar-e-a with salt. ¡‡A  Whew. That guy's always getting in herecc ¡   Maybe he thinks we're neighbors? Seriously?
+ 19  1  0	KohxMek_W0CC01.adx ‡A  Whew, that was a close one. ¡   I forgot that, in terms of specs,¡   she's able to take on even Arcueid-san.¡‡B  Doc-tor. I want THAT for my next up-grade.
+ 30  1  2	KohxMek_W0CC02.adx ‡B  Are you al-right, Doc-tor?¡‡A  *Cough* Yet another strong punch to the gutcc ¡   If you weren't acting as a distraction,¡   I'd have been done for` 
+ 20  1  3	KohxMek_W0CC03.adx ‡A  I may have lost in terms of impact, ¡   but the battle is all ourscc uh, Mecha-Hisui-chan? ¡‡B  I have bad news, Doc-tor. The Tsar has been armed.
+
+// ƒA[ƒP[ƒhƒ‚[ƒh‚ÅŒÅ’èCPU‘¤‚Æ‚µ‚ÄŸ—˜‚µ‚½—p
+ 51  2  0	SArc_L0CC02.adx ‡A  A-Amazing, Mecha-Hisui-chancc ¡   Even a bamboo spear can defeat a Gundamooncc ¡‡B  Doc-tor, our met-a-phor-i-c luck stat is drop-ping. ¡   We seem to have spent our en-tire life-time supply.
+
+END
+
+//‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V©‚±‚±‚ÅƒMƒŠƒMƒŠ
+//‚`‚a<@@@‚ ‚¢‚¤‚¦‚¨‚©‚«>‚b‚c
+//‚`<@@‚ ‚¢‚¤>‚a

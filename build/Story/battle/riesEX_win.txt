@@ -1,0 +1,56 @@
+
+255  0  0	Ries_W0AA09.adx This shield's name is True Apocrypha Gamaliel. It is■the embodiment of a just order, and rhythmically■repels all impurities. With this deadly weapon, ■you could live a lifetime and never show it.
+255  0  0	Ries_W0AA10.adx You mocked my slim figure. I'll have you know ■that these fists can generate around five tons……■Ah, that's overdoing it…… Um, TWO tons of force.■Don't underestimate the strength of a musician. 
+255  0  0	Ries_W0AA11.adx This isn't storytelling at all. ■Mindless violence is no more than noise.■I may not be one to talk, but you lack in romance.
+255  0  1	Ries_W0AA12.adx Defeating them is one thing, but being unable to care ■for my body? No camp sites, no aid workers, ■no chiropractors…… No one ever told me that ■my solitary duty would be so severe…… 
+255  0  0	Ries_W0AA13.adx ……Really now, you guys just keep on coming……■You don't even know the proper manners for dueling. ■If all you do is fight, you're no better than a parrot. 
+255  0  0	Ries_W0AA14.adx My mission shall not fail. Carrying the two scattered ■gospels, I will make known the will of my Lord. Hmm…… ■Is this what victory lines are supposed to sound like?
+  2  0  0	Ries_W0AA15.adx ……What a woman. With a spine far sturdier than mine ■and superior magic circuits, there was no way I should■have won――― But as a pile bunker wielder,■it appears that Gamaliel's abilities barely won out.
+  0  0  3	Ries_W0AA17.adx It looks like I won this time, Sion.■…………By the way, I was wondering if you could teach■me Japanese when you have the time. ……Um, I just■can't get the hang of reading and writing kanji…… 
+ 11  0  0	Ries_W0AA18.adx ―――Sleep, Sion.■There is no value in a life devoid of sunlight. ■Your existence merely likens the world to Hell itself.
+  9  0  0	Ries_W0AA19.adx You've fallen to the ranks of a C-list actor, Zepia.■Although TATARI giving you form is like granting■a role to a stagehand.
+ 17  0  2	Ries_W0AA20.adx ……What's your name? ……I see. I'm a knight of the■Church, but we're not strict about everything.■……Um. If you'd like, how about we get some■tea after this? 
+  7  0  1	Ries_W0AA22.adx So you're Tohno Shiki.■I don't really have a true grudge against you, but……■Maybe I should beat him up a little bit more……■Then again, Sion and Satsuki will get mad at me…… 
+ 20  0  3	Ries_W0AA06.adx ……Creepy…… cute…… creepy…… cute…… ■creepy-cute………… huh?! I think I just saw■a really happy creature…… I-It was just a dream…… ■That paradise had to be a dream.
+ 34  0  3	Ries_W0AA06.adx ……Creepy…… cute…… creepy…… cute…… ■creepy-cute………… huh?! I think I just saw■a really happy creature…… I-It was just a dream…… ■That paradise had to be a dream.
+
+  7 512 1	Ries_W0AA23.adx Haa…… This constant string of men is depressing…… 
+  9 512 1	Ries_W0AA23.adx Haa…… This constant string of men is depressing…… 
+ 10 512 1	Ries_W0AA23.adx Haa…… This constant string of men is depressing…… 
+ 15 512 1	Ries_W0AA23.adx Haa…… This constant string of men is depressing…… 
+ 28 512 1	Ries_W0AA23.adx Haa…… This constant string of men is depressing…… 
+ 31 512 1	Ries_W0AA23.adx Haa…… This constant string of men is depressing…… 
+
+  0 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+  1 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+  2 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+  3 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+  4 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+  5 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+  6 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+  8 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+ 13 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+ 17 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+ 18 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+ 22 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+ 23 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+ 29 512 0	Ries_W0AA16.adx I've finished treating your wounds. ■……Don't look so upset, I was careful. ■What kind of knight would I be if I ■injured such a pretty face? 
+
+  9  0  0	Ries_W0AA21.adx There's no need to repent. Just return to ash, vampire. ■The melody of purgatory's anguish suits your kind.
+ 10  0  0	Ries_W0AA21.adx There's no need to repent. Just return to ash, vampire. ■The melody of purgatory's anguish suits your kind.
+ 12  0  0	Ries_W0AA21.adx There's no need to repent. Just return to ash, vampire. ■The melody of purgatory's anguish suits your kind.
+ 31  0  0	Ries_W0AA21.adx There's no need to repent. Just return to ash, vampire. ■The melody of purgatory's anguish suits your kind.
+
+// アーケードモードで固定CPUに勝利した時用
+ 06  1 10	Ries_W0CC00.adx ⑤  She was clearly dodgy. Was she one of the poachers? ■④  One of them…… or maybe their leader…… ■   This new boss is amazing.■   She took care of the old boss so easily……
+ 05  1 13	Ries_W0CC01.adx ⑤  How did it come to this……? Ohh, now I really am ■   a thief! What am I going to tell Sion……■④  You sure are an honest purr-son, Strawberry-neesan. ■   A type who can't keep secrets from their wife, huh?
+ 19  1 10	Ries_W0CC02.adx ⑤  Whew, that sure was exhausting. ■   But it's all worth it if you guys can be safe. ■④  Farewell Ciel, my formidable frenemy……■   Nyot! I didn't even do the fighting! Nyahahahahaha!
+ 20  1  2	Ries_W0CC03.adx Darn it…… I'm feeling so strange, ■I accidentally put my full strength into that…… ■She flew off into the sky and isn't coming down,■but she's probably fine. She's fine, right? 
+
+// アーケードモードで固定CPU側として勝利した時用
+
+END
+
+//１２３４５６７８９０１２３４５６７８９０１２３４５６７←ここでギリギリ
+//ＡＢ<　　　あいうえおかき>ＣＤ
+//Ａ<　　あいう>Ｂ

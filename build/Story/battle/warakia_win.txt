@@ -1,0 +1,24 @@
+
+255  0  0	Warakia_W0AA03.adx Perdoname.■Parece que fui muy rudo contigo.
+255  0  0	Warakia_W0AA04.adx Ya terminaste?■Sin embargo, tenia la intencion de prestar atencion. 
+255  0  0	Warakia_W0AA05.adx Permitire un breve intermedio.■Antes del comienzo del segundo acto,■Te sugiero  que digas adios.
+255  0  0	Warakia_W0AA06.adx Es cortinas para ti.■Actores que han caido al  abismo no tienen futuro.■En esa oscuridad,  espera una eternidad por el bis■que nunca llegara. 
+255  0  0	Warakia_W0AA07.adx Ah,  no tienes porque sobreexigirte.■Eres el unico que queda en la audiencia,■asi que descansa cuanto quieras.■Apagare las luces del pasillo. 
+255  0  1	Warakia_W0AA08.adx Ki―――KIKI, KIKIKIKIKIKI!!!■Aburrido, aburrido,  ustedes los humanos son aburridos!■Suicidense,  suicidense,■maten a  sus yo aburridos!
+255  0  1	Warakia_W0AA09.adx Mentes barbaras que se reforman por un  milenio.■Aprendiendo,comiendo, viviendo,  matando, y alabando por■1000 mas! Ah, la belleza como la toxina finalmente■invade las extremidades,haciendo evolucionar en bestias! 
+255  0  1	Warakia_W0AA10.adx Las flores del alma se marchitan  espectacularmente,■las copas de nectar cantan de podredurmbre y madurez■y distribuyen a todos sin excepcion.■Ahh, aunque todo es inutil!!
+255  0  0	Warakia_W0AA11.adx No perdiste ante mi.■La ansiedad te hace humano, y el miedo define tu vida.■Fuiste derrotado por tu mismisima"historia." 
+255  0  0	Warakia_W0AA16.adx Me temo que yo tomare las riendas de protagonista ahora.■Caeras y te uniras a la horda desconocida.■No, no has  sido descartado.■Estas son las verdaderas reglas del escenario.
+255  0  1	Warakia_W0AA17.adx Ahh―――La felicidad  y tristeza son muy atroces de ver,■excusas y disculpas demasiado crueles para escuchar!■Sus voces son como las de  moscas,■sus vidas una flor de  basura sin valor!
+255  0  1	Warakia_W0AA18.adx Bucle, bucle, bucle, bucle, bucle, bucle, bucle,  bucle!■Levantate, levantate, incontables lamentos! Las vidas de■flores mas alla de la salvacion!  Mas alla de la falsa■realidad,  donde correr termina en un salto precipitado!
+ 11  0  0	Warakia_W0AA12.adx Tienes un largo camino antes de poder sucederme como■TATARI, Sion.  Sumergete en el mundo de los humanos,■Y se envuelta en la espiral de las seis emociones.
+ 22  0  0	Warakia_W0AA13.adx Hmph,  quien era ella?■Parecia tanto la camarada  que anhelaba,■y una enemiga formidable que quisiera olvidar.■Oh  bueno.
+ 10  0  0	Warakia_W0AA14.adx Cuantos siglos pasaron desde que conoci a un Ancestro?■El Cambiante del Mar de Estray,  encima. Me gustaria■hablar contigo―――pero es mas seguro que me retire.■Ambos somos muy viejos para expresarnos adecuadamente.
+ 30  0  0	Warakia_W0AA15.adx Es una pena que no pueda desmontar a una  "Caballera■del Escudo." Dejare el escudo sagrado atras, y■solo tu, desnuda y ya no una caballera,  seras llevada■como informacion. Aunque, esto te hace otra victima mas. 
+
+// アーケードモードで固定CPUに勝利した時用
+ 15  1  0	Warakia_W0AA00.adx I have not been in the audience for five hundred years. ■The script is in your hands instead of mine.■I shall enjoy watching how skilled your directing is. 
+ 10  1  0	Warakia_W0AA01.adx I want to say that the script was passable……■but there were a few too many mannerisms. ■He may be among the Twenty-Seven Ancestors, but I would ■squeeze him dry before placing him on center stage. 
+ 31  1  0	Warakia_W0AA02.adx Sink to the depths of Samsara, Michael Roa Valdamjong.■My stage has no place for an immortality-snatching■underhanded serpent.
+
+END

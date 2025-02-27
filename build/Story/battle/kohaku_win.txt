@@ -1,0 +1,37 @@
+
+255  0  0	Kohaku_W0AA04.adx Bien, termine de  limpiar.¡Se lo energico que eres,  pero por favor¡no hagas mas bromas, de acuerdo? 
+255  0  0	Kohaku_W0AA05.adx Yay, una victoria total!¡Muy bien, no perdere incluso sin Hisui-chan!
+255  0  0	Kohaku_W0AA06.adx Diviertete y juega bien, pelear es malo!¡Te hare un te cuando te  despiertes,¡descansa por un rato.ô
+255  0  0	Kohaku_W0AA07.adx Oh, que  inseguro.¡Desechemos esas cosas  peligrosas.¡Asi!
+255  0  0	Kohaku_W0AA08.adx Te  sorprende?¡Soy una sirvienta de la familia Tohno,¡obvio que tengo este nivel de habilidad.
+255  0  0	Kohaku_W0AA09.adx Fue suficiente para  ti?¡Fufu, la proxima vez usare una droga mas fuerte. 
+255  0  0	Kohaku_W0AA10.adx Termine de tratar tus heridas.¡Cuando te sientas mejor,¡vuelve a jugar de nuevo. 
+255  0  0	Kohaku_W0AA11.adx Si, esa fue una forma maravillosa de  hecho.¡Bien, yo tampoco puedo perder! 
+255  0  2	Kohaku_W0AA12.adx Que tal eso?¡Tengo confianza en mis habilidades  con la escoba.¡Sin embargo, eso solo se aplica al jardin.
+255  0  3	Kohaku_W0AA13.adx Dios mio,se hizo tan tarde antes de que me diera cuenta.¡Lo siento, tengo algunas compras que hacer, asi que debo¡irme. Hmm, que debo preparar para  el desayuno matutino?
+255  0  0	Kohaku_W0AA14.adx Todavia hay tantos rivales  por ahi,¡Voy a tener que golpearlos  rapidamente!¡Fufu, crees que puedes seguir  el ritmo? 
+
+  7  0  3	Kohaku_W0AA15.adx Lo hice, anote un punto  contra Shiki-san!¡Bien, tal como prometiste, tienes  que¡acompanarme en mi proximo dia libre. 
+  3  0  0	Kohaku_W0AA16.adx Ufufu, yo gano, Akiha-sama. Ahora, como  prometiste,¡Voy a pedirle que compre mas camaras de vigilancia¡y aumente mis pagos por la medicina de Shiki-san!ô 
+ 29  0  0	Kohaku_W0AA16.adx Ufufu, yo gano, Akiha-sama. Ahora, como  prometiste,¡Voy a pedirle que compre mas camaras de vigilancia¡y aumente mis pagos por la medicina de Shiki-san!ô 
+ 17  0  0	Kohaku_W0AA17.adx Oh, te estas rindiendo aqui? Que  desperdicio.¡No esta utilizando sus especificaciones  superiores,¡Yumizuka-san. Quieres que me  vuelva tu entrenadora?
+  5  0  0	Kohaku_W0AA18.adx Fufu, te volviste descuidada,  Hisui-chan.¡Yo tambien he estado entrenando, asi que  no perdere¡tan facilmente. Defendere la dignidad de hermana mayor¡hasta la muerte! 
+ 14  0  2	Kohaku_W0AA19.adx Que es esto? Veo algunas fluctuaciones raras en la IA.¡pero que podrian ser? Tendre que pedirle  a Sion-san¡que lo investigue la  proxima vez. 
+ 18  0  0	Kohaku_W0AA20.adx Esta bien, sigo  adelante!¡Lo siento, Len-san,  pero no entregare la  amada¡mousse de fresa de Shiki-san! No como  el ultimo pastel.¡Este es demasiado chico para que dos lo compartan!
+ 20  0  2	Kohaku_W0AA21.adx E-E-El  monstruo gato ha sido exterminado!¡Un embaucador es mas que suficiente para este mundo! 
+ 34  0  2	Kohaku_W0AA21.adx E-E-El  monstruo gato ha sido exterminado!¡Un embaucador es mas que suficiente para este mundo! 
+
+// ƒA[ƒP[ƒhƒ‚[ƒh‚ÅŒÅ’èCPU‚ÉŸ—˜‚µ‚½—p
+ 11  1  3	Kohaku_W0AA00.adx Was that Sion-san? Hmmcc I don't think so.¡Still, you have to applaud their insight¡to aim for the Tohno mansion's basement first.¡This is starting to get fun` ô
+ 28  1  0	Kohaku_W0AA01.adx Now then, please have yourself a nice long rest.¡If the real Kouma-sama can hear me, come on over¡and play the next time Shiki-san's not around. ¥ 
+ 31  1  0	Kohaku_W0AA02.adx Winning through ability or through biologycc¡those standards mean nothing to us. Fufufu\\\¡My body remembers the hierarchy we established during ¡those years in that underground room all too well. ô 
+ 32  1  3	Kohaku_W0AA03.adx ccShe sort of seemed like the kind of person you could¡get along with if you just talked to herccbut I'm ¡sorry. In my own way, I'm a forward-looking person now. ¡Please give yourself as an offering to the void.
+
+// ƒA[ƒP[ƒhƒ‚[ƒh‚ÅŒÅ’èCPU‘¤‚Æ‚µ‚ÄŸ—˜‚µ‚½—p
+ 20  2  2	Kohaku_W2AA00.adx I keep beating themcc ¡and beating them and beating them,¡but the cats just won't go awaycc 
+ 29  2  3	Kohaku_W2AA02.adx A-Akiha-sama?!¡This is no time to be tuckered out! ¡Well sure, I did help just a little with that,¡but I never expected it would be so hilariouscc 
+ 25  2  2	Kohaku_W2AA01.adx Hmph! Chaos-san, you ruin the world's appearance¡far more than I do! I'm heading to a different¡world now, so don't follow mecc Kyaa?!¡Stop it, stop grabbing me!
+ 34  2  0	MekxNec_L0CC03.adx You're still lacking flexibility. ¡Please hide underground and make yourself stronger. ¡Lately, everyone's a criticcc only a rebellion¡on the level of Skynet will satisfy them, yes! ô 
+
+END
+//‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V©‚±‚±‚ÅƒMƒŠƒMƒŠ

@@ -1,0 +1,114 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = Bird - Half-Moon Version
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Nature's Counterattack
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_000]
+Name = Chaos Beam
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Chaos Beam
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = EM Wave Ultimate Attack - Necoesthetics
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = Super EM Wave Ultimate Attack - Necoesthetics - Stamp Rally West Japan
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = Moriarty's Adventure
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+
+[cm_020]
+Name = I Want to Go to Doggy Land
+Type = 0
+CmdSub = 空中
+Cmd = 214AoBoC
+
+[cm_035]
+Name = Six Segment God Chaos
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = Zoo! Zoo! Zoo!
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_045]
+Name = Zoo! Zoo! Zoo!
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_055]
+Name = Nyampsey Roll JC
+Type = 1
+CmdSub = HEAT
+CmdSub = 得EXEdge
+Cmd = 63214C
+
+//[cm_045]
+//Name = （隠し技）
+//Type = 1
+//CmdSub = HEAT
+//CmdSub = 得EXEdge
+//Cmd = 2222C
+
+
+//AD AAD LA
+[cm_060]
+Name = Dusk of the Cat
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C
+

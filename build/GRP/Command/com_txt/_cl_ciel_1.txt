@@ -1,0 +1,145 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = Flipper - Low
+Type = 0
+CmdSub = 
+Cmd = 236A
+
+[cm_001]
+Name = Flipper - High
+Type = 0
+CmdSub = 
+Cmd = 236BoC
+
+
+[cm_005]
+Name = FPFP (Flash Piston Flip Punch)
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = Blade Sinker
+Type = 0
+CmdSub = ホールド可
+Cmd = 623AoBoC
+
+[cm_015]
+Name = Blade Sinker
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = Black Key Throw
+Type = 0
+CmdSub = 
+Cmd = 214A
+
+[cm_021]
+Name = Defection - Blessing
+Type = 0
+CmdSub = 
+Cmd = 214B
+
+[cm_022]
+Name = Defection - Good Harvest
+Type = 0
+CmdSub = 
+Cmd = 214C
+
+[cm_027]
+Name = Aerial Black Key Throw
+Type = 0
+CmdSub = 空中
+Cmd = 214A
+
+[cm_028]
+Name = Black Key - Conviction (First Sign)
+Type = 0
+CmdSub = 空中
+Cmd = 214BoC
+Child = 1
+
+[cm_029]
+Name = Black Key - Conviction (Second Sign)
+Type = 0
+//CmdSub = 黒鍵・断罪（第一符）後に
+Cmd = 4B
+Child = 1
+
+[cm_030]
+Name = Black Key - Conviction (Third Sign)
+Type = 0
+//CmdSub = 黒鍵・断罪（第二符）後に
+Cmd = 4B
+
+[cm_031]
+Name = Shadow Snap
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = Ciel Somersault
+Type = 0
+CmdSub = 空中可
+Cmd = 22AoBoC
+
+[cm_045]
+Name = Ciel Somersault
+Type = 1
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_050]
+Name = Cavalry Toss
+Type = 0
+CmdSub = 接近
+Cmd = 63214AoBoC
+
+[cm_055]
+Name = Don Quixote - Laugh Out
+Type = 1
+CmdSub = 接近
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = Seventh Holy Scripture
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = Seventh Holy Scripture - Redemption From Original Sin
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = Cremation Rite
+Type = 100
+CmdSub = LA空中

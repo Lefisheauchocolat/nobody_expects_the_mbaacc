@@ -1,0 +1,24 @@
+
+255  0  0	HisxKoh_W0AA04_m.adx Kohaku: Muy bien Hisui-chan, saca los dedos!■Hisui:  Ah, esta bien, asi, Nee-san?■Kohaku: Si!  Preparate ahora■Hisui y Kohaku: V～ ♪ 
+255  0  0	HisxKoh_W0AA05_m.adx Kohaku: Lo hicimos! Nuestros lazos  fraternos ganaron!■No hay nada que los humanos no podamos apagar!■Hisui: Nee-san, eso es ir demasiado lejos.
+255  0  0	HisxKoh_W0AA06_m.adx Kohaku: Muy bien Hisui-chan, unas palabras■por  nuestra victoria!■Hisui: V, de victoria. 
+255  0  0	HisxKoh_W0AA07_m.adx Hisui:  Ganamos?■Kohaku: Una victoria  es una victoria,  y esta fue■una gran victoria,   Hisui-chan!■Hisui: Bueno.  Simplemente se siente un poco embarazoso.
+255  0  0	HisxKoh_W0AA08_m.adx Hisui: Vaya. Nee-san, fuiste herida?■Kohaku:Estoy bien. Sin embargo, esto estuvo cerca, eh?■Hisui: Si. Lo hiciste bien, Nee-san. 
+255  0  0	HisxKoh_W0AA09_m.adx Hisui: Deberes completos.  Por favor, perdona mi rudeza.■Kohaku:No,  fuiste maravillosa Hisui-chan!■Me encanta ver a la gente limpiando  mientras trabaja,■no  importa quien lo haga! 
+255  0  0	HisxKoh_W0AA10_m.adx Kohaku: Vaya, eso fue excelente. Hisui-chan, estas bien?■Hisui: Si. Mas importante aun, Nee-san, tu obi es-■Kohaku: Ah, oops! Tal vez deberia usar■ropa occidental  como tu la proxima vez.
+255  0  0	HisxKoh_W0AA11_m.adx Kohaku: Hisui-chan, quieres tomar un breve descanso?■Hisui: Nee-san, faltan treinta minutos para el descanso.■Si te distraes, tendre  que informar a Akiha-sama.■Kohaku: Oh. Hisui-chan, no te sientes como una traidora? 
+255  0  0	HisxKoh_W0AA12_m.adx Kohaku: Fufufu. No deberias  tomar  a las sirvientas■a la ligera. Despues de todo, soportamos el acoso de■Akiha-sama cada dia! No es asi,  Hisui-chan?■Hisui: Nee-san,eso nos va a meter  en problemas despues. 
+255  0  0	HisxKoh_W0AA13_m.adx Hisui: La  batalla ha terminado.■Nee-san,  por favor trata las heridas de esta persona.■Kohaku:  Eh? Bueno, supongo, Hisui-chan, se supone■que hay que hacerlo despues de negociar mas,  sabes?
+
+  7  0  0	HisxKoh_W0AA14_m.adx Kohaku: No somos el mejor duo, Shiki-san?!■El mejor de todos!■Hisui: Lo siento mucho,  Shiki-sama.
+  3  0  0	HisxKoh_W0AA15_m.adx Hisui: Por favor, perdonanos, Akiha-sama. Estamos en■el medio de estar  en huelga,  por lo que recurrimos■al uso de la fuerza.■Kohaku: Ooh Hisui-chan, eres despiadada.
+ 29  0  0	HisxKoh_W0AA15_m.adx Hisui: Por favor, perdonanos, Akiha-sama. Estamos en■el medio de estar  en huelga,  por lo que recurrimos■al uso de la fuerza.■Kohaku: Ooh Hisui-chan, eres despiadada.
+ 18  0  0	HisxKoh_W0AA16_m.adx Kohaku:Te atrapamos! Ahora, Len-san, se una buena chica,■y toma tu ducha, okay?■Hisui: Len-sama. Entiendo como te sientes,■pero por favor aguante  por ahora. 
+
+// アーケードモードで固定CPUに勝利した時用
+  2  1  0	HisxKoh_W0AA00_m.adx ①  Our guest was made to go home.■②  Yeah, she was just what we needed to get fired up.■   Now then, let's go, Hisui-chan!■①  ……But why would Ciel-sama come here……?
+ 30  1  0	HisxKoh_W0AA01_m.adx ①  Are you alright, Nee-san? ……It looked like■   you took a solid punch to the stomach……■②  I…… I'm fine, Hisui-chan, just fine! ……Ouchie,■   I hope I don't need an amberlance. 
+  3  1  0	HisxKoh_W0AA02_m.adx ②  Ahh! Akiha-sama got away! ■①  ……Yes. As expected of Akiha-sama. ■   She is still strong after fighting that hard.■   We have to stop her before it's too late.
+ 13  1  0	HisxKoh_W0AA03_m.adx ②  Whew, exorcism complete～ ♪ Akiha-sama's back■   to normal, and the town is at peace again. ■①  ……My deepest apologies, Akiha-sama. ■   Nee-san and I will give a proper apology later…… 
+
+END

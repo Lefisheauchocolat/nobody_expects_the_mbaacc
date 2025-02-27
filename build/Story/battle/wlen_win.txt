@@ -1,0 +1,33 @@
+
+255  0  0	WLen_W0AA04.adx Adios, aquel  que vivio.■Y bienvenido,  mi invitado muerto. 
+255  0  0	WLen_W0AA05.adx Nos  divertimos?■Este es el mundo en el espejo; un paraiso que no■envejece. Ese conejo blanco ya no puede alcanzarnos. 
+255  0  1	WLen_W0AA06.adx Bienvenido seas.■Te doy pan caliente  y te,■una capsula de ilusion eterna,■y un banquete de amor  extraordinario.
+255  0  2	WLen_W0AA07.adx Eres una oveja. Una oveja para cuidar este jardin.■Tu nombre, veamos, como suena Dolly?
+255  0  0	WLen_W0AA08.adx Les digo adios, damas y  caballeros.■La proxima vez que duerman, celebraremos otro baile.
+255  0  1	WLen_W0AA09.adx Es esta tu primera vez en un campo nevado?■Entonces ten  cuidado.■Si siempre estas arrastrando la realidad  a las cosas,■Sirius  te perseguira. 
+255  0  0	WLen_W0AA10.adx El lago de cisnes congelado, Giselle ardio en el■escenario, una ilusion de Cascanueces del que ya no puedes■despertar. Fufu,  no son todos encantadores?■Te mostrare una pesadilla sin fin. 
+255  0  0	WLen_W0AA11.adx Bienvenidos a las puertas del paraiso.■Sea bienvenido, mi invitado.■Disfrute de este jardin cerrado  sin salida. 
+255  0  1	WLen_W0AA12.adx Dejamos atras la sucia mancha de la  realidad.■Ahora estamos  en la tierra de ilusiones donde todo es■hermoso.  Encierrate en una placa de petri esteril■y dejame disfrutar de tu  rostro dormido para siempre.
+ 18  0  3	WLen_W0AA13.adx No te gusta tu lado  hablador?■Bueno, es cierto que estar callado es mas propio■de una dama, pero  estas exagerando. 
+ 15  0  4	WLen_W0AA14.adx E-Estas lejos de ser un  perfecto caballero.■Pero tienes algunos puntos buenos, asi que te recordare.
+  7  0  3	WLen_W0AA15.adx La bondad por si sola no hace un  caballero.■Tienes lo que se necesita, asi que sientete  orgulloso■de ti mismo. Aunque,  eso es probablemente■lo que le gusta a Len de ti. 
+ 20  0  4	WLen_W0AA16.adx No importa cuantas veces los golpee,■ustedes siguen regresando!  Haa.■Yo, la gobernante de los suenos, amenazada por■una pesadilla.  Que broma. 
+ 34  0  4	WLen_W0AA16.adx No importa cuantas veces los golpee,■ustedes siguen regresando!  Haa.■Yo, la gobernante de los suenos, amenazada por■una pesadilla.  Que broma. 
+  9  0  0	WLen_W0AA17.adx Eso estuvo delicioso, gracias.■Me asegure de disfrutar hasta la ultima gota■de la informacion que seguia bebiendo. 
+  1  0  3	WLen_W0AA18.adx Que se siente al ser mordido por tu propia gata?■Puede que no sea de mi incumbencia, pero no has estado■jugando demasiado ultimamente?
+  6  0  3	WLen_W0AA19.adx Kohaku, quiero petalos de rosa flotando en mi  proximo■ducha,  y no olvides tu  mejor tartaleta para despues.
+ 35  0  3	WLen_W0AA19.adx Kohaku, quiero petalos de rosa flotando en mi  proximo■ducha,  y no olvides tu  mejor tartaleta para despues.
+ 13  0  0	WLen_W0AA20.adx Ciertamente eres una dama  de tu sangre.■Eres mas  adorable cuando sigues tus instintos■como lo haces ahora. 
+
+// アーケードモードで固定CPUに勝利した時用
+ 18  1  3	WLen_W0AA00.adx What's the big deal, getting in my wa―― eh?■It's dangerous so don't go? I'll only regret it later?■……It's none of your business. Just make sure■you go and protect that master of yours.
+ 31  1  2	WLen_W0AA01.adx Plain or not, the culprit must be a real big shot ■to bring out all these Dead Apostles. ■―――Fufu, this is getting fun. They wouldn't be ■worthy of being my opponent otherwise.
+ 15  1  1	WLen_W0AA02.adx I won, Nanaya. That makes you my master――― wait, that ■doesn't sound right. Eh, whatever. All that's left is ■to punish the culprit who's been snatching up ■peoples' masters. I'll see just how they measure up.
+ 20  1  4	WLen_W0AA03.adx Haa, haa, haa…… I did it. Now to sink this kingdom. ■Make the background grey…… and, good. ■This seal will last forever, and hopefully we'll■never see another one of those mutants ever again.
+
+// アーケードモードで固定CPU側として勝利した時用
+ 15  2  0	Nanaya_L0AA00.adx ……This is all because…… you wouldn't listen to me.■Goodbye, stupid Satsujinki. You were smug, fickle,■cruel, had bad taste…… and you were just a little bit ■kind. I'll remember that last part for you. 
+ 29  2  1	SAkiha_L2AA000.adx Hey, want to play?■Those cat ears look great on you. 
+ 33  2  0	Ryougi_L2AA01.adx Wake up soon. ■You belong back in your boring, yet irreplaceable,■everyday life.
+
+END

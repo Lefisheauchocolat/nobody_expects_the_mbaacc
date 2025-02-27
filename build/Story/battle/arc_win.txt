@@ -1,0 +1,29 @@
+
+255  0  0	Arc_W0AA04.adx Victoria facil, VÅ`!!
+255  0  1	Arc_W0AA05.adx Lo siento, pero tus posibilidades de ganar  son nulas.Å°Si quieres hacerme algo,Å°tienes que intentarlo de  nuevo durante tu proxima vida.
+255  0  1	Arc_W0AA06.adx Estas sorprendido de que no bebere  tu sangre?Å°Debes estar bromeando.Å°No me juntes con esos vampiros de tercera categoria.
+255  0  1	Arc_W0AA07.adx No estas mal! Tuve que ponerme  un poco serio.Å°Espero con ansias  la proxima vez.
+255  0  0	Arc_W0AA08.adx Ah, eso se sintio genial Å` ÅÙÅ°Se sintio como  golpear un misilÅ°bajo el cielo azul! Aunque nunca he hecho eso.
+255  0  0	Arc_W0AA09.adx Ahh, mi corazon late  tan rapido Å` ÅÙÅ°Gracias, fuiste el mejor.  Aunque,Å°dicen que cosas como esta son malas para tu corazon.Å°Pero es muy divertido. Me pregunto  que lo hace mal.
+255  0  0	Arc_W0AA10.adx Si,  va bien Å` ÅÙÅ°Se cuanto poder usar  ahora,Å°y el reflujo y el fluir de la batalla seÅ°siente como un baile.  Es maravilloso. 
+255  0  1	Arc_W0AA11.adx Muy bien, te dejare  ir con eso.Å°No te acerques a mi en las noches cuando sale la luna. 
+255  0  1	Arc_W0AA12.adx Que extrano.  No solia sentir nada porÅ°ustedes, pero todas estas emociones  fluyen ahora.Å°Si mi corazon se llena de estas impurezas,Å°que sera de mi? 
+  7  0  0	Arc_W0AA13.adx Jeje. Entonces, te has vuelto a enamorar  de mi?Å°Incluso si te pones serio,  Shiki,Å°ya no puedes vencerme! ÅÙ
+ 10  0  1	Arc_W0AA14.adx Adios.Å°Este pais del Lejano Oriente sera elÅ°fin de tu milenio. 
+ 22  0  0	Arc_W0AA15.adx Me las arregle para darte tu primera  perdida!Å°Eso fue divertido, Blue.Å°No nos contengamos la proxima vez, de acuerdo? 
+  2  0  0	Arc_W0AA16.adx Oye, Ciel. Tengo mucha hambre.Å°Ya que gane hoy, invitame algo,  de acuerdo? 
+  3  0  0	Arc_W0AA17.adx En serio, viene la hermanita  y me desafia de  verdad.Å°Que lindo. Supongo que esto es lo que  quieren decirÅ°cuando hablan de una esposa que esta siendo intimidadaÅ°por su cunada. 
+ 29  0  0	Arc_W0AA17.adx En serio, viene la hermanita  y me desafia de  verdad.Å°Que lindo. Supongo que esto es lo que  quieren decirÅ°cuando hablan de una esposa que esta siendo intimidadaÅ°por su cunada. 
+ 18  0  0	Arc_W0AA18.adx No esta mal, Len. Te subestime. Que?Å°Me estabas copiando? Eso es extrano,Å°Nunca antes habia actuado con tanta  violencia. 
+ 30  0  0	Arc_W0AA19.adx Buen  golpe!Å°Oye, no eran unas 100 toneladas de fuerza?Å°Eh? Eso es mas como yo? Oye,  eso no es agradable.Å°No haria algo tan vergonzoso en la ciudad.
+ 19  0  1	Arc_W0CC01.adx Fue eso lo mejor que pudiste  hacer?Å°Entonces deberias reconsiderar  tu arma.Å°Se ha reducido y simplificado  de varias formas,Å°pero nunca podras golpearme con eso. 
+ 51  0  1	Arc_W0CC00.adx Haa. Hacer cosas como luchar contra mi mismaÅ°me esta lastimando seriamente la cabeza.Å°Mi personalidad realmente es asi de rara y complicada?
+
+// ÉAÅ[ÉPÅ[ÉhÉÇÅ[ÉhÇ≈å≈íËCPUÇ…èüóòÇµÇΩéûóp
+ 28  1  1	Arc_W0AA00.adx I want to try fighting with the real thing next time, Å°but you're first, I suppose.Å°You've got guts to appear in my gardenÅ\Å\Å\Å°one of the Twenty-Seven Ancestors.
+  2  1  0	Arc_W0AA01.adx Am I drunk, you ask?Å°Yes, the cherry blossoms and the moon are Å°so beautiful that they're intoxicating. Å°Well, Ciel, you're in charge of the restÅ`! 
+  7  1  0	Arc_W0AA02.adx Do you feel sorry now, Shiki? Å°ÅcÅcWait, huh? I went too farÅcÅc?Å°Ah, ahahaÅcÅc Um, well, I'll just get a move on Å°and defeat the mastermind, then!
+
+END
+
+//ÇPÇQÇRÇSÇTÇUÇVÇWÇXÇOÇPÇQÇRÇSÇTÇUÇVÇWÇXÇOÇPÇQÇRÇSÇTÇUÇVÅ©Ç±Ç±Ç≈ÉMÉäÉMÉä

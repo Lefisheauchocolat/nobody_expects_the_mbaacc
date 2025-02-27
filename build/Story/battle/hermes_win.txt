@@ -1,0 +1,8 @@
+
+255  0  0	Maou_W0AA00.adx ―――Recalculations, halted. ■Proceeding to set planetary element to critical ■rotation speed and infuse all resources ■into the Philosopher's Stone―――
+255  0  0	Maou_W0AA01.adx Those given flesh, those given form shall disappear.■Undying data shall be all that remains after their■destruction.
+255  0  0	Maou_W0AA02.adx Flying through the underworld with a single frame ■as its body, two nautical charts as its wings,■and three records as its souls. That is Hermes, ■the savior of mankind who embraces their end. 
+255  0  1	Maou_W0AA03.adx ……As an act of mercy, ■I shall also retain your regret in code.■There may be some significance in it. 
+255  0  1	Maou_W0AA04.adx I too shall disappear soon. ■This body is the last living remnant of mankind.■The 5,700,000,000th one to die will be me.
+
+END

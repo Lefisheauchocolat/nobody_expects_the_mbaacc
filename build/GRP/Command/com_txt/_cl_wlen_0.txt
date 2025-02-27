@@ -1,0 +1,152 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = Fleur Freeze Couleur
+Type = 0
+CmdSub = 空中可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Etoile Sirius
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_005]
+Name = Fleur Freeze Couleur
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = Swan Lake
+Type = 0
+CmdSub = ホールド可
+Cmd = 623AoBoC
+
+[cm_015]
+Name = Swan Snow Slow
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = Snow Ballet
+Type = 0
+CmdSub = 空中可
+Cmd = 214A
+
+[cm_020]
+Name = Snow Ballet
+Type = 0
+CmdSub = 空中可
+Cmd = 214BoC
+Child = 1
+Child = 2
+
+[cm_020]
+Name = A Terre
+Type = 0
+CmdSub = 
+Cmd = 214A
+
+[cm_020]
+Name = Capriole
+Type = 0
+CmdSub = 
+Cmd = 214BoC
+
+[cm_025]
+Name = Trente-Deux Fouette
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_025]
+Name = Snow Ballet
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_030]
+Name = Neige Blanc
+Type = 0
+CmdSub = 
+Cmd = 421AoBoC
+Child = 1
+
+[cm_030]
+Name = Neige Blanc Chain
+Type = 0
+Cmd = 4o6
+
+[cm_035]
+Name = Neige Debellis
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 421C
+
+
+[cm_040]
+Name = Nutcracker
+Type = 0
+CmdSub = 
+Cmd = 22AoBoCoD
+
+[cm_050]
+Name = Nursery Rhyme
+Type = 0
+CmdSub = 
+Cmd = 63214AoBoC
+
+[cm_055]
+Name = Snow Reine
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = Ephemeral Transience
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = Butterfly Dream
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = Endless Expanses
+Type = 100
+CmdSub = LA
+

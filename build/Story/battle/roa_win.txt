@@ -1,0 +1,31 @@
+
+255  0  0	Loa_W0AA03.adx Nada mal. Eras mucho mas entrenido de lo que■parecias con esos trucos tuyos.  Si logras escapar a■la muerte, tal vez deberias unirte la circo.
+255  0  0	Loa_W0AA04.adx Supongo que deberia tomar un  refrigerio rapido.■Me ayudaras con una  donacion de sangre, no?■Como ves,  tengo anemia cronica.
+255  0  0	Loa_W0AA05.adx Un cadaver reducido a cenizas!  Orden lista!■Todo lo que necesito hacer ahora es alimentarte a unos■perros callejeros en un  callejon!
+255  0  1	Loa_W0AA06.adx La lucha es una  aguafiestas una vez que se acaba.■Tal alegria deberia durar mas, no crees?■Oh, lo siento. Ya dejaste de respirar.
+255  0  1	Loa_W0AA07.adx Gracias por dejarme divertirme un poco, Te dare un■entierro propio de  un humano.■Se feliz. Este es un infierno que no se suele presenciar■una cremacion de relampagos en lugar de fuego.
+255  0  0	Loa_W0AA08.adx Perdon por tomarte tanto tiempo.■Deberia haberte roto el cuello de un solo golpe,  pero■eso requiere un poco de tecnica para lograrlo. En serio,■los samurais de antano seguro que eran algo.
+255  0  1	Loa_W0AA09.adx No te muevas tanto, tu sangre  se derramara.■Hoy no tengo ganas de sorber sangre del suelo.■A veces solo quiero actuar como un vampiro  de verdad.
+  7  0  0	Loa_W0AA11.adx Lo que veo es diferente de lo que ves?■Que? Es lo mismo!  Excepto la forma en la que terminaras■hecho pedazos!
+  1  0  0	Loa_W0AA12.adx Hmph.Pense que eras real al principio.■Te ves igual a ella,  pero eres una persona totalmente■diferente por dentro.　 Mi princesa de sangre■ni siquiera  estaria hablando las palabras del hombre.
+  2  0  0	Loa_W0AA13.adx Todo ese potencial se desperdiciara, ya sabes,■hermanita? Lo habria usado mucho mejor que tu.■Ahh, que desperdicio para tal talento ser aplastado aqui!
+  3  0  0	Loa_W0AA14.adx Escucha, Akiha. No puedo usar ninguna de las habilidades■unicas de este cuerpo cuando surja.  Un vampiro inmortal■y un demonio de sangre que no puede morir.  Ves como son■lo mismo?  Hay un limite para el desperdicio de talento.
+ 29  0  0	Loa_W0AA14.adx Escucha, Akiha. No puedo usar ninguna de las habilidades■unicas de este cuerpo cuando surja.  Un vampiro inmortal■y un demonio de sangre que no puede morir.  Ves como son■lo mismo?  Hay un limite para el desperdicio de talento.
+ 10  0  0	Loa_W0AA15.adx *Silbido*Estuviste muy bien, amigo!■He querido poner mis tecnicas en contra tuya, pero■pensar que podriamos cortarnos las extremidades del otro■Y hombre, eres muy fuerte en una pelea a golpes, eh?
+  0  0  0	Loa_W0AA16.adx "Una pelea se libra no con el cuerpo,sino con la mente".■Ah, estoy de acuerdo con ese sentimiento, jovencita.■Despues de todo,ni tu cuerpo ni mente estan a mi altura.
+ 51  0  1	null.adx …
+
+  9  0  0	Loa_W0AA10.adx Que noche terrible, no crees?  Incluso■la luz de la luna es enceguecedora, me■deprime.
+ 11  0  0	Loa_W0AA10.adx Que noche terrible, no crees?  Incluso■la luz de la luna es enceguecedora, me■deprime.
+ 12  0  0	Loa_W0AA10.adx Que noche terrible, no crees?  Incluso■la luz de la luna es enceguecedora, me■deprime.
+ 17  0  0	Loa_W0AA10.adx Que noche terrible, no crees?  Incluso■la luz de la luna es enceguecedora, me■deprime.
+
+// アーケードモードで固定CPUに勝利した時用
+ 18  1  1	Loa_W0AA00.adx This familiar…　So the princess is still in this town. ■This is perfect…　Yes, I should use this and ■call out her master.
+  7  1  1	Loa_W0AA01.adx …Unfortunate. Looks like nothing's changed with you. ■I completely expected that you would be able to ■handle this body…　Too bad.■Now there's no one else that can stop me.
+  2  1  1	Loa_W0AA02.adx So many weapons is just a hindrance for you. It's ■like this miraculous body of yours is being constrained by■human knowledge. Before you start hating heretics,■you should look upon your own extraordinary abilities.
+
+// アーケードモードで固定CPU側として勝利した時用
+ 17  2  1	Satsuki_L0AA00.adx I'm not down here because I was chased out, I'm ■here because I want to be! I like it here! Being■underground is what I like to do! …Seriously,■if you're a vampire too, read up on some classics.
+
+END

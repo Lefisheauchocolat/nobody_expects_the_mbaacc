@@ -1,0 +1,197 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+//共通操作
+[cm_000]
+Name = Using Both
+Type = 2
+
+[cm_000]
+Name = Bonds of Sisterhood - Birth Edition
+Type = 0
+CmdSub = 
+Cmd = 22D
+
+[cm_060]
+Name = Bonds of Sisterhood - The Movie
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 214214C
+
+//翡翠操作時
+[cm_000]
+Name = Using Hisui
+Type = 2
+
+[cm_000]
+Name = This ladle is solid.
+Type = 0
+CmdSub = 空中可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = This ladle is solid.
+Type = 1
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = Please excuse me.
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = Please excuse me.
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = Bonds of Sisterhood - Basic Edition
+Type = 0
+CmdSub = 空中可
+Cmd = 214AoBoC
+
+[cm_040]
+Name = I did my best.
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_050]
+Name = Hisui's 3 Step Cooking
+Type = 0
+CmdSub = 
+Cmd = 6C.6C.236C
+
+//AD AAD LA
+[cm_060]
+Name = Dark Jade Fist
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+CmdSub = ホールド可
+Cmd = 41236C
+
+[cm_060]
+Name = Bonds of Sisterhood - Low Blow Amber Kick
+Type = 10
+CmdSub = 空中可
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 63214C
+
+
+
+
+
+
+
+
+
+//琥珀操作時
+[cm_000]
+Name = Using Kohaku
+Type = 2
+
+
+[cm_000]
+Name = Battou - Hidden Sharp Sword
+Type = 0
+CmdSub = BE
+Cmd = 236AoBoC
+Child = 1
+Child = 2
+Child = 3
+
+[cm_001]
+Name = Battou - Flipping Over a Table in Anger
+Type = 0
+CmdSub = 
+Cmd = A
+
+[cm_002]
+Name = Battou - Hidden Sharp Sword Chain 1
+Type = 0
+Cmd = B
+
+[cm_003]
+Name = Battou - Hidden Sharp Sword Chain 2
+Type = 0
+Cmd = C
+
+[cm_005]
+Name = Battou - Hidden Sharp Sword
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+
+
+[cm_000]
+Name = Moving☆Star
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Shooting☆Star
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_020]
+Name = Bonds of Sisterhood - Winds and Clouds Edition
+Type = 0
+CmdSub = 空中可
+Cmd = 214AoBoC
+
+[cm_040]
+Name = Fullness to the battle.
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_045]
+Name = Fullness to the battle.
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+//AD AAD LA
+[cm_060]
+Name = Low Blow Amber Kick
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C
+
+[cm_060]
+Name = Bonds of Sisterhood - Dark Jade Fist
+Type = 10
+CmdSub = 空中可
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 63214C
+
+
+ 

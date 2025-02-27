@@ -1,0 +1,83 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = Funeral Fire Grab
+Type = 0
+CmdSub = ホールド可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Burial Big Bite
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_006]
+Name = Brilliant Impetus - Ghost Tail
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_007]
+Name = Brilliant Impetus - Ghost Tail
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = Crushing Rising Thunder
+Type = 0
+Cmd = 623AoBoC
+
+[cm_015]
+Name = Crushing Rising Thunder
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = Secret Thunder Needle
+Type = 0
+Cmd = 214AoBoC
+
+[cm_025]
+Name = Thunder Snake Ghostly Festival
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+//AD AAD LA
+[cm_060]
+Name = Heavenly Crashing Thunder
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = Heavenly Crashing Thunder
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = Hollow Course - Seventeen Reincarnations
+Type = 100
+CmdSub = LA

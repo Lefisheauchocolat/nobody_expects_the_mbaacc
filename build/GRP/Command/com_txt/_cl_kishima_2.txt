@@ -1,0 +1,124 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = Triple Samadhi Prajna
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Unicorn - Skull City
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_000]
+Name = Asamprajnata
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+Child = 1
+
+[cm_010]
+Name = Asamprajnata Chain
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Unicorn - Indra's Net
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+
+[cm_010]
+Name = Asamprajnata
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+Child = 1
+
+[cm_010]
+Name = Asamprajnata Chain
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_015]
+Name = Unicorn - Indra's Net
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = Cremation
+Type = 0
+CmdSub = 接近
+Cmd = 214AoBoC
+Child = 1
+Child = 2
+
+[cm_020]
+Name = Cremation Chain
+Type = 0
+CmdSub = 掴み中
+Cmd = 4o2
+
+[cm_015]
+Name = Unicorn - Purifying Flame Ecstasy
+Type = 1
+CmdSub = 掴み中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_025]
+Name = Unicorn - Endowed with Destruction
+Type = 1
+CmdSub = 接近
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = Plated God
+Type = 0
+CmdSub = 空中可
+Cmd = 22AoBoC
+
+[cm_045]
+Name = Plated God
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+//AD AAD LA
+[cm_060]
+Name = Unicorn - Jambu in Flames
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C
+

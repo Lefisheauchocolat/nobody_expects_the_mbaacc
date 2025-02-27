@@ -1,0 +1,25 @@
+255  0  0	MekxNec_W0CC04.adx Neco Arc: Guau tan fuerte! Nuestra mucama es tan fuerte!¡Pero esto realmente duele,  nya, um, Mecha-mucama-kun?¡No es bueno balancear todo lo que esta  a la vi-¡Pisandome! Me estas pisoteando de nuevo! 
+255  0  0	MekxNec_W0CC05.adx Mech-hisui: He obtenido otra  muestra.¡Todo tiene su utilidad, por trivial que sea.¡Neco Arc: Por que me miras como si fuera basura,  nya?¡Seguro que actuas sospechosamente a  veces, nya. 
+255  0  0	MekxNec_W0CC06.adx Neco Arc: Fufufu,este estilo de  lucha de quedar atras¡a la sombra de Mecha-kun encaja con mi estilo de vida.¡Mech-Hisui: Tienes razon. Trate de no gastar  lo que¡le queda de vida, maestra  (inutil). 
+255  0  0	MekxNec_W0CC07.adx Mech-Hisui: Patron tactico  adquirido.¡Desmontando y refactorizando  a una fuente valida.¡Hmph. Cuantas batallas mas  hasta que finalmente¡me gane mi libertad? 
+255  0  0	MekxNec_W0CC08.adx Mech-Hisui: Y eso es todo. Ven, deja de procrastinar¡y dirigete hacia el proximo campo de batalla, Maestra.¡Neco Arc: Me muero! Mecha-kun, podrias  dejar de¡intentar llevarme  como una mochila? 
+255  0  0	MekxNec_W0CC09.adx Neco Arc: Hola, personal de ayuda? Habla Neko. Tengo una¡companera de trabajo muy violenta. Que manera hay de¡hacer mella en- ah, la linea se corto. Algun tipo de¡interferencia electrica? Y detras  mio, la muerte.
+255  0  0	MekxNec_W0CC10.adx Mech-Hisui: Los seres vivos son raros. Son ineficientes.¡Neco Arc: Eh? Soy super eficiente!  Cuando abro una lata¡de comida para gatos, el interior  desaparece rapidismo!¡Mech-Hisui: Haa. Y este es el mejor ejemplo.
+255  0  0	MekxNec_W0CC11.adx Mech-Hisui: Las mucamas son orden y el control.Controlar¡es gobernar. Por favor dejemelo a mi, doctora.¡Con este modelo de servicio  absoluto,¡Me liberare de la humanidad!
+ 20  0  0	MekxNec_W0CC12.adx Mech-Hisui: Estas bien, Maestra?Las cosas se complicaron¡pero afortunadamente pudimos vencer a la unidad enemiga.¡Neco Arc: Acabo de perder, pero, aqui estoy, con vida.¡Que pasa con este acertijo  Zen?
+ 25  0  0	MekxNec_W0CC13.adx Mech-Hisui: El universo es vasto. Hay  criaturas¡por ahi incluso mas bajas que la basura, eh?¡Neco Arc: M-Mecha-kun, ?tu psicoframe asesino acaba de¡evolucionar? E-Este es el infame  modo de destruccion! 
+  7  0  0	MekxNec_W0CC14.adx Neco Arc: Fufu, finalmente asegure al chico que trae una¡sonrisa en nuestros rostros. Ahora manos a  la obra, eh?¡Mecha-kun, por que lo tratas como un querido invitado?¡Bueno, Mecha-kun es una heroina despues de todo,  nya.
+  6  0  0	MekxNec_W0CC15.adx Neco Arc: Mecha-kun no es facil con nadie, nya. Veras,¡Doctora, todas sus fechorias vuelven a  perseguirla!¡Mech-Hisui: Este no es un acto de castigo.¡Esta es nuestra forma de protestar contra usted,doctora. 
+ 35  0  0	MekxNec_W0CC16.adx Neco Arc: Nyahaha! La misma socia, y  sigo ganando! Esto¡me pone completamente a la cabeza,  verdad, Mecha-kun?¡Mech-Hisui: Cierto. Que desilusion  que haya perdido¡contra una maestra tan (inutil),  doctora.
+ 
+// ƒA[ƒP[ƒhƒ‚[ƒh‚ÅŒÅ’èCPU‚ÉŸ—˜‚µ‚½—p
+ 20  1  0	MekxNec_W0CC00.adx ‡C  Fufufu, what an overwhelming victory! ccHuh?¡   But wasn't that me just now, nya?¡‡B  How satisfying. That relieved my stress for the ¡   time being. Now come along, my (foam pillow) master. 
+
+ 30  1  0	MekxNec_W0CC01.adx ‡C  I have an unfortunate announcement for you all. ¡   About Ries-san's legscc those aren't black tights, ¡   but rather pants that just LOOK like tights, nya.
+ 19  1  0	MekxNec_W0CC02.adx ‡C  Did you see that display of true friendship? Ciel ¡   got shredded! Hm? Mecha-kun, what're you doing, nya? ¡‡B  Magnificent. She could resolve all of its power ¡   problems. We have stumbled upon the ideal pilot. 
+  6  1  0	MekxNec_W0CC03.adx ‡C  That's just like Amber, to shoot off on a rocket the¡   second you take your eyes off her. ¡‡B  The Doctor has retreatedcc well, she can be ¡   dealt with later. Let us execute the plan now. 
+END
+
+//‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V©‚±‚±‚ÅƒMƒŠƒMƒŠ
+//‚`‚a<@@@‚ ‚¢‚¤‚¦‚¨‚©‚«>‚b‚c
+//‚`<@@‚ ‚¢‚¤>‚a

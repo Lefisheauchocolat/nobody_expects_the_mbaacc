@@ -1,0 +1,22 @@
+
+255  0  2	V_Sion_W0AA02.adx Que sangre tan  pobre.■Carece tanto de nutricion  como sabor.■Hablando francamente, eres un producto barato. 
+255  0  2	V_Sion_W0AA03.adx Deberias alegrate.■Tu conocimiento se vuelve mi  memoria;■tu cuerpo, mi sangre.En la muerte, has■entrado a los rangos mas bajos de la familia Eltnam. 
+255  0  0	V_Sion_W0AA04.adx Eres un estorbo!■Estas vivo, entonces por que aparecerias ante mi?! 
+255  0  0	V_Sion_W0AA05.adx Hah,  ahh!■No. No me muestres sangre!
+255  0  2	V_Sion_W0AA06.adx No puedes derrotarme mientras tu corazon permanezca en■confusion. El TATARI esta aqui. Es el  Apostol■Muerto quien roba tu ansiedad y tu futuro.
+255  0  0	V_Sion_W0AA07.adx Rojo, este color reboza de vida.■Lo veo brillando como una  joya porque■mis ojos  ya no son normales? 
+255  0  0	V_Sion_W0AA08.adx La sangre calma  mi sed.■Pero al mismo tiempo, mi hambre crece.■Es como si mi estomago se expandiera  cada vez que bebo.
+  7  0  0	V_Sion_W0AA09.adx Ahh, que estoy――――Shiki,  donde estas?■Estoy tan mareada que no puedo ver,  donde estas, Shiki?
+  9  0  1	V_Sion_W0AA10.adx Fu―――haha, hahahahahaha!■Desaparece, Zepia!■El nombre TATARI me queda mucho mejor!
+ 18  0  2	V_Sion_W0AA11.adx En mi pais, los gatos son vistos como divinidades. Ilusiones■y mentiras, pesadillas y ansiedad, divinidad y mal――――■Supongo que todos odiamos  cosas similares a nosotros.
+ 17  0  0	V_Sion_W0AA12.adx Satsuki. Yo,  no he perdido todavia―――■Definitivamente  te devolvere a tu viejo cuerpo―――■y  despues que!? 
+ 30  0  2	V_Sion_W0AA13.adx Un cuerpo hueco solo formado por particiones de memoria,■El poder de TATARI,  y tu alma. No te vuelve■inquieta, Ries? Te convertire en una muneca que es■mas facil  de manejar. 
+ 23  0  2	V_Sion_W0AA14.adx Entonces, un sucubo ha tomado parte de TATARI y se torno■en una gobernante de pesadilla.  Es una pena borrarte,■pero ese fragmento me pertence. Me lo llevare.
+ 14  0  2	V_Sion_W0AA15.adx Hierro para la piel y aceite para los fluidos corporales■No niego que esas cosas existan,  pero no me gustan.■Aun asi, si me vas a dejar este  fino marco,■Puedo hacerlo mio incluso sin transfusion de sangre.
+ 34  0  2	V_Sion_W0AA15.adx Hierro para la piel y aceite para los fluidos corporales■No niego que esas cosas existan,  pero no me gustan.■Aun asi, si me vas a dejar este  fino marco,■Puedo hacerlo mio incluso sin transfusion de sangre.
+
+// アーケードモードで固定CPUに勝利した時用
+ 18  1  0	V_Sion_W0AA00.adx As if a mere familiar could stop me.■―――That's right, it doesn't matter any more. ■I'll use these claws and fangs to eliminate ■anything that gets in my way……! 
+ 31  1  0	V_Sion_W0AA01.adx ……Was that…… the rumored Serpent of Akasha? ■Repeating cycles…… could tonight really be the■second coming of TATARI―――? 
+
+END

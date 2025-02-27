@@ -1,0 +1,33 @@
+255  0  0	SArc_W0CC05.adx Nada  mal.■Incluso la incoveniencia  de usar mis extremidades■es placentera comparada a un milenio tedioso. 
+255  0  0	SArc_W0CC06.adx Esplendido. Peleaste bien considerando■tu existencia  mal creada.■Si me juras lealtad,■Te regalare mi sangre pura. 
+255  0  0	SArc_W0CC07.adx Sin importar la existencia, hay valor en su final.■Incluso las alas  abiertas de un insecto■es una  estrella centellante. 
+255  0  0	SArc_W0CC08.adx Eso fue un poco divertido, aunque bajo en elegancia.■Mi gratitud te  servira como recompensa.■Te dejare decidir  como quieres morir.
+255  0  0	SArc_W0CC09.adx Me has caido bien, tonto.  Cura tus heridas,■perfecciona tu precision,  y apurate para desafiarme■otra vez.Hasta entonces, te dare el hechizo de inmorta■lidad.Tu forma sera la de un perro, pero me complace. 
+255  0  1	SArc_W0CC10.adx Rogando por tu vida?■Lo confundi  con el sonido de un perro hambriento.■Tu angustia indigna no es  muy entretenida. 
+255  0  1	SArc_W0CC11.adx Que aburrido.  A donde se fue toda esa motivacion?■Perdono tu transgresion  en tocar mi cuerpo,■pero este rendimiento no calmara mi mente para nada.■Hare que tomes  responsabilidad por ello. 
+255  0  1	SArc_W0CC12.adx Arrodillate, incompetente. El planeta no sera tomado■por el poder del Hombre.Mi aliento sigue siendo un■santuario, un pasillo sin pisotear por el conocimiento■humano que reprende tu cresciente insolencia.
+
+ 01  0  0	SArc_W0CC13.adx Hmph, regresar ya?■Por que deberia? Somos como hermanas, tu y yo.■Deberias estar feliz por verme  tener un■poco de placer. 
+ 12  0  0	SArc_W0CC14.adx Esto es problema para la joven princesa tambien.■Que tal ilusion  pudiese tomar forma■Hm,  ahora entiendo.■Asi que esto es lo que llaman el "pasado oscuro de uno."
+ 07  0  0	SArc_W0CC15.adx Nos hemos  encontrado antes en los suenos de la joven ■princesa, chico.Me gustan esos ojos azules. Cuando se ■posan en mi, mi corazon revolotea. Fufu. Una vampiro■con sentimientos hacia un asesino, solo puedo reir. 
+ 15  0  0	SArc_W0CC16.adx Ya se termino?■Que hombre aburrido,  colapsar en frente de una mujer.■Voy a arrancarte esos ojos  y poner el resto■en la basura. 
+ 02  0  0	SArc_W0CC17.adx Dicen que el hombre no es mas que una cana pensante,■pero eres mas  como un hierro obstinado.■Mis golpes fueron efectivos,  pero mis dedos duelen un poco.
+ 19  0  0	SArc_W0CC17.adx Dicen que el hombre no es mas que una cana pensante,■pero eres mas  como un hierro obstinado.■Mis golpes fueron efectivos,  pero mis dedos duelen un poco.
+ 09  0  1	SArc_W0CC18.adx No muestres tu cara frente a mi,  Ancestro inferior.■Que esta haciendo Ala Blanca, de todas formas?
+ 10  0  1	SArc_W0CC18.adx No muestres tu cara frente a mi,  Ancestro inferior.■Que esta haciendo Ala Blanca, de todas formas?
+ 33  0  0	SArc_W0CC19.adx Los dos elegimos el momento  erroneo para despertar.■Es un siglo demasiado pronto para apuntar al espacio. Por ahora,■quedate tranquilamente sumergido en los suenos de la nada.
+ 31  0  1	SArc_W0CC20.adx Hmm, No tengo ninguna memoria de ti.■Pero entonces, eres demasiado lastimoso.■En mi benevolencia,  Permitire que■te suicides, tonto. 
+ 22  0  0	SArc_W1CC00.adx Ciertamente, Nunca espere que la Quinta Maga■apareciera. El futuro ha  seguido el diagrama dibujado■por ella hasta ahora,pero  hay un diminuto espacio■vacio al final.Me pregunto que llenara la marca final?
+
+// アーケードモードで固定CPUに勝利した時用　※１戦目の相手に合わせて作り直すこと
+ 18  1  0	SArc_W0CC00.adx I see…… this is what a human battle is like. It's ■different from creating and manipulating the chemical ■elements themselves. ……Fu. It's rather amusing, ■if indirect. I could see this becoming a habit. 
+ 15  1  0	SArc_W0CC00.adx I see…… this is what a human battle is like. It's ■different from creating and manipulating the chemical ■elements themselves. ……Fu. It's rather amusing, ■if indirect. I could see this becoming a habit. 
+ 08  1  0	SArc_W0CC00.adx I see…… this is what a human battle is like. It's ■different from creating and manipulating the chemical ■elements themselves. ……Fu. It's rather amusing, ■if indirect. I could see this becoming a habit. 
+ 23  1  0	SArc_W0CC00.adx I see…… this is what a human battle is like. It's ■different from creating and manipulating the chemical ■elements themselves. ……Fu. It's rather amusing, ■if indirect. I could see this becoming a habit. 
+ 02  1  0	SArc_W0CC01.adx Oh dear. I overdid it and completely blew her away. ■Her body was so sturdy, I accidentally spaced out…… ■Hmm, how amusing. ■I'd like to take my time with her once more.
+ 35  1  0	SArc_W0CC02.adx I just cannot stand you.■Fall into a rift in space-time. 
+ 32  1  0	SArc_W0CC03.adx An insurance agent, huh?■I have no use for Ancestors with impure blood.■Sink into the sea of delusions and atone■for a thousand years of sin.
+ 30  1  0	SArc_W0CC04.adx That was a good, pure sound. I revise my earlier■appraisal. Fall to the underworld, shield knight. ■As an offering to the bird who dreamed of salvation,■you will nestle up close to her for all eternity. 
+ 51  1  0	SArc_L0CC06.adx Let's end this. I'll halt my body's rotation and purge■civilization from it. Children of Man…… survive within■the hell of the world's creation and I'll admit defeat. ■You can declare it to be your world without hesitation. 
+
+END

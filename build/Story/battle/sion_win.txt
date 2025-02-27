@@ -1,0 +1,27 @@
+
+255  0  0	Sion_W0AA03.adx Combate terminado. Sin obstaculos para futuras luchas.■Hm, eso fue una distraccion sin sentido. 
+255  0  0	Sion_W0AA04.adx Frenando Aceleracion de Pensamiento.■Cambiando  a modo de vigilancia.■Hare buen uso  de esta expreciencia.
+255  0  0	Sion_W0AA05.adx Mi victoria era inevitable.  Como Alquimista de Atlas,■nuestros  calculos predicen el futuro.■Todas tus acciones eran sabidas  con antelacion.
+255  0  0	Sion_W0AA06.adx Dios mio, No deseo ser molestada  ahora mismo.■Sin importar cuando experiencia  de batalla quieras,■No tengo ni un poco de tiempo libre.
+255  0  0	Sion_W0AA07.adx Eso fue muy facil.■Sugiero que te concentres en  las bases mucho mas. 
+255  0  0	Sion_W0AA08.adx No hay nadie que alcance nuestra  velocidad.■Ni siquiera los dioses Nordicos pueden  seguirle el paso■al  Hugi de Utgard-Loki. 
+255  0  0	Sion_W0AA09.adx El combate cuerpo  a cuerpo no esta mal.■Despues de mi regreso, lo agregare a mi  curriculum. 
+255  0  0	Sion_W0AA10.adx La Eterlite lee tus pensamientos y■restringe tus movimientos.  Aunque no niego su falta■de potencia de fuego, es un armamento de primera clase■en peleas  uno contra uno.
+255  0  0	Sion_W0AA11.adx Eso fue un  problema simple.■Sube la dificultad  varias veces■antes de intentar  de nuevo. 
+  7  0  1	Sion_W0AA12.adx Whew. No puedo creer que mi mente se  distrajese■durante la batalla.  No es justo para Satsuki tampoco.■Ahh,  esto es todo tu culpa, Shiki! 
+  9  0  0	Sion_W0AA13.adx Fuera de mi vista, TATARI.■No hay lugar en este mundo  para ti.
+  3  0  0	Sion_W0AA14.adx Por cierto, Akiha. Creo que la renta que me cobras■por el sotano se ha  elevado demasiado ultima-■Huh?  Me las estas proveyendo gratis, dices?■Hmm,  debe ser Kohaku.
+ 29  0  0	Sion_W0AA14.adx Por cierto, Akiha. Creo que la renta que me cobras■por el sotano se ha  elevado demasiado ultima-■Huh?  Me las estas proveyendo gratis, dices?■Hmm,  debe ser Kohaku.
+ 17  0  1	Sion_W0AA15.adx Satsuki, por que no puedes vencerme?■Como tu amiga, no se si  deberia sermonearte o■estar contenta  de que no estas madurando como■vampiro incluso  con esa actitud tuya. 
+ 22  0  0	Sion_W0AA16.adx Es suficiente. No puedo ganarte.■Antes de que una hechicera como  tu se ponga en serio,■Me retirare.
+ 30  0  1	Sion_W0AA17.adx Como iba diciendo,  no deberias contenerte■en momentos asi, Riesbyfe.  De otro modo, este■entrenamiento no tiene sentido. He pensado esto por un■largo tiempo, eres demasiado blanda conmigo y Satsuki. 
+ 20  0  0	Sion_W0AA18.adx Dire solo una cosa,  y te advierto una sola vez.■Deja  de llamarme Calcetines Egipcios.
+ 34  0  0	Sion_W0AA18.adx Dire solo una cosa,  y te advierto una sola vez.■Deja  de llamarme Calcetines Egipcios.
+ 31  0  0	Sion_W0AA19.adx Usar a otros como almacenamiento de datos.■Tan pecaminoso como sea, no es diferente a■como yo invado las memorias de otros■Mi yo del pasado jamas  se hubiese dado cuenta de eso.
+
+// アーケードモードで固定CPUに勝利した時用
+ 17  1  0	Sion_W0AA00.adx ……It attacked even Satsuki…… This TATARI is even■worse than before…… Okay. She'll be safe if I hide her■here. Well then, I'll be right back, Satsuki. ■Get some sleep for the time being.
+  9  1  0	Sion_W0AA01.adx ……The Night of Wallachia was a phantom that never ■questioned its role as the perpetrator……■Then, who was it that brought about this TATARI……?
+ 30  1  0	Sion_W0AA02.adx ―――It's as I predicted. I can still make it in time. ■Wait for me, Ries.■If I eliminate TATARI before the dawn breaks, ■you should be able to remain in your current form―――! 
+
+END

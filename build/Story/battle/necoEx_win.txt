@@ -1,0 +1,28 @@
+
+255  0  0	Neco_W0AA04.adx Los gatos monstruosos haran oscilar  los cielos.■Tomame a la ligera otra vez y me llevare■el  sol.
+255  0  0	Neco_W0AA05.adx Sabes, tengo un movimiento en el que  llego a la■luna y luego me estrello contra ti-nya. El■unico problema es que yo misma no puedo manejarlo, nya.
+255  0  0	Neco_W0AA06.adx Gata, yendo a toda velocidad al  infierno.■Me gustaria que la comida de■gato este bien hecha, por favor.
+255  0  0	Neco_W0AA07.adx Si realmente se desatara  un megaton, el usuario■saldria disparado de  su piel.■Que extrano. Hmm, tal vez deberia intentarlo con■Chiel la  proxima vez.
+255  0  0	Neco_W0AA08.adx Etapa 2 lanzada! Alcanzo  la velocidad del gato espacial■unidad  no.2■Hmm, por cierto, alguien sabe como me detengo?
+255  0  0	Neco_W0AA09.adx CQ, CQ! Recibiendo una senal SOS  de Pluton!■Bueno, su rango en  realidad bajo-nya.■Si, esta bien  ignorar esto.
+255  0  0	Neco_W0AA10.adx Mas rapido que un gato manchado.■Mas fuerte que un gato calico.■Mas barato que sardinas secas. Mas rico que una sardina.■Lo siento, pero no hay remate para este.
+255  0  0	Neco_W0AA11.adx Eh? Ir a comprar te de la tarde?■Esta bien-nya, Ire a la tienda de conveniencia dos■edificios mas abajo!
+  7  0  0	Neco_W0AA12.adx Adios chico!■Este cuerpo esta hecho de cosas como los■deseos, fantasias y pesadillas de un nene!
+ 15  0  0	Neco_W0AA12.adx Adios chico!■Este cuerpo esta hecho de cosas como los■deseos, fantasias y pesadillas de un nene!
+  0  0  0	Neco_W0AA13.adx Escuche que los gatos son iguales  a los■dioses en tu pais, pero es eso■verdad? Es el paraiso que buscan los gatos, el■pais de arena-nya? Muy bien, es hora  de subyugarlo!
+ 25  0  0	Neco_W0AA14.adx Soy una gata blanca y tu un gato  negro.■Nuestros personajes chocan *Risita*.■Supongo que eso significa que soy  una tsundere.
+ 30  0  0	Neco_W0AA15.adx Muy bien. Ahora es nuestra  oportunidad!■Abaddon☆Boinas, retirate a toda velocidad!■La salud mental de esta mujer no  es normal!
+
+// アーケードモードで固定CPUに勝利した時用
+  6  1  0	Neco_W2AA00.adx You're spectacular enough to make me want to make you ■my bride-nya. If only you didn't have that anti-cat ■ideology, that is.
+  7  1  0	Neco_W2AA01.adx There are always those girls who become gorgeous women■when you take their glasses off, but to become a poet ■is a whole new innovation-nya.
+ 20  1  0	Neco_W2AA02.adx I'm lucky you were a half-assed enemy… ■I'd have gone crazy if there were three of us.
+
+// アーケードモードで固定CPU側として勝利した時用
+ 20  2  0	Neco_L2AA00.adx Huh, this is the first time I've seen this face.
+ 29  2  0	Neco_W2AA03.adx After this blessed stomping, I'll have to try the ■Spicy Cat Punch that will make your brain rattle. ■It kind of drills into your temples.
+ 25  2  0	Neco_W2AA04.adx I'm telling you, you're copying my character.
+ 35  2  0	KohxMek_L0CC03.adx Huh? No way, I won? ■I see-nya, that's all you're capable of.■Whether it be White Len or the Doctor, the showdown ■between the related characters have to be jokes, nya.
+ 30  2  0	Ries_L0CC03.adx Beast Mode, off!■Phew, I managed to survive…　I was about to change all ■those character into Eclipse…　I guess I don't have a■choice but to seal the randomizer for a little while.
+
+END

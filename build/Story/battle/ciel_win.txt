@@ -1,0 +1,68 @@
+255  0  1	Ciel_W0AA02.adx Esta es la diferencia en nuestras habilidades. Ahora■entiendes que  "La Septima de la Agencia de Entierros"■no  es un titulo cualquiera?
+255  0  1	Ciel_W0AA05.adx La magia es dada a la humanidad como prueba del Cielo.■Desaparece, rebelde.■Has caido en las escalas del juicio.
+255  0  1	Ciel_W0AA09.adx Que el martillo golpee a  los faltos■de plegarias y gratitud.  Ve a dormir.■El momento en el que caes al abismo de la muerte■actuara como  tu sentencia. 
+255  0  1	Ciel_W0AA02.adx Esta es la diferencia en nuestras habilidades. Ahora■entiendes que  "La Septima de la Agencia de Entierros"■no  es un titulo cualquiera?
+  7  0  0	Ciel_W0AA10.adx Okay,  esta leccion termino.■Dejame el resto a mi y regresa, Tohno-kun.■Encontraras la llave del apartamento  en el buzon.
+  1  0  0	Ciel_W0AA11.adx Ooh, es raro que sufras de derrota, Arcueid.■No crees que has bajado tu guardia■un poquiiiito ultimamente?■Aunque, Supongo que lo mismo va para mi.
+  3  0  0	Ciel_W0AA12.adx Por cierto, Akiha-san,  que piensas de ir a estudiar■al exterior? Esta siendo  mas comun ultimamente.■Definitivamente recomiendo un lugar como  Francia.■Oh, no particularmete tu, Akiha-san, pero tal vez.
+ 29  0  0	Ciel_W0AA12.adx Por cierto, Akiha-san,  que piensas de ir a estudiar■al exterior? Esta siendo  mas comun ultimamente.■Definitivamente recomiendo un lugar como  Francia.■Oh, no particularmete tu, Akiha-san, pero tal vez.
+ 17  0  1	Ciel_W0AA13.adx Te dejare ir, pero no habra una segunda vez,■Yumizuka-san. No aparezcas ante mi  otra vez hasta■que hayas cambiado tu  forma de ser.
+ 30  0  1	Ciel_W0AA14.adx Una lanza imparable contra un escudo inamovible.■Algunos creen que se romperian  entre si, pero■parece que yo, la espada,  soy la vencedora esta vez. 
+  6  0  0	Ciel_W0AA15a.adx Son mis habilidades de combate afiladas contra los■trucos y trampas que pusiste.  Pareceremos iguales■pero hay algo crucial que tu no tienes■Eso es, es curry! 
+ 35  0  0	Ciel_W0AA15a.adx Son mis habilidades de combate afiladas contra los■trucos y trampas que pusiste.  Pareceremos iguales■pero hay algo crucial que tu no tienes■Eso es, es curry!  
+ 31  0  1	Ciel_W0AA16.adx Perece,  Serpiente blanca que nada en espiral.■Tu cruel y desagradable travesia termina aqui.
+  0  0  0	Ciel_W0AA03.adx Que si soy santa? Mis acciones son uno con el Senor.■Okay,  todo terminado!■Tengo hambre, es hora de ir directo  a Messian! 
+  3  0  0	Ciel_W0AA03.adx Que si soy santa? Mis acciones son uno con el Senor.■Okay,  todo terminado!■Tengo hambre, es hora de ir directo  a Messian!  
+  4  0  0	Ciel_W0AA03.adx Que si soy santa? Mis acciones son uno con el Senor.■Okay,  todo terminado!■Tengo hambre, es hora de ir directo  a Messian! 
+  5  0  0	Ciel_W0AA03.adx Que si soy santa? Mis acciones son uno con el Senor.■Okay,  todo terminado!■Tengo hambre, es hora de ir directo  a Messian! 
+  6  0  0	Ciel_W0AA03.adx Que si soy santa? Mis acciones son uno con el Senor.■Okay,  todo terminado!■Tengo hambre, es hora de ir directo  a Messian! 
+  8  0  0	Ciel_W0AA03.adx Que si soy santa? Mis acciones son uno con el Senor.■Okay,  todo terminado!■Tengo hambre, es hora de ir directo  a Messian! 
+ 14  0  0	Ciel_W0AA03.adx Que si soy santa? Mis acciones son uno con el Senor.■Okay,  todo terminado!■Tengo hambre, es hora de ir directo  a Messian!  
+ 29  0  0	Ciel_W0AA03.adx Que si soy santa? Mis acciones son uno con el Senor.■Okay,  todo terminado!■Tengo hambre, es hora de ir directo  a Messian!  
+ 35  0  0	Ciel_W0AA03.adx Que si soy santa? Mis acciones son uno con el Senor.■Okay,  todo terminado!■Tengo hambre, es hora de ir directo  a Messian!  
+  0  0  0	Ciel_W0AA04.adx Todavia un novato,ya veo. No deberias apurarte,lo sabes?■Que tal si reflexionas  el dia de hoy,■y  meditas por un par de dias?
+  3  0  0	Ciel_W0AA04.adx Todavia un novato,ya veo. No deberias apurarte,lo sabes?■Que tal si reflexionas  el dia de hoy,■y  meditas por un par de dias?
+  4  0  0	Ciel_W0AA04.adx Todavia un novato,ya veo. No deberias apurarte,lo sabes?■Que tal si reflexionas  el dia de hoy,■y  meditas por un par de dias?
+  5  0  0	Ciel_W0AA04.adx Todavia un novato,ya veo. No deberias apurarte,lo sabes?■Que tal si reflexionas  el dia de hoy,■y  meditas por un par de dias?
+  6  0  0	Ciel_W0AA04.adx Todavia un novato,ya veo. No deberias apurarte,lo sabes?■Que tal si reflexionas  el dia de hoy,■y  meditas por un par de dias?
+  8  0  0	Ciel_W0AA04.adx Todavia un novato,ya veo. No deberias apurarte,lo sabes?■Que tal si reflexionas  el dia de hoy,■y  meditas por un par de dias?
+ 14  0  0	Ciel_W0AA04.adx Todavia un novato,ya veo. No deberias apurarte,lo sabes?■Que tal si reflexionas  el dia de hoy,■y  meditas por un par de dias?
+ 29  0  0	Ciel_W0AA04.adx Todavia un novato,ya veo. No deberias apurarte,lo sabes?■Que tal si reflexionas  el dia de hoy,■y  meditas por un par de dias?
+ 35  0  0	Ciel_W0AA04.adx Todavia un novato,ya veo. No deberias apurarte,lo sabes?■Que tal si reflexionas  el dia de hoy,■y  meditas por un par de dias?
+  0  0  0	Ciel_W0AA06.adx No voy a perder  asi de facil.■Tal vez no lo parezca, pero soy una de las mejores■usuarias de las  Llaves Negras de la Iglesia. 
+  3  0  0	Ciel_W0AA06.adx No voy a perder  asi de facil.■Tal vez no lo parezca, pero soy una de las mejores■usuarias de las  Llaves Negras en la Iglesia. 
+  4  0  0	Ciel_W0AA06.adx No voy a perder  asi de facil.■Tal vez no lo parezca, pero soy una de las mejores■usuarias de las  Llaves Negras en la Iglesia.  
+  5  0  0	Ciel_W0AA06.adx No voy a perder  asi de facil.■Tal vez no lo parezca, pero soy una de las mejores■usuarias de las  Llaves Negras en la Iglesia.  
+  6  0  0	Ciel_W0AA06.adx No voy a perder  asi de facil.■Tal vez no lo parezca, pero soy una de las mejores■usuarias de las  Llaves Negras en la Iglesia.  
+  8  0  0	Ciel_W0AA06.adx No voy a perder  asi de facil.■Tal vez no lo parezca, pero soy una de las mejores■usuarias de las  Llaves Negras en la Iglesia.  
+ 14  0  0	Ciel_W0AA06.adx No voy a perder  asi de facil.■Tal vez no lo parezca, pero soy una de las mejores■usuarias de las  Llaves Negras en la Iglesia.  
+ 29  0  0	Ciel_W0AA06.adx No voy a perder  asi de facil.■Tal vez no lo parezca, pero soy una de las mejores■usuarias de las  Llaves Negras en la Iglesia.  
+ 35  0  0	Ciel_W0AA06.adx No voy a perder  asi de facil.■Tal vez no lo parezca, pero soy una de las mejores■usuarias de las  Llaves Negras en la Iglesia. . 
+  0  0  0	Ciel_W0AA07.adx La derrota de hoy  es una leccion para manana.■Si piensas cuidadosamente sobre por que  perdiste,■tu fortuna  en el futuro mejorara.
+  3  0  0	Ciel_W0AA07.adx La derrota de hoy  es una leccion para manana.■Si piensas cuidadosamente sobre por que  perdiste,■tu fortuna  en el futuro mejorara.
+  4  0  0	Ciel_W0AA07.adx La derrota de hoy  es una leccion para manana.■Si piensas cuidadosamente sobre por que  perdiste,■tu fortuna  en el futuro mejorara.
+  5  0  0	Ciel_W0AA07.adx La derrota de hoy  es una leccion para manana.■Si piensas cuidadosamente sobre por que  perdiste,■tu fortuna  en el futuro mejorara.
+  6  0  0	Ciel_W0AA07.adx La derrota de hoy  es una leccion para manana.■Si piensas cuidadosamente sobre por que  perdiste,■tu fortuna  en el futuro mejorara.
+  8  0  0	Ciel_W0AA07.adx La derrota de hoy  es una leccion para manana.■Si piensas cuidadosamente sobre por que  perdiste,■tu fortuna  en el futuro mejorara.
+ 29  0  0	Ciel_W0AA07.adx La derrota de hoy  es una leccion para manana.■Si piensas cuidadosamente sobre por que  perdiste,■tu fortuna  en el futuro mejorara.
+ 14  0  0	Ciel_W0AA07.adx La derrota de hoy  es una leccion para manana.■Si piensas cuidadosamente sobre por que  perdiste,■tu fortuna  en el futuro mejorara.
+ 35  0  0	Ciel_W0AA07.adx La derrota de hoy  es una leccion para manana.■Si piensas cuidadosamente sobre por que  perdiste,■tu fortuna  en el futuro mejorara.
+  0  0  0	Ciel_W0AA08.adx Whew.  Ambos tenemos un largo camino por recorrer.■Si tienes tiempo,  te molestaria■que peleemos de nuevo?
+  3  0  0	Ciel_W0AA08.adx Whew.  Ambos tenemos un largo camino por recorrer.■Si tienes tiempo,  te molestaria■que peleemos de nuevo?
+  4  0  0	Ciel_W0AA08.adx Whew.  Ambos tenemos un largo camino por recorrer.■Si tienes tiempo,  te molestaria■que peleemos de nuevo?
+  5  0  0	Ciel_W0AA08.adx Whew.  Ambos tenemos un largo camino por recorrer.■Si tienes tiempo,  te molestaria■que peleemos de nuevo?
+  6  0  0	Ciel_W0AA08.adx Whew.  Ambos tenemos un largo camino por recorrer.■Si tienes tiempo,  te molestaria■que peleemos de nuevo?
+  8  0  0	Ciel_W0AA08.adx Whew.  Ambos tenemos un largo camino por recorrer.■Si tienes tiempo,  te molestaria■que peleemos de nuevo?
+ 14  0  0	Ciel_W0AA08.adx Whew.  Ambos tenemos un largo camino por recorrer.■Si tienes tiempo,  te molestaria■que peleemos de nuevo?
+ 29  0  0	Ciel_W0AA08.adx Whew.  Ambos tenemos un largo camino por recorrer.■Si tienes tiempo,  te molestaria■que peleemos de nuevo?
+ 35  0  0	Ciel_W0AA08.adx Whew.  Ambos tenemos un largo camino por recorrer.■Si tienes tiempo,  te molestaria■que peleemos de nuevo?
+
+// アーケードモードで固定CPUに勝利した時用
+  7  1  0	Ciel_W0AA00.adx And right after I say that, Tohno-kun's shadow shows■up…… He really is such a sweet person.■I just hope he doesn't fail and get captured by ■a Dead Apostle……
+ 15  1  0	Ciel_W0AA00.adx And right after I say that, Tohno-kun's shadow shows■up…… He really is such a sweet person.■I just hope he doesn't fail and get captured by ■a Dead Apostle……
+ 31  1  1	Ciel_W0AA01.adx There will be no more lives for you.■Your serpentine body has been grasped ■by the hands of death this time.
+
+// アーケードモードで固定CPU側として勝利した時用
+ 51  2  0	SArc_L0CC01.adx Whew, somehow she left herself open…… ■Hey, open your eyes, Arcueid! ■It's because you're always so happy-go-lucky■that you let something so ridiculous happen!
+
+END

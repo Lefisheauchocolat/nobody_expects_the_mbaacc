@@ -1,0 +1,62 @@
+
+255  0  0	Ries_W0AA09.adx El nombre de este escudo es Verdadera Apocrifa Gamaliel.■Es la encarnacion de un orden justo, y ritmicamente■repele toda impuridad. Con esta arma mortal,■podrias viver toda una vida y nunca mostrarlo.
+255  0  0	Ries_W0AA10.adx Te burlaste de mi delgada figura. Te hare saber■que mis golpes generan alrededor de cinco  toneladas.■Ah, eso es exagerar. Um, DOS toneladas de  fuerza.■No  subestimes la fuerza de una musica.
+255  0  0	Ries_W0AA11.adx Esto no es una narracion en lo absoluto.■Violencia sin sentido no es mas que ruido. Puede■que no sea nadie para hablar, pero te falta romance.
+255  0  1	Ries_W0AA12.adx Derrotarlos es una cosa, pero no poder cuidar mi■cuerpo? Ningun campamento, ni medicos,■tampoco quiropracticos.  Nadie me dijo que■mi deber  solitario seria tan severo. 
+255  0  0	Ries_W0AA13.adx En serio, ustedes no dejan de venir.■Ni siquiera conoces los modales adecuados de un duelo.■Si todo lo que haces es pelear, no eres mas que un loro. 
+255  0  0	Ries_W0AA14.adx Mi mision no fallara.  Llevando los dos evangelios■esparcidos, Dare a conocer la voluntad de Dios. Hmm.■Asi es como deberian sonar las frases de victoria?
+  2  0  0	Ries_W0AA15.adx Que mujer.  Con una columna mas robusta que la mia■y circuitos magicos superiores,  no habia forma de■que ganara.  Pero como portadora de un bunker de pila,■parece que las habilidades de Gamaliel apenas ganaron.
+  0  0  3	Ries_W0AA17.adx Parece que esta vez gane yo, Sion.■Por cierto, me preguntaba su podrias ayudarme con mi■Japones cuando tengas tiempo. Um, no■puedo acostumbrarme a leer y escribir kanji. 
+ 11  0  0	Ries_W0AA18.adx Duerme,  Sion.■No hay valor en  una vida sin luz solar.■Tu existencia solo compara al mundo con el infierno.
+  9  0  0	Ries_W0AA19.adx Has caido en las filas de un actor de la lista C, Zepia.■Aunque TATARI dandote  forma es como otorgarle■un papel  a un tramoyista.
+ 17  0  2	Ries_W0AA20.adx Cual es tu nombre? Ya veo. Soy un caballero de■la Iglesia,  pero no somos estrictos sobre todo.■Um. Si te gustaria, que tal si tomamos■un  te despues de esto? 
+  7  0  1	Ries_W0AA22.adx Asi que tu eres Shiki Tohno.■Realmente no tengo ningun rencor hacia ti, pero.■Tal vez deberia darle una  paliza un poco mas.■Por otra parte,  Sion y Satsuki se enojaran conmigo.
+ 20  0  3	Ries_W0AA06.adx Espeluznante, tierno,  espeluznantes, tierno■espeluznante-tierno. huh?! Creo que vi■a una criatura muy feliz. E-Era como un sueno.■Ese paraiso  tenia que ser un sueno.
+ 34  0  3	Ries_W0AA06.adx Espeluznante, tierno,  espeluznantes, tierno■espeluznante-tierno. huh?! Creo que vi■a una criatura muy feliz. E-Era como un sueno.■Ese paraiso  tenia que ser un sueno.
+
+  7 512 1	Ries_W0AA23.adx Haa. Esta cantidad constante de hombres es deprimente. 
+  9 512 1	Ries_W0AA23.adx Haa. Esta cantidad constante de hombres es deprimente. 
+ 10 512 1	Ries_W0AA23.adx Haa. Esta cantidad constante de hombres es deprimente. 
+ 15 512 1	Ries_W0AA23.adx Haa. Esta cantidad constante de hombres es deprimente. 
+ 28 512 1	Ries_W0AA23.adx Haa. Esta cantidad constante de hombres es deprimente. 
+ 31 512 1	Ries_W0AA23.adx Haa. Esta cantidad constante de hombres es deprimente. 
+
+  0 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda? 
+  1 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda? 
+  2 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda?  
+  3 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda?  
+  4 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda?  
+  5 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda?  
+  6 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda?  
+  8 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda? 
+ 13 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda?  
+ 17 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda?  
+ 18 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda?  
+ 22 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda?  
+ 23 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda?  
+ 29 512 0	Ries_W0AA16.adx Termine de tratar tus heridas.■No te veas tan molesto, fui cuidadosa.■Que clase de caballero seria si  hiriese■una  cara asi de linda?  
+
+  9  0  0	Ries_W0AA21.adx No hay necesidad de arrepentirse.  Regresa a■las cenizas, vampiro. La melodia de la■angustia del  purgatorio le pega a tu especie.
+ 10  0  0	Ries_W0AA21.adx No hay necesidad de arrepentirse.  Regresa a■las cenizas, vampiro. La melodia de la■angustia del  purgatorio le pega a tu especie.
+ 12  0  0	Ries_W0AA21.adx No hay necesidad de arrepentirse.  Regresa a■las cenizas, vampiro. La melodia de la■angustia del  purgatorio le pega a tu especie.
+ 31  0  0	Ries_W0AA21.adx No hay necesidad de arrepentirse.  Regresa a■las cenizas, vampiro. La melodia de la■angustia del  purgatorio le pega a tu especie.
+
+// アーケードモードで固定CPUに勝利した時用
+ 22  1  0	Ries_W0AA00.adx ……She ran away so quickly.■I'm glad her wounds were light, but…… ■calling me "Mister" was pretty rude.
+ 15  1  0	Ries_W0AA01.adx ……Silence is not a sound. If it were, ■it would be nothing but the sound of death……■Perhaps you were the embodiment of that concept.
+ 14  1  2	Ries_W0AA02.adx ……It's broken…… ■Oh, but what―――what artistic molding it has. ■……I wonder if I could fix it…… it sure would be great ■to have one…… 
+ 10  1  0	Ries_W0AA03.adx No reaction…… again…… what's wrong with this town?■……No, wait. Is it my own body that has something■wrong with it……?
+  2  1  0	Ries_W0AA04.adx Even with these deep wounds, I don't feel a single bit■of pain. Is my battle over? ……You're right, Executor. ■This subjugation of my final moments…… no matter■how I feel about it, it doesn't change who I am.
+ 13  1  0	Ries_W0AA05.adx That girl just now was an illusion too, huh? ……Yes, ■I remember now. This kind of trick was HIS specialty. ■He enslaved my final moment. I have returned to ■the "Night of Wallachia," I must defeat it―――
+ 20  1  3	Ries_W0AA06.adx ……Disgusting…… cute…… disgusting…… cute…… ■Disgustingly cute………… huh?! I think I just saw■a really happy creature…… I-It was just a dream…… ■That paradise had to be a dream.
+ 31  1  0	Ries_W0AA07.adx The vampire Roa――why was the Serpent of Akasha here……? ■No, it's another illusion. The vampire who created an ■eternal soul is said to have already been destroyed.
+ 32  1  0	Ries_W0AA08.adx I've made you suffer alone for all this time. ■……Sleep well, Sion. I'll be joining you soon. ■―――Yes. As soon as the dawn breaks. 
+
+// アーケードモードで固定CPU側として勝利した時用
+  0  2  0	Sion_L0AA00.adx ……I won……? I thought you could do it, but you have■no hope of matching Osiris if you can't beat me.■……No, Sion, I'm sure you'll be happier■disappearing without meeting that thing.
+ 34  2  0	MekxNec_L0CC01.adx Eh? You know of a Dead Apostle who came in by plane?■You're kidding! You won't fool me that easily. Now■show me around this new millenium like you promised.■I left this area's defense to that maid from before.
+ 19  2  0	P_ciel_L0CC02.adx Allow me to correct you.■I am no well-bred lady. ■I myself don't even know how I lived in the days■before the Cardinal took me in. 
+ 35  2  0	KohxMek_L0CC02.adx Alright…… I've finally obtained the Japanese art……■This molding, this appearance…… If this is■a dream, don't wake me…… yeah. I'll have to buy ■a dedicated display case for it when I get back.
+ 51  2  0	SArc_L0CC04.adx I beat her…… a part of this planet, ■with my own hands…… ……Haha, how ridiculous…■why couldn't I pull off this kind of miracle■back then―――? 
+
+END

@@ -1,0 +1,29 @@
+
+255  0  0	Kishima_W0AA03.adx Buscas  un Segundo de confianza?■Si perdonas mi atrevimiento,■Puedo traerte salvacion.
+255  0  0	Kishima_W0AA04.adx Tienes un largo camino para el Ichinen Sanzen, vanidoso.
+255  0  0	Kishima_W0AA05.adx No hay ganancia ni perdida en la muerte.■Reconoce que es la caida del Hombre el■no poder  vivir sin el concepto de crear mal. 
+255  0  0	Kishima_W0AA06.adx Que fue eso? Un mono podria hacerlo mejor.
+255  0  0	Kishima_W0AA07.adx Descarta los cinco sentidos enteramente,■y alcanza el Nirvana sin remordimientos.
+255  0  0	Kishima_W0AA08.adx Nada  mal.■Ven a verme si quieres pelear de nuevo. 
+255  0  0	Kishima_W0AA09.adx Solo un pensamiento al azar, pero realmente eres humano?
+255  0  0	Kishima_W0AA10.adx Una semilla malvada  brotara en cualquier suelo.■Solo presumias? Eras venenoso?■Tal vez tu craneo me lo diga. 
+255  0  0	Kishima_W0AA11.adx Disciplina moral.  Concentracion. Sabiduria.■Estas son las Tres Practicas.  Son esenciales.■Recuerdalas.
+255  0  0	Kishima_W0AA12.adx Bueno,  parece que esta vez soy yo el ultimo en pie.■El mundo esta siempre cambiando y cambiando.■Uno nunca vera el mismo resultado dos veces.
+255  0  0	Kishima_W0AA13.adx Es un mundo cruel,  despues de todo.■Aunque no ardo,  la vida es un infierno ardiente■lleno de vida y sufrimiento.
+255  0  0	Kishima_W0AA14.adx He estado disfrutando  del sake ultimamente.■Avisame si hay algun tipo  que te guste particularmente.
+  7  0  0	Kishima_W0AA15.adx Tienes a la persona  equivocada.■Ve a por  alguien mas.
+ 15  0  0	Kishima_W0AA16.adx Superas a tu padre en talento,  pero tu espiritu■y tecnica tienen fallas. Que decepcion  ver que te■has convertido en un fantasma hambriento,  Nanaya.
+  1  0  0	Kishima_W0AA17.adx Que mujer absurda.■Puede que seas una encarnacion  de Buddha,■pero no estas hecha para  esta tierra. 
+ 13  0  0	Kishima_W0AA18.adx Un avatar de  Tohno?■Salvacion para un demonio come hombres es hilarante.■Regresa a tu propio  infierno personal. 
+  9  0  0	Kishima_W0AA19.adx Para realmente captar la nada.■Comprendo.  Por ahora, seguire viviendo y veremos.
+  4  0  0	Kishima_W0AA20.adx Conozco a dos hermanas  parecidas a ustedes.■Podrian retirarse por favor?
+  6  0  0	Kishima_W0AA21.adx Ahora.■Podrias  dejar de llamarme "joven maestro?" 
+ 35  0  0	Kishima_W0AA21.adx Ahora.■Podrias  dejar de llamarme "joven maestro?" 
+ 33  0  0	Kishima_W0AA22.adx Te muestras desordenada, pero hay una majestia digna■en tu nucleo. Han los Ryougis alcanzado el Origen?■Eso, tambien, seria una historia triste. 
+
+// アーケードモードで固定CPUに勝利した時用
+  1  1  0	Kishima_W0AA00.adx Cherry blossoms in the summer? A fitting stage■for a vampire who walks around in broad daylight. 
+ 30  1  0	Kishima_W0AA01.adx My skills are only good for destruction.■But yours bring the strength to protect people. ■……If we were to compare our qualities,■I would have lost from the start. 
+ 23  1  0	Kishima_W0AA02.adx Snowfall in the summer disappears overnight.■We are both illusions, shimmering like hot air, ■but in your last moments you used death ■to speak of life. 
+
+END

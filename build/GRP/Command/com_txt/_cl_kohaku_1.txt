@@ -1,0 +1,140 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = Battou - Air Strike
+Type = 0
+//CmdSub = BE
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Battou - Rumble Strike
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_006]
+Name = Moving☆Star
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_007]
+Name = Shooting☆Star
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_020]
+Name = Prepare Battou - Rude Dismissal
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+
+[cm_025]
+Name = Prepare Battou - Rude Dismissal
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_026]
+Name = Magical Amber Missile
+Type = 0
+CmdSub = 空中
+Cmd = 214A
+
+[cm_027]
+Name = Magical☆Missile Squall
+Type = 0
+CmdSub = 空中
+CmdSub = ホールド可
+Cmd = 214BoC
+
+[cm_028]
+Name = Magical Amber Missile
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = Difficult Childhood♪
+Type = 0
+CmdSub = ホールド可
+Cmd = 22AoBoC
+
+[cm_045]
+Name = Difficult Childhood♪
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_046]
+Name = Johnny
+Type = 1
+CmdSub = 150%
+CmdSub = EXEdge
+Cmd = 2222C
+
+[cm_047]
+Name = This is a victim of modern medicine.
+Type = 1
+CmdSub = 150%
+CmdSub = EXEdge
+Cmd = 22222C
+
+[cm_050]
+Name = Amber Colosseum - Uppercut
+Type = 0
+CmdSub = 接近 
+Cmd = 63214C
+Child = 1
+
+[cm_051]
+Name = Amber Colosseum - Uppercut Chain
+Type = 0
+CmdSub = 掴み中
+Cmd = AoBoC
+
+[cm_055]
+Name = Magical Attack - Kohapon X
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 1632143C
+
+//AD AAD LA
+[cm_060]
+Name = Low Blow Amber Kick
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = Low Blow Amber Overthrow
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = Ultimate Battou - Happy New Year's Comet
+Type = 100
+CmdSub = LA

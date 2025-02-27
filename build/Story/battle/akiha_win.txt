@@ -1,0 +1,26 @@
+
+255  0  1	Akiha_W1AA04.adx Deseas continuar?■Si lo prefieres, puedo estar contigo■hasta que entiendas y hasta que este satisfecha. 
+255  0  0	Akiha_W1AA05.adx Eso fue agradable.■Si  hay una proxima vez,■Me asegurare de pelear contigo de nuevo.
+255  0  1	Akiha_W1AA06.adx Que es esto? Parece que puedo luchar decentemente.■Parece que no hay necesidad de un impulso  de inversion. 
+255  0  0	Akiha_W1AA07.adx Oh, que cara tan insatisfecha.■Quieres intentarlo  una vez mas?■Sin embargo, no creo que el  resultado cambie nunca.
+255  0  0	Akiha_W1AA08.adx Y eso  es eso.■Fufu,  eso fue demasiado vulgar?
+255  0  0	Akiha_W1AA09.adx Como estuvo?■Acabo de comenzar mis lecciones  de baile,■pero eso estuvo bastante bien, no? 
+255  0  0	Akiha_W1AA10.adx Vaya, que terribles heridas. Llamare a una enfermera■inmediatamente, asi que no se preocupes.■Ah, pero ten cuidado de que no  te de una sobredosis■de medicina extrana,esta bien?
+255  0  0	Akiha_W1AA11.adx Eso fue realmente agradable.■Bueno, entonces te digo adios. 
+
+  7  0  0	Akiha_W1AA12.adx Ves? Yo puedo cuidar de mi misma, Nii-san.■La proxima vez, por favor,■discute las cosas conmigo tambien.
+  4  0  1	Akiha_W1AA13.adx Ustedes dos tienen mucha energia en exceso, no es asi?■Fufu, entonces  aumentare aun mas sus cargas de trabajo.■Bueno, donde  esta su respuesta? Aqui es donde■sonrien y  dicen "con mucho gusto", no es asi? 
+  5  0  1	Akiha_W1AA13.adx Ustedes dos tienen mucha energia en exceso, no es asi?■Fufu, entonces  aumentare aun mas sus cargas de trabajo.■Bueno, donde  esta su respuesta? Aqui es donde■sonrien y  dicen "con mucho gusto", no es asi? 
+  6  0  1	Akiha_W1AA13.adx Ustedes dos tienen mucha energia en exceso, no es asi?■Fufu, entonces  aumentare aun mas sus cargas de trabajo.■Bueno, donde  esta su respuesta? Aqui es donde■sonrien y  dicen "con mucho gusto", no es asi? 
+ 35  0  1	Akiha_W1AA13.adx Ustedes dos tienen mucha energia en exceso, no es asi?■Fufu, entonces  aumentare aun mas sus cargas de trabajo.■Bueno, donde  esta su respuesta? Aqui es donde■sonrien y  dicen "con mucho gusto", no es asi? 
+ 17  0  0	Akiha_W1AA14.adx Lo entiendes ahora,  Yumizuka-san?■Ni tus anhelos por el ni tu tiempo  como■un hibrido se puede comparar con el mio. Si no te gusta,■tendras que entrenar  por otra decada.
+  0  0  0	Akiha_W1AA15.adx Las probabilidades estaban a mi favor hoy,  no Sion?■Es posible que todavia no pueda  usar Etherlite,■pero no perdere  contra ti en una pelea.
+ 30  0  0	Akiha_W1AA16.adx Gracias, fue un gran cambio de  ritmo.■Tu eres la amiga de Sion. Riesbyfe-san,  correcto?■Dime, podrias  entrenar conmigo una vez a la semana?
+
+// アーケードモードで固定CPUに勝利した時用
+ 11  1  1	Akiha_W0AA00.adx ……That vampire…… it looked like she was created ■from shadows, but I feel like I've met her before……?■How strange, my memory is fuzzy…… 
+  7  1  2	Akiha_W0AA01.adx ……Whew, and that's that. If Nii-san was around, ■I'd go absolutely cra――― I mean, I wouldn't be able to■freely move around. I'll apologize to you later,■Nii-san, so please rest up for now. 
+  0  1  2	Akiha_W0AA02.adx I remember now, Sion. We met one year ago, when the ■exact same event occurred. ……Regardless, don't■be mistaken. The reason I didn't listen to you before,■was because Nii-san was there.
+ 32  1  0	Akiha_W0AA03.adx ……The dawn is breaking…… the sea of blood and ■the memory of the girl who was just here are both ■fading…… I must correct one thing. That last smile■as you disappeared was truly just like you, Sion. 
+
+END

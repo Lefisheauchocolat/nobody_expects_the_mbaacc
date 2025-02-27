@@ -1,0 +1,30 @@
+
+255  0  0	Ryougi_W2AA00.adx Tienes demasiado tiempo libre.
+255  0  0	Ryougi_W2AA01.adx Ya terminaste?■Entonces me voy a  casa. Hay un tipo■irritante que se preocupa por mi■si me quedo fuera demasiado tarde.
+255  0  0	Ryougi_W2AA02.adx Conoces ojos que sean como los mios? Bien,  gracias.■Probablemente tampoco sea un tipo muy agradable, verdad?
+255  0  0	Ryougi_W2AA03.adx Amo una buena pelea, pero  ustedes■estan llevando esto demasiado lejos.■Voy a quedar atrapada en la vibra.■Eso no es bueno para mi  humanidad, sabes?
+255  0  0	Ryougi_W2AA04.adx Ya basta de estos aburridos asesinatos por mutilacion.■Intenta dominar un poco tus raros pasatiempos. 
+255  0  1	Ryougi_W2AA05.adx Dondequiera que vaya, es la misma vieja  historia. 
+255  0  1	Ryougi_W2AA06.adx Es como si esto ni siquiera fuera  real.■Siempre ha sido asi, pero hoy  la sensacion de■que estoy  en una ilusion es aun mas fuerte.
+255  0  1	Ryougi_W2AA07.adx Seguro que hace calor.■Me hace querer un helado■de fresa, y ni  siquiera me gusta.
+
+  7  0  0	Ryougi_W2AA09.adx Llegaste una decada antes de hablar  de la muerte.■No, quizas con tres de retraso. Cuando se trata de■estos ojos, Soy la  mayor aqui, Romeo. 
+ 28  0  0	Ryougi_W2AA10.adx Exterminio de demonios,  eh?■Umm, fue Kintarou quien  mato al borracho? 
+ 22  0  0	Ryougi_W2AA11.adx Aozaki? Podria ser ella uno de  sus parientes?■Hmph. Ella es mas normal de lo que esperaba.■Ella humillo a esa Touko,  asi que pense■que seria  mas, sabes? 
+ 10  0  0	Ryougi_W2AA12.adx Conozco a un hombre como tu. Supongo  que esto■significa que el infierno  y■el caos son realmente muy parecidos. 
+  1  0  0	Ryougi_W2AA13.adx Siento que nos conocimos  antes,■pero tambien que normalmente nunca nos encontrariamos.■Oye, mujer estupida.■No has estado trascendiendo el tiempo, verdad? 
+ 20  0  0	Ryougi_W2AA15.adx Hola, la figura del gato apenas  sigue■el codigo de transmision. Voy  a dejarte ir,■asi que entrega tu celular. Eliminare hasta el  ultimo■rastro del correo electronico de ese tipo. 
+ 34  0  0	Ryougi_W2AA15.adx Hola, la figura del gato apenas  sigue■el codigo de transmision. Voy  a dejarte ir,■asi que entrega tu celular. Eliminare hasta el  ultimo■rastro del correo electronico de ese tipo. 
+
+  9 512 0	Ryougi_W2AA14.adx Wow, un vampiro.■Y ahora, aparece otra cosa loca.■Me pregunto si todos  estos tipos solo■me estan siguiendo "a mi". 
+ 11 512 0	Ryougi_W2AA14.adx Wow, un vampiro.■Y ahora, aparece otra cosa loca.■Me pregunto si todos  estos tipos solo■me estan siguiendo "a mi". 
+ 12 512 0	Ryougi_W2AA14.adx Wow, un vampiro.■Y ahora, aparece otra cosa loca.■Me pregunto si todos  estos tipos solo■me estan siguiendo "a mi". 
+
+// アーケードモードで固定CPUに勝利した時用
+ 10  1  0	Ryougi_W2AA16.adx This many monsters need killing?! ■……Give me a break. What the heck is wrong ■with this Misaki Town place, anyway?
+ 23  1  0	Ryougi_W2AA17.adx A demonic cat that leads you into a dream………… ■how convenient. It's one thing to care for your ■master, but aren't you going about it the wrong way?
+
+// アーケードモードで固定CPU側として勝利した時用
+ 20  2  0	Ryougi_W2AA18.adx Sheesh…… how ridiculous, to come to me. ■If you want to make your debut so badly,■why don't you try it as an Albatross or something?
+
+END

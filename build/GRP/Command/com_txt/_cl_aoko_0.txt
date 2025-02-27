@@ -1,0 +1,208 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = Mina Estelar
+Type = 0
+CmdSub = 
+Cmd = 236A
+
+[cm_000]
+Name = Mina Estelar
+Type = 0
+CmdSub = 
+Cmd = 236BoC
+Child = 1
+
+[cm_000]
+Name = Cadena de Mina Estelar 1
+Type = 0
+CmdSub = BEMAX
+Cmd = 236A
+Child = 1
+
+[cm_000]
+Name = Cadena de Mina Estelar 2
+Type = 0
+Cmd = 236A
+
+[cm_005]
+Name = Mina Estelar 
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_000]
+Name = Lluvia Estelar
+Type = 0
+CmdSub = 空中
+//CmdSub = ホールド可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Lluvia Estelar
+Type = 1
+CmdSub = 空中
+CmdSub = ホールド可
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = Te pateare!
+Type = 0
+CmdSub = 空中可
+Cmd = 623A
+
+[cm_010]
+Name = Te pateare!
+Type = 0
+CmdSub = 空中可
+Cmd = 623BoC
+Child = 1
+
+[cm_010]
+Name = Te pateare! Cadena
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_015]
+Name = Te pateare!!
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = Estrella Flotante
+Type = 0
+CmdSub = 空中可
+CmdSub = ホールド可
+Cmd = 214AoBoC
+
+[cm_025]
+Name = Estrella Flotante
+Type = 1
+CmdSub = 空中可
+CmdSub = ホールド可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_030]
+Name = Estrella Flotante
+Type = 0
+CmdSub = ホールド可
+Cmd = 421AoBoC
+Child = 1
+
+[cm_030]
+Name = Cadenad de Estrella Flotante 
+Type = 0
+Cmd = 8
+
+[cm_035]
+Name = Dominio Estelar
+Type = 1
+CmdSub = ホールド可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 421C
+Child = 1
+
+[cm_030]
+Name = Cadena de Dominio Estelar 
+Type = 0
+Cmd = 8o2o4o6
+
+
+[cm_040]
+Name = Estrella Flameante
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_045]
+Name = Estrella Flameante
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_045]
+Name = Repite la Magia
+Type = 1
+CmdSub = 150%
+CmdSub = EXEdge
+Cmd = 22D
+
+[cm_050]
+Name = Arcoiris Estelar
+Type = 0
+CmdSub = 
+Cmd = 63214AoBoC
+
+[cm_055]
+Name = Arcoiris Estelar
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 63214C
+
+[cm_060]
+Name = Aoko Uno Dos Tres
+Type = 0
+CmdSub = 
+Cmd = 6A.B.C
+Child = 1
+Child = 2
+
+[cm_060]
+Name = Cadena Aoko Uno Dos Tres 1
+Type = 0
+CmdSub = 
+Cmd = 236C
+
+[cm_060]
+Name = Cadena Aoko Uno Dos Tres 2
+Type = 0
+CmdSub = 
+Cmd = 214C
+
+
+//AD AAD LA
+[cm_060]
+Name = Rotura Severa
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = Deslizado de Rotura Severa
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = Retroflujo - Luz de Genesis 
+Type = 100
+CmdSub = LA
+

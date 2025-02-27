@@ -1,0 +1,88 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = Wrist Pizzicato
+Type = 0
+CmdSub = ホールド可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Wrist Pizzicato
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = Breath Cantino
+Type = 0
+CmdSub = 
+CmdSub = 空中可
+Cmd = 623AoBoC
+
+[cm_015]
+Name = Breath Cantino
+Type = 1
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = Wrist Staccato
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+
+[cm_025]
+Name = Wrist Staccato
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_050]
+Name = Wrist Portato
+Type = 0
+CmdSub = ガード中
+Cmd = 63214AoBoC
+
+[cm_055]
+Name = Wrist Portato
+Type = 1
+CmdSub = ガード中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = Official Apocrypha
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = Official Apocrypha
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = Official Apocrypha - Original Sin Embrace
+Type = 100
+CmdSub = LA
+ 

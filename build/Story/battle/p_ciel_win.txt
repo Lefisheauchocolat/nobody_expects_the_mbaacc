@@ -1,0 +1,39 @@
+//ÇPÇQÇRÇSÇTÇUÇVÇWÇXÇOÇPÇQÇRÇSÇTÇUÇVÇWÇXÇOÇPÇQÇRÇSÇTÇUÇVÅ©Ç±Ç±Ç≈ÉMÉäÉMÉä
+255  0  1	P_ciel_W0CC04.adx Eliminacion  completa.Å°Seven,  cambia a tu modo basico.Å°Nos dirigimos  al siguiente.
+255  0  0	P_ciel_W0CC05.adx Normalmente me apoyo en la experiencia y tecnicaÅ°para la batalla, pero  con esta arma puedoÅ°atravesar todo, no puedes detenerme.
+255  0  1	P_ciel_W0CC06.adx Estas fuera de tu liga.  Que patetico.Å°Mi fuerza esta aumentada  con magia.Å°Es lo minimo que yo necesito para levantar esta armaÅ°siendo  mujer.
+255  0  0	P_ciel_W0CC07.adx Este martillo es un cuerno de pureza que he vividoÅ°un milenio. Sientete  honrado.Å°No fue pensado para  ser usado en alguien como tu.
+255  0  0	P_ciel_W0CC08.adx Cuida tus propias heridas.Å°No tengo el tiempo ni los recursos de sobra actualmente.
+255  0  0	P_ciel_W0CC09.adx Mis circuitos magicos son  superiores a los tuyos.Å°Si los tuyos son una bicicleta, entonces los  miosÅ°son de un avion. Realmente  piensas que  ganaras? 
+  1  0  0	P_ciel_W0CC10.adx Subestimaste mi habilidad, Arcueid. Perfore tu corazonÅ°mucho antes de que tu  pudieras aumentar tus habilidadesÅ°vampiricas. 
+  7  0  1	P_ciel_W0CC11.adx Hasta aqui llegaste.Å°No  necesitas fuerza para pararte,Å°ni estar consciente.Solo  estate ahi, como un cadaver.
+  3  0  1	P_ciel_W0CC12.adx Supongo que no debo escuchar tus ultimas palabras.Å°Tu poder ha excedido demasiado tu cuerpo humano.Å°Querias un final asi mas que nadie,verdad,Akiha-san? 
+ 13  0  1	P_ciel_W0CC12.adx Supongo que no debo escuchar tus ultimas palabras.Å°Tu poder ha excedido demasiado tu cuerpo humano.Å°Querias un final asi mas que nadie,verdad,Akiha-san? 
+ 29  0  1	P_ciel_W0CC12.adx Supongo que no debo escuchar tus ultimas palabras.Å°Tu poder ha excedido demasiado tu cuerpo humano.Å°Querias un final asi mas que nadie,verdad,Akiha-san?  
+ 30  0  1	P_ciel_W0CC13.adx Hmm,una lanza imparable contra un escudo inamovible.Å°Algunos creen que se destrozarian entre si, peroÅ°parece que yo, la espada, soy la vencedora esta vez. 
+ 12  0  0	P_ciel_W0CC14.adx Toda esta charla sin sentido me pone de los nervios.Å°Me relajare  atravesandote el cuello con una estaca.
+ 31  0  0	P_ciel_W0CC15.adx Esta vez se termino, rindete, Serpiente de Akasha.Å°La Septima Escritura ha quebrado  tu alma. ExperimentaÅ°tu distorsionado dogma en la  oscuridad.
+ 09  0  0	P_ciel_W0CC16.adx No tengo ni amabilidad ni  simpatia por lo inhumano.Å°Tu muerte no sera mas  que una linea en mis registros.
+ 10  0  0	P_ciel_W0CC16.adx No tengo ni amabilidad ni  simpatia por lo inhumano.Å°Tu muerte no sera mas  que una linea en mis registros.
+ 11  0  0	P_ciel_W0CC16.adx No tengo ni amabilidad ni  simpatia por lo inhumano.Å°Tu muerte no sera mas  que una linea en mis registros.
+ 17  0  0	P_ciel_W0CC16.adx No tengo ni amabilidad ni  simpatia por lo inhumano.Å°Tu muerte no sera mas  que una linea en mis registros.
+ 23  0  0	P_ciel_W0CC16.adx No tengo ni amabilidad ni  simpatia por lo inhumano.Å°Tu muerte no sera mas  que una linea en mis registros. 
+ 33  0  1	P_ciel_W0CC17.adx Una composicion que no es ni natural  ni artificial.Å°La ideologia oriental puede ser profunda  a veces.Å°Puede crear personas como tu queÅ°han alcanzado misterios  siendo aun humanos. 
+ 51  0  0	P_ciel_W0CC18.adx Ha..Å°Estas siendo una  molestia, no vuelvas  a aparecer.Å°Probablemente tome  toda la Agencia de EntierrosÅ°para lidiar contigo. 
+ 22  0  0	P_ciel_W0CC19.adx Esa era la Quinta Maga, se ve parecida a mi,Å°pero a la vez somos opuestas. Mientras yo generoÅ°cantidades enormes de energia magica, ella la acelera. 
+ 20  0  0	P_ciel_W0CC20.adx Quedate ahi parado y ergido. Okay, ahoraÅ°cierra los ojos.  Solo hazlo, no te muevas. Si lo haces,Å°te dolera mas.  Que que voy a hacer?Å°Lo  dejo a tu imaginacion.
+ 20  0  0	P_ciel_W0CC21.adx No me compares contigo! Soy una deÅ°las 5 heroinas y se sabe! ÅcÅcEh? TendreÅ°mas tiempo en pantalla? Y muchas apariciones? ...*Ahem* Å°Supongo que  no seria malo escuchar los detalles. 
+
+// ÉAÅ[ÉPÅ[ÉhÉÇÅ[ÉhÇ≈å≈íËCPUÇ…èüóòÇµÇΩéûóp
+ 15  1  0	P_ciel_W0CC00.adx What a curious familiar. Created from malicious rumorsÅ°for a single nightÅcÅc I'm surprised they really exist. Å°Alright, Seven, finish him off. Å°Pulverize everything from the collarbone on up. 
+ 12  1  1	P_ciel_W0CC01.adx She may be a True Ancestor, but is this all her shadowÅ°can do? You seem satisfied, but this was a huge Å°disappointment for me. There were so many things that Å°I was hoping to try out.
+ 30  1  1	P_ciel_W0CC02.adx So Gamaliel didn't end up destroyed?Å°I'm the better wielder, but as for the ScripturesÅ\Å\Å\Å°Well, when it comes to their Guardian Spirits,Å°I suppose it's a draw.
+ 32  1  0	P_ciel_W0CC03.adx A processor that follows the Moon Cell pseudo-spiritual Å°particle theoryÅcÅc this fusion of science and magecraftÅ°is far beyond our understanding. I'll put Sion Eltnam Å°Atlasia's disposal on hold. She may yet have her uses.
+
+// ÉAÅ[ÉPÅ[ÉhÉÇÅ[ÉhÇ≈å≈íËCPUë§Ç∆ÇµÇƒèüóòÇµÇΩéûóp
+// 34  2  0	MekxNec_L0CC02.adx Now then, let's continue our earlier discussion.Å°You were saying something about the caste system. Å°Well then, allow me to make it very clear just who'sÅ°part of the priest class and who's in the worker class. 
+ 35  2  0	KohxMek_L0CC01.adx I hope you've learned your lesson now. Seriously, Å°what a troublesome person. Curry made from cat stockÅ°is an affront to the entire human race, if you ask me.
+ 51  2  0	SArc_L0CC05.adx Å\Å\Å\I-I managed to drive her away somehow, butÅcÅcÅ°what does this victory mean?Å°Could it be that I just saved the Earth?
+ 30  2  0	Ries_L0CC02.adx That was like giving a loaded gun to a child. Å°I'll have to cremate all of these creaturesÅcÅc Å°The question is, what to do with this gullible templar? Å°Maybe I'll have Sion-san give her a good scolding.
+
+END

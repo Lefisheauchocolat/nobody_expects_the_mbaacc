@@ -1,0 +1,112 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = True Ancestor Beam
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Opuba!!
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_000]
+Name = Air-to-Ground Opuba
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_005]
+Name = That was too fast...!
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = EM Wave Ultimate Attack - Necoesthetics
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = Super EM Wave Ultimate Attack - Necoesthetics - Stamp Rally East Japan
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = Cat Back From The Underworld R (Returns)
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+
+[cm_020]
+Name = I Want to Go to Crocodile Country
+Type = 0
+CmdSub = 空中
+Cmd = 214AoBoC
+
+[cm_035]
+Name = Six Segment God Cat
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = Abaddon Flare
+Type = 0
+CmdSub = 
+Cmd = 22A
+
+[cm_040]
+Name = Abaddon Force
+Type = 0
+CmdSub = 
+Cmd = 22BoC
+
+[cm_045]
+Name = Elite Neco Corps Abaddon Paris☆Beret
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_055]
+Name = Nyampsey Roll AC
+Type = 1
+CmdSub = HEAT
+CmdSub = 得EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = Dawn of the Cat
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C
+

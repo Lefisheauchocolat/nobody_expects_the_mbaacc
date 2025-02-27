@@ -1,0 +1,110 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = Flash Sheath - Four Ways
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+Child = 1
+
+[cm_000]
+Name = Flash Sheath - Four Ways Chain
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+Child = 1
+
+[cm_000]
+Name = Flash Sheath - Four Ways Chain
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = Flash Sheath - One Mile Four Ways
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = Flash Run - Six Rabbits
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+Child = 1
+
+[cm_010]
+Name = Flash Run - Six Rabbits Chain
+Type = 0
+CmdSub = 
+Cmd = AoBoC
+
+[cm_015]
+Name = Flash Run - Six Rabbits
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = Flash Sheath - Octagon Thrust
+Type = 0
+CmdSub = 
+Cmd = 214A
+
+[cm_020]
+Name = Flash Sheath - Seven Nights
+Type = 0
+CmdSub = 
+Cmd = 214B
+
+[cm_020]
+Name = Flash Sheath - One Gust
+Type = 0
+CmdSub = 接近
+Cmd = 214C
+
+[cm_040]
+Name = Flash Run - Moon in the Water
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+//AD AAD LA
+[cm_060]
+Name = Flash Sheath - Monk Imprisoned By Doubts
+Type = 10
+CmdSub = 追加入力有
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = Flash Sheath - Monk Imprisoned By Doubts
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = Extreme Death - Seven Nights
+Type = 100
+CmdSub = LA
+

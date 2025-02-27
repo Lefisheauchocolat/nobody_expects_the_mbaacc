@@ -1,0 +1,30 @@
+
+255  0  0	Miyako_W0AA03.adx Que tal eso? Ya te rindes?■El Baji Quan no necesita  un segundo golpe! 
+255  0  1	Miyako_W0AA04.adx Yay, Gane!■Ahora mi hermano  mayor me alabara! 
+255  0  1	Miyako_W0AA05.adx Genial, genial!  Simplemente perfecto!■Este es el resultado  de mi entrenamiento kung fu.
+255  0  0	Miyako_W0AA06.adx No me subestimes solo porque sea diminuta.■Tal vez sea chiquita ahora, pero pronto crecere!
+255  0  0	Miyako_W0AA07.adx Oww, mis manos se entumecen cuando las cierro.■Supongo que mi kung fu no es lo  suficientemente■fuerte  todavia.
+255  0  0	Miyako_W0AA08.adx Lo duro corta lo blando!■Esos ataques tan simples no me haran nada!
+255  0  1	Miyako_W0AA09.adx Okay,suficiente entrenamiento por hoy!■Ahora solo tengo que vigilar la mansion Tohno! 
+255  0  0	Miyako_W0AA10.adx Waah, Estoy toda sudada.■Si, hoy fue un dia agotador,■asi que es  hora de tomar un descanso.
+255  0  0	Miyako_W0AA11.adx Gracias por el duelo!!■Um, peleemos de nuevo alguna vez si no te molesta!■Osu!
+255  0  1	Miyako_W0AA12.adx Si si si!!■Soy un poco fuerte,  a que si?■Tal vez ahora pueda vencer al  Maestro Panda?!
+255  0  0	Miyako_W0AA13.adx No no, Necesito entrenar mas duro.■Mi hermano mayor no me alabara a este ritmo.
+255  0  1	Miyako_W0AA14.adx Que te parecio eso eh?!!■Mientras mi hermano mayor este aqui,■Yo, Miyako Arima, seguire el camino del golpe cerrado! 
+  7  0  1	Miyako_W0AA15.adx Hermano mayor OBTENIDO!!■Ehehe, cuando volvamos,  Hare que le eches■un vistazo  a mi tarea～ ♪ 
+ 15  0  0	Miyako_W0AA16.adx Hmm? No lo entiendo mucho,■pero mi hermano mayor se veia salvaje.■Si, daba un poco de miedo,■pero un poco genial asi que.
+  6  0  0	Miyako_W0AA17.adx Q-Que tal eso,Kohaku-sensei?■He estado aprendiendo a hacer cosas tal como■hacer que la energia de mis golpes explote■asi no  perdere ni contra robotos.
+ 35  0  0	Miyako_W0AA17.adx Q-Que tal eso,Kohaku-sensei?■He estado aprendiendo a hacer cosas tal como■hacer que la energia de mis golpes explote■asi no  perdere ni contra robotos 
+  3  0  0	Miyako_W0AA18.adx Que tal eso? Me deshice de la Reina Malvada!■Ahora mi hermano mayor me pertenece!
+ 29  0  0	Miyako_W0AA18.adx Que tal eso? Me deshice de la Reina Malvada!■Ahora mi hermano mayor me pertenece!
+ 14  0  1	Miyako_W0AA19.adx Yay, el Baji Quan  funciona en robots tambien!■Laseres y misiles y todo eso deben ser■cosas del mal despues de todo!
+ 20  0  0	Miyako_W0AA20.adx Q-Que? Como tu ultimo pedido, quieres que diga esto?■Umm, "Tirando mis unicas medias, reencarnada■con un vestido Chino carmesi para vencer a un  gato feo.■Si no lo haces,  quien lo hara?" No lo entiendo.
+ 34  0  0	Miyako_W0AA20.adx Q-Que? Como tu ultimo pedido, quieres que diga esto?■Umm, "Tirando mis unicas medias, reencarnada■con un vestido Chino carmesi para vencer a un  gato feo.■Si no lo haces,  quien lo hara?" No lo entiendo.
+ 25  0  0	Miyako_W0AA21.adx Uh, Que?■Digo, que??
+
+// アーケードモードで固定CPUに勝利した時用
+ 31  1  0	Miyako_W0AA00.adx Hmm, who was that person? ■Probably part of the cats' vanguard…… ■Well, he was nothing special so I can just ignore him!
+ 17  1  0	Miyako_W0AA01.adx H-Huh? She seemed like a really nice person…… ■and she went easy on me…… I-I'm so sorry, Onee-chan!■As soon as I'm done punishing those stupid cats ■I'll come back and give you a proper apology! 
+ 34  1  0	Miyako_W0AA02.adx Alright! Once again, I'm completely victorious! ■You stupid cats can chop wood and draw water■a thousand times while you reflect on your actions! 
+
+END
