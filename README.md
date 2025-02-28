@@ -34,14 +34,14 @@ Cuando uses este mod, asegúrate de extraer los siguientes archivos **[  ].p**  
 
 ## Credits and what-not
 
-- [mirror moon](http://mirrormoon.org/projects/idle/melty-blood-actress-again-current-code/)
+- [mirror moon](http://mirrormoon.org/projects/idle/melty-blood-actress-again-current-code/)\
 Responsible for the Community Edition's English TL (as far as I know) 
 
-- Evinstar
+- Evinstar\
 Responsible for starting to translate the Community Edition's win quotes to Spanish on their own
 
-- OtaKumo
+- OtaKumo\
 Edited the modified .exe through a different hex editor and figured out what was causing some missing sounds
 
-- Cordo, Morrocoy
+- Cordo, Morrocoy\
 First playtesters of Evin's build alongside OtaKumo
